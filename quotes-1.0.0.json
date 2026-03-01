@@ -1,0 +1,92 @@
+[
+  {
+    "id": "q1",
+    "category": "Daily",
+    "text": {
+      "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "english": "Indeed, with hardship comes ease.",
+      "hindi": "निस्संदेह, कठिनाई के साथ आसानी है।"
+    },
+    "reference": "Quran 94:6", 
+  },
+  {
+    "id": "q2",
+    "category": "Hadith",
+    "text": {
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "english": "The best among you are those who learn the Quran and teach it.",
+      "hindi": "तुम में सबसे अच्छा वह है जो कुरआन सीखे और सिखाए।"
+    },
+    "reference": "Sahih al-Bukhari 5027", 
+  },
+  {
+    "id": "q3",
+    "category": "Prophetic",
+    "text": {
+      "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
+      "english": "Actions are judged by intentions.",
+      "hindi": "अमल का दरमदार नीयत पर है।"
+    },
+    "reference": "Sahih al-Bukhari 1", 
+  },
+  {
+    "id": "q4",
+    "category": "Life",
+    "text": {
+      "arabic": "وَتَوَكَّلْ عَلَى اللَّهِ",
+      "english": "And rely upon Allah.",
+      "hindi": "और अल्लाह पर भरोसा रखो।"
+    },
+    "reference": "Quran 33:3", 
+  },
+  {
+    "id": "q5",
+    "category": "Motivational",
+    "text": {
+      "arabic": "لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ",
+      "english": "Do not despair of the mercy of Allah.",
+      "hindi": "अल्लाह की रहमत से मायूस मत हो।"
+    },
+    "reference": "Quran 39:53", 
+  },
+  {
+    "id": "q6",
+    "category": "Family",
+    "text": {
+      "arabic": "خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ",
+      "english": "The best of you are those best to their families.",
+      "hindi": "तुम में सबसे अच्छा वह है जो अपने परिवार के लिए अच्छा हो।"
+    },
+    "reference": "Jami at-Tirmidhi 3895", 
+  },
+  {
+    "id": "q7",
+    "category": "Jummah",
+    "text": {
+      "arabic": "فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ",
+      "english": "Hasten to the remembrance of Allah.",
+      "hindi": "अल्लाह की याद की ओर तेजी से बढ़ो।"
+    },
+    "reference": "Quran 62:9", 
+  },
+  {
+    "id": "q8",
+    "category": "Eid",
+    "text": {
+      "arabic": "وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ",
+      "english": "Glorify Allah for having guided you.",
+      "hindi": "अल्लाह की बड़ाई बयान करो जिसने तुम्हें राह दिखाई।"
+    },
+    "reference": "Quran 2:185", 
+  },
+  {
+    "id": "q9",
+    "category": "Ramadan",
+    "text": {
+      "arabic": "الصَّوْمُ لِي وَأَنَا أَجْزِي بِهِ",
+      "english": "Fasting is for Me, and I reward it.",
+      "hindi": "रोज़ा मेरे लिए है और उसका बदला मैं दूंगा।"
+    },
+    "reference": "Sahih al-Bukhari 1904", 
+  }
+]
