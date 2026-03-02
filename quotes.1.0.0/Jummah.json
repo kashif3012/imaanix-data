@@ -1,0 +1,265 @@
+[
+  {
+    "id": "jummah-1",
+    "category": "Jummah",
+    "text": {
+      "arabic": "جُمُعَةٌ مُبَارَكَةٌ يوم الرحمة والمغفرة",
+      "english": "Jummah Mubarak — a day of mercy and forgiveness. It is a weekly gift from Allah where duas are accepted, sins are forgiven, and hearts reconnect with faith.",
+      "hindi": "जुमा मुबारक — रहमत और मग़फिरत का दिन। यह अल्लाह की तरफ से हफ्ते का खास तोहफा है जिसमें दुआएं कबूल होती हैं।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-2",
+    "category": "Jummah",
+    "text": {
+      "arabic": "خير يوم طلعت عليه الشمس يوم الجمعة",
+      "english": "The best day upon which the sun rises is Friday. It is a day of blessings, reflection, and renewed spiritual strength.",
+      "hindi": "सबसे बेहतर दिन जुमा है। यह बरकत, सोच-विचार और ईमान को मजबूत करने का दिन है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-3",
+    "category": "Jummah",
+    "text": {
+      "arabic": "في يوم الجمعة ساعة لا يرد فيها الدعاء",
+      "english": "On Friday there is a special hour in which no sincere dua is rejected. Seek that blessed moment with hope and certainty.",
+      "hindi": "जुमा के दिन एक ऐसा वक्त है जिसमें दुआ रद्द नहीं होती। उसे तलाश करो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-4",
+    "category": "Jummah",
+    "text": {
+      "arabic": "أكثروا من الصلاة على النبي يوم الجمعة",
+      "english": "Increase your blessings upon the Prophet ﷺ on Friday. Sending peace upon him brings immense reward and spiritual light.",
+      "hindi": "जुमा के दिन नबी ﷺ पर ज्यादा दरूद भेजो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-5",
+    "category": "Jummah",
+    "text": {
+      "arabic": "سورة الكهف نور ما بين الجمعتين",
+      "english": "Reciting Surah Al-Kahf on Friday becomes a light between two Fridays, guiding the believer through darkness.",
+      "hindi": "जुमा के दिन सूरह कहफ पढ़ना दो जुमों के बीच नूर बनता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "ramadan-long-1",
+    "category": "Ramadan",
+    "text": {
+      "arabic": "رمضان شهر الرحمة والمغفرة وتزكية القلوب",
+      "english": "Ramadan is the month of mercy, forgiveness, and purification of hearts. Every fast teaches patience, every prayer builds hope, and every dua brings a believer closer to Allah.",
+      "hindi": "रमज़ान रहमत, मग़फिरत और दिलों की सफाई का महीना है। हर रोज़ा सब्र सिखाता है और हर दुआ इंसान को अल्लाह के करीब लाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "ramadan-long-2",
+    "category": "Ramadan",
+    "text": {
+      "arabic": "في رمضان تفتح أبواب الجنة وتغلق أبواب النار",
+      "english": "In Ramadan the doors of Paradise are opened and the doors of Hell are closed. It is a chance to rebuild faith and begin a new chapter of obedience.",
+      "hindi": "रमज़ान में जन्नत के दरवाज़े खोल दिए जाते हैं और जहन्नम के बंद कर दिए जाते हैं। यह नई शुरुआत का मौका है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "ramadan-long-3",
+    "category": "Ramadan",
+    "text": {
+      "arabic": "رمضان مدرسة الصبر والإحسان",
+      "english": "Ramadan is a school of patience and kindness. Hunger teaches humility, charity teaches compassion, and night prayers strengthen faith.",
+      "hindi": "रमज़ान सब्र और नेकी की तालीम देता है। भूख विनम्रता सिखाती है और इबादत ईमान को मजबूत करती है।"
+    },
+    "reference": ""
+  },
+
+  {
+    "id": "alvida-jummah-1",
+    "category": "Alvida Jummah",
+    "text": {
+      "arabic": "جمعة الوداع تذكرنا بقرب نهاية رمضان",
+      "english": "Alvida Jummah reminds us that Ramadan is nearing its end. It is a moment to seek forgiveness, complete unfinished worship, and ask Allah to accept every effort.",
+      "hindi": "अलविदा जुमा याद दिलाता है कि रमज़ान खत्म होने वाला है। यह माफी मांगने और इबादत पूरी करने का मौका है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "alvida-jummah-2",
+    "category": "Alvida Jummah",
+    "text": {
+      "arabic": "اللهم تقبل منا صيامنا وقيامنا في آخر جمعة من رمضان",
+      "english": "O Allah, accept our fasting and prayers in this final Friday of Ramadan. Let our efforts become forgiveness and lasting mercy.",
+      "hindi": "ऐ अल्लाह! रमज़ान के इस आख़िरी जुमा में हमारे रोज़े और इबादत कबूल कर।"
+    },
+    "reference": "Dua"
+  },
+  {
+    "id": "alvida-jummah-3",
+    "category": "Alvida Jummah",
+    "text": {
+      "arabic": "آخر جمعة من رمضان فرصة أخيرة للعودة إلى الله",
+      "english": "The last Friday of Ramadan is a final opportunity to return sincerely to Allah. A single sincere tear may erase years of mistakes.",
+      "hindi": "रमज़ान का आख़िरी जुमा अल्लाह की तरफ सच्चे दिल से लौटने का आख़िरी मौका है।"
+    },
+    "reference": ""
+  },
+
+  {
+    "id": "jummah-6",
+    "category": "Jummah",
+    "text": {
+      "arabic": "اغتنموا يوم الجمعة بالتوبة",
+      "english": "Make the most of Friday through sincere repentance. It is a day to cleanse the heart and renew commitment to Allah.",
+      "hindi": "जुमा के दिन सच्ची तौबा करो और दिल को साफ करो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-7",
+    "category": "Jummah",
+    "text": {
+      "arabic": "جمعة تذكرنا بلقاء الله",
+      "english": "Friday reminds us of the final gathering before Allah. Reflect on your deeds and renew your intentions.",
+      "hindi": "जुमा क़यामत की याद दिलाता है और अपने अमल सुधारने का मौका देता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-8",
+    "category": "Jummah",
+    "text": {
+      "arabic": "جمعة بداية جديدة للطاعة",
+      "english": "Let this Friday be a fresh start toward obedience and sincerity. Small changes today bring lasting rewards tomorrow.",
+      "hindi": "इस जुमा को नेकियों की नई शुरुआत बनाओ।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-9",
+    "category": "Jummah",
+    "text": {
+      "arabic": "المسجد في يوم الجمعة ملتقى القلوب",
+      "english": "On Friday, the mosque becomes a meeting place of hearts united in remembrance of Allah.",
+      "hindi": "जुमा के दिन मस्जिद दिलों को जोड़ने की जगह बन जाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-10",
+    "category": "Jummah",
+    "text": {
+      "arabic": "جمعة فرصة لمراجعة النفس",
+      "english": "Friday is an opportunity for self-reflection. Correct your mistakes and renew your spiritual goals.",
+      "hindi": "जुमा अपने आप को सुधारने और सोचने का दिन है।"
+    },
+    "reference": ""
+  },
+
+  {
+    "id": "jummah-11",
+    "category": "Jummah",
+    "text": {
+      "arabic": "الدعاء يوم الجمعة مفتاح الفرج",
+      "english": "Dua on Friday is a key to relief. Place your worries before Allah with full trust.",
+      "hindi": "जुमा की दुआ राहत की चाबी है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-12",
+    "category": "Jummah",
+    "text": {
+      "arabic": "الطهارة يوم الجمعة زينة المؤمن",
+      "english": "Cleanliness and preparation for Friday prayer beautify the believer both outwardly and inwardly.",
+      "hindi": "जुमा की तैयारी और पाकी मोमिन की पहचान है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-13",
+    "category": "Jummah",
+    "text": {
+      "arabic": "اجعل جمعتك مليئة بالذكر",
+      "english": "Fill your Friday with remembrance of Allah, for every ذكر brings peace and reward.",
+      "hindi": "अपने जुमा को ज़िक्र से भर दो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-14",
+    "category": "Jummah",
+    "text": {
+      "arabic": "جمعة بركة في الرزق والوقت",
+      "english": "Friday brings blessings in time and sustenance when honored with sincerity.",
+      "hindi": "जुमा में बरकत है अगर उसे सही तरीके से मनाया जाए।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-15",
+    "category": "Jummah",
+    "text": {
+      "arabic": "استقبل الجمعة بقلب نقي",
+      "english": "Welcome Friday with a pure heart free from grudges and filled with hope.",
+      "hindi": "जुमा को साफ दिल और उम्मीद के साथ अपनाओ।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-16",
+    "category": "Jummah",
+    "text": {
+      "arabic": "جمعة فرصة لمغفرة الذنوب",
+      "english": "Friday is a chance for forgiveness between two Fridays for those who seek it sincerely.",
+      "hindi": "जुमा दो जुमों के बीच गुनाहों की माफी का मौका है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-17",
+    "category": "Jummah",
+    "text": {
+      "arabic": "الجمعة تذكرنا بنعمة الإسلام",
+      "english": "Friday reminds us of the blessing of Islam and unity in worship.",
+      "hindi": "जुमा इस्लाम की नेमत की याद दिलाता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-18",
+    "category": "Jummah",
+    "text": {
+      "arabic": "لا تنس قراءة القرآن في يوم الجمعة",
+      "english": "Do not forget to recite the Qur’an on Friday; it brings light into your week.",
+      "hindi": "जुमा के दिन क़ुरआन पढ़ना मत भूलो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-19",
+    "category": "Jummah",
+    "text": {
+      "arabic": "جمعة بداية صفحة جديدة",
+      "english": "Let Friday be the start of a new page in your spiritual journey.",
+      "hindi": "जुमा को अपनी रूहानी जिंदगी का नया पन्ना बनाओ।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "jummah-20",
+    "category": "Jummah",
+    "text": {
+      "arabic": "اللهم اجعل هذه الجمعة فرجاً لكل مهموم",
+      "english": "O Allah, make this Friday a relief for every worried heart and a source of peace for every soul.",
+      "hindi": "ऐ अल्लाह! इस जुमा को हर परेशान दिल के लिए राहत बना दे।"
+    },
+    "reference": ""
+  }
+]
