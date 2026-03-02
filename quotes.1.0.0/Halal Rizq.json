@@ -1,0 +1,102 @@
+[
+  {
+    "id": "halal-rizq-1",
+    "category": "Halal Rizq",
+    "text": {
+      "arabic": "الرزق الحلال بركة لا تزول",
+      "english": "Halal provision carries lasting blessings. Even if it appears small, it nourishes the heart with peace and keeps life free from hidden burdens.",
+      "hindi": "हलाल रिज़्क में बरकत होती है। चाहे कम हो लेकिन सुकून और खुशहाली लाता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "halal-rizq-2",
+    "category": "Halal Rizq",
+    "text": {
+      "arabic": "ما عند الله لا ينال إلا بطاعته",
+      "english": "What Allah has prepared for you will never miss you. Seek halal earnings with patience and trust rather than shortcuts.",
+      "hindi": "जो अल्लाह ने लिखा है वह जरूर मिलेगा, इसलिए हलाल रास्ता चुनो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "halal-rizq-3",
+    "category": "Halal Rizq",
+    "text": {
+      "arabic": "القليل الحلال خير من الكثير الحرام",
+      "english": "A little halal wealth is better than abundant unlawful gain. True richness lies in barakah, not numbers.",
+      "hindi": "कम हलाल ज्यादा हराम से बेहतर है। असली दौलत बरकत है।"
+    },
+    "reference": "Hadith"
+  },
+  {
+    "id": "halal-rizq-4",
+    "category": "Halal Rizq",
+    "text": {
+      "arabic": "الرزق مكتوب قبل أن تولد",
+      "english": "Your sustenance was written before you were born. Fear Allah, not poverty, and earn through honesty.",
+      "hindi": "रिज़्क जन्म से पहले लिखा जा चुका है। गरीबी से नहीं बल्कि हराम से डरना चाहिए।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "halal-rizq-5",
+    "category": "Halal Rizq",
+    "text": {
+      "arabic": "العمل الصادق عبادة",
+      "english": "Honest work becomes worship when done sincerely. Every halal effort earns reward beyond salary.",
+      "hindi": "ईमानदारी से किया गया काम इबादत बन जाता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "halal-rizq-6",
+    "category": "Halal Rizq",
+    "text": {
+      "arabic": "من ترك شيئاً لله عوضه خيراً",
+      "english": "Whoever leaves something for Allah, He replaces it with better. Avoiding haram income invites unseen blessings.",
+      "hindi": "जो अल्लाह के लिए हराम छोड़ता है उसे बेहतर मिलता है।"
+    },
+    "reference": "Hadith Meaning"
+  },
+  {
+    "id": "halal-rizq-7",
+    "category": "Halal Rizq",
+    "text": {
+      "arabic": "البركة في الرضا",
+      "english": "Contentment multiplies provision. Gratitude toward halal earnings invites peace into homes.",
+      "hindi": "हलाल कमाई पर संतोष बरकत लाता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "halal-rizq-8",
+    "category": "Halal Rizq",
+    "text": {
+      "arabic": "الدعاء يفتح أبواب الرزق",
+      "english": "Dua opens doors of sustenance where effort alone cannot reach.",
+      "hindi": "दुआ रिज़्क के बंद दरवाज़े खोल देती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "halal-rizq-9",
+    "category": "Halal Rizq",
+    "text": {
+      "arabic": "الحرام يذهب البركة",
+      "english": "Unlawful wealth removes blessings even when it increases in amount.",
+      "hindi": "हराम कमाई बरकत खत्म कर देती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "halal-rizq-10",
+    "category": "Halal Rizq",
+    "text": {
+      "arabic": "توكل على الله في طلب الرزق",
+      "english": "Seek provision while trusting Allah. Rizq follows effort guided by faith.",
+      "hindi": "रिज़्क तलाश करो लेकिन भरोसा अल्लाह पर रखो।"
+    },
+    "reference": ""
+  }
+]
