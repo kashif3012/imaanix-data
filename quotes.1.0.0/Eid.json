@@ -1,207 +1,233 @@
-[{
-  "id": "eid-ultra-16",
-  "category": "Eid",
-  "text": {
-    "arabic": "عِيدٌ مُبَارَكٌ، نَسْأَلُ اللَّهَ أَنْ يَجْعَلَ هَذَا الْيَوْمَ بَدَايَةَ فَرَحٍ وَرَحْمَةٍ لَكُمْ",
-    "english": "Eid Mubarak. May Allah make this blessed day the beginning of endless happiness, forgiveness, and new opportunities filled with mercy and success for you and your loved ones.",
-    "hindi": "ईद मुबारक। अल्लाह इस मुबारक दिन को आपके लिए खुशियों, मग़फिरत और नई कामयाबियों की शुरुआत बना दे।"
-  },
- "reference": ""
-},{
-  "id": "eid-ultra-17",
-  "category": "Eid",
-  "text": {
-    "arabic": "عِيدٌ مُبَارَكٌ، جَعَلَ اللَّهُ قُلُوبَكُمْ مُمْتَلِئَةً بِالسَّلَامِ وَالنُّورِ",
-    "english": "Eid Mubarak. May Allah fill your heart with peace, your home with laughter, and your life with barakah that continues long after this beautiful day has passed.",
-    "hindi": "ईद मुबारक। अल्लाह आपके दिल को सुकून, घर को खुशियों और जिंदगी को बरकतों से भर दे।"
-  },
- "reference": ""
-},{
-  "id": "eid-ultra-18",
-  "category": "Eid",
-  "text": {
-    "arabic": "عِيدٌ مُبَارَكٌ، اللَّهُمَّ تَقَبَّلْ دُعَاءَنَا وَاغْفِرْ ذُنُوبَنَا",
-    "english": "Eid Mubarak. May Allah accept every sincere prayer you made in silence, forgive every mistake, and replace every hardship with comfort (sabr) and happiness.",
-    "hindi": "ईद मुबारक। अल्लाह आपकी हर खामोश दुआ कबूल करे, गुनाह माफ़ करे और हर मुश्किल को आसानी में बदल दे।"
-  },
- "reference": ""
-},{
-  "id": "eid-ultra-19",
-  "category": "Eid",
-  "text": {
-    "arabic": "عِيدٌ مُبَارَكٌ، جَعَلَ اللَّهُ أَيَّامَكُمْ كُلَّهَا أَعْيَادًا وَفَرَحًا",
-    "english": "Eid Mubarak. May Allah turn every coming day of your life into moments of celebration, gratitude, and success, and protect your family with His endless mercy.",
-    "hindi": "ईद मुबारक। अल्लाह आपकी जिंदगी के हर दिन को खुशी, शुक्र और कामयाबी से भर दे और आपके परिवार की हिफाज़त फरमाए।"
-  },
- "reference": ""
-},{
-  "id": "eid-ultra-20",
-  "category": "Eid",
-  "text": {
-    "arabic": "عِيدٌ مُبَارَكٌ، نَسْأَلُ اللَّهَ أَنْ يَرْزُقَكُمْ سَعَادَةً دَائِمَةً وَرِزْقًا وَاسِعًا",
-    "english": "Eid Mubarak. May Allah grant you lasting happiness, halal sustenance, strong faith, and a heart that always finds comfort in remembering Him.",
-    "hindi": "ईद मुबारक। अल्लाह आपको हमेशा की खुशी, हलाल रिज़्क, मजबूत ईमान और अपने ज़िक्र में सुकून पाने वाला दिल अता करे।"
-  },
- "reference": ""
-},
-  {
-    "id": "eid-greeting-1",
-    "category": "Eid",
-    "text": {
-      "arabic": "تَقَبَّلَ اللَّهُ مِنَّا وَمِنكُمْ وَجَعَلَ هَذَا الْعِيدَ فَرَحًا وَبَرَكَةً لَكُمْ وَلِعَائِلَتِكُمْ",
-      "english": "May Allah accept our and your prayers and may this Eid bring happiness and blessings to you and your family.",
-      "hindi": "अल्लाह हमारी और आपकी इबादतें कबूल करे और यह ईद आपके और आपके परिवार के लिए खुशियों और बरकत का ज़रिया बने।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-greeting-2",
-    "category": "Eid",
-    "text": {
-      "arabic": "عِيدٌ مُبَارَكٌ، أَسْأَلُ اللَّهَ أَنْ يَمْلَأَ قُلُوبَكُمْ سَلَامًا وَإِيمَانًا",
-      "english": "Eid Mubarak. May Allah fill your heart with peace and strengthen your faith.",
-      "hindi": "ईद मुबारक। अल्लाह आपके दिल को सुकून और ईमान से भर दे।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-greeting-3",
-    "category": "Eid",
-    "text": {
-      "arabic": "اللَّهُمَّ اجْعَلْ هَذَا الْعِيدَ بَدَايَةَ خَيْرٍ وَسَعَادَةٍ وَمَغْفِرَةٍ",
-      "english": "O Allah, make this Eid a beginning of goodness, forgiveness, and happiness.",
-      "hindi": "ऐ अल्लाह इस ईद को खुशी और मग़फिरत की नई शुरुआत बना दे।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-greeting-4",
-    "category": "Eid",
-    "text": {
-      "arabic": "كُلُّ عَامٍ وَأَنْتُمْ بِخَيْرٍ",
-      "english": "May you remain in goodness every year and may Allah bless your days with joy.",
-      "hindi": "हर साल आप सलामत रहें और खुशियों से भरपूर रहें।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-greeting-5",
-    "category": "Eid",
-    "text": {
-      "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا وَأَدِمْ عَلَيْنَا نِعْمَتَكَ",
-      "english": "Our Lord accept from us and continue Your blessings upon us this Eid and always.",
-      "hindi": "ऐ हमारे रब हमसे कबूल फरमा और अपनी नेमतें कायम रख।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-greeting-6",
-    "category": "Eid",
-    "text": {
-      "arabic": "عِيدُكُمْ سَعِيدٌ وَمُبَارَكٌ",
-      "english": "Happy and blessed Eid. May Allah return this day upon you with mercy and prosperity.",
-      "hindi": "खुशियों भरी और मुबारक ईद। अल्लाह बरकतें अता करे।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-greeting-7",
-    "category": "Eid",
-    "text": {
-      "arabic": "اللَّهُمَّ اجْمَعْ قُلُوبَنَا عَلَى السَّلَامِ",
-      "english": "O Allah unite our hearts in peace this Eid and bless our homes with harmony.",
-      "hindi": "ऐ अल्लाह इस ईद पर हमारे दिलों को मोहब्बत और अमन पर जोड़ दे।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-greeting-8",
-    "category": "Eid",
-    "text": {
-      "arabic": "جَعَلَ اللَّهُ هَذَا الْعِيدَ فَرَجًا لِكُلِّ مَهْمُومٍ",
-      "english": "May Allah make this Eid relief for every worried heart and healing for every soul.",
-      "hindi": "अल्लाह इस ईद को हर परेशान दिल के लिए राहत बना दे।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-greeting-9",
-    "category": "Eid",
-    "text": {
-      "arabic": "نَسْأَلُ اللَّهَ أَنْ يَكْتُبَ لَكُمْ سَعَادَةً دَائِمَةً",
-      "english": "We ask Allah to write lasting happiness and accepted deeds for you this Eid.",
-      "hindi": "अल्लाह आपके लिए हमेशा की खुशियां लिख दे।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-greeting-10",
-    "category": "Eid",
-    "text": {
-      "arabic": "نَسْأَلُ اللَّهَ نُورًا فِي قُلُوبِكُمْ وَبَرَكَةً فِي رِزْقِكُمْ",
-      "english": "May Allah grant light in your hearts and barakah in your sustenance this Eid.",
-      "hindi": "अल्लाह आपके दिल में नूर और रिज़्क में बरकत दे।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-ultra-11",
-    "category": "Eid",
-    "text": {
-      "arabic": "اللَّهُمَّ اجْعَلْ هَذَا الْعِيدَ بَابًا لِلسُّرُورِ",
-      "english": "O Allah, let this Eid open doors of joy and close every chapter of sadness in our lives.",
-      "hindi": "ऐ अल्लाह इस ईद को खुशियों का दरवाज़ा बना दे।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-ultra-12",
-    "category": "Eid",
-    "text": {
-      "arabic": "عِيدٌ يَحْمِلُ الرَّحْمَةَ وَالنُّورَ",
-      "english": "May this Eid carry mercy and light into every believing heart.",
-      "hindi": "यह ईद हर दिल में रहमत और नूर भर दे।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-ultra-13",
-    "category": "Eid",
-    "text": {
-      "arabic": "اللَّهُمَّ بَارِكْ أَيَّامَنَا",
-      "english": "O Allah bless our days and unite us upon goodness.",
-      "hindi": "ऐ अल्लाह हमारे दिनों में बरकत दे।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-ultra-14",
-    "category": "Eid",
-    "text": {
-      "arabic": "عِيدٌ يَزْدَادُ فِيهِ الشُّكْرُ",
-      "english": "Eid reminds us to be grateful, forgive more, and cherish relationships.",
-      "hindi": "ईद शुक्र अदा करने और रिश्तों को मजबूत करने का दिन है।"
-    },
-   "reference": ""
-  },
-  {
-    "id": "eid-ultra-15",
-    "category": "Eid",
-    "text": {
-      "arabic": "اللَّهُمَّ اجْعَلْ الْعِيدَ سَلَامًا",
-      "english": "O Allah make this Eid a source of peace and happiness for all humanity.",
-      "hindi": "ऐ अल्लाह इस ईद को पूरी इंसानियत के लिए अमन बना दे।"
-    },
-    "reference": ""
-  },
+[
     {
-    "id": "eid-bukhari-989",
-    "category": "Eid",
-    "text": {
-      "arabic": "إِنَّ لِكُلِّ قَوْمٍ عِيدًا وَهَذَا عِيدُنَا",
-      "english": "Every nation has its festival, and this is our festival.",
-      "hindi": "हर क़ौम का एक त्योहार होता है और यह हमारा त्योहार है।"
+        "id": "eid-ultra-16",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "عِيدٌ مُبَارَكٌ، نَسْأَلُ اللَّهَ أَنْ يَجْعَلَ هَذَا الْيَوْمَ بَدَايَةَ فَرَحٍ وَرَحْمَةٍ لَكُمْ",
+            "english": "Eid Mubarak. May Allah make this blessed day the beginning of endless happiness, forgiveness, and new opportunities filled with mercy and success for you and your loved ones.",
+            "hindi": "ईद मुबारक। अल्लाह इस मुबारक दिन को आपके लिए खुशियों, मग़फिरत और नई कामयाबियों की शुरुआत बना दे।"
+        },
+        "reference": ""
     },
-    "reference": "Sahih al-Bukhari 989"
-  },
+    {
+        "id": "eid-ultra-17",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "عِيدٌ مُبَارَكٌ، جَعَلَ اللَّهُ قُلُوبَكُمْ مُمْتَلِئَةً بِالسَّلَامِ وَالنُّورِ",
+            "english": "Eid Mubarak. May Allah fill your heart with peace, your home with laughter, and your life with barakah that continues long after this beautiful day has passed.",
+            "hindi": "ईद मुबारक। अल्लाह आपके दिल को सुकून, घर को खुशियों और जिंदगी को बरकतों से भर दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-ultra-18",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "عِيدٌ مُبَارَكٌ، اللَّهُمَّ تَقَبَّلْ دُعَاءَنَا وَاغْفِرْ ذُنُوبَنَا",
+            "english": "Eid Mubarak. May Allah accept every sincere prayer you made in silence, forgive every mistake, and replace every hardship with comfort (sabr) and happiness.",
+            "hindi": "ईद मुबारक। अल्लाह आपकी हर खामोश दुआ कबूल करे, गुनाह माफ़ करे और हर मुश्किल को आसानी में बदल दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-ultra-19",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "عِيدٌ مُبَارَكٌ، جَعَلَ اللَّهُ أَيَّامَكُمْ كُلَّهَا أَعْيَادًا وَفَرَحًا",
+            "english": "Eid Mubarak. May Allah turn every coming day of your life into moments of celebration, gratitude, and success, and protect your family with His endless mercy.",
+            "hindi": "ईद मुबारक। अल्लाह आपकी जिंदगी के हर दिन को खुशी, शुक्र और कामयाबी से भर दे और आपके परिवार की हिफाज़त फरमाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-ultra-20",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "عِيدٌ مُبَارَكٌ، نَسْأَلُ اللَّهَ أَنْ يَرْزُقَكُمْ سَعَادَةً دَائِمَةً وَرِزْقًا وَاسِعًا",
+            "english": "Eid Mubarak. May Allah grant you lasting happiness, halal sustenance, strong faith, and a heart that always finds comfort in remembering Him.",
+            "hindi": "ईद मुबारक। अल्लाह आपको हमेशा की खुशी, हलाल रिज़्क, मजबूत ईमान और अपने ज़िक्र में सुकून पाने वाला दिल अता करे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-greeting-1",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "تَقَبَّلَ اللَّهُ مِنَّا وَمِنكُمْ وَجَعَلَ هَذَا الْعِيدَ فَرَحًا وَبَرَكَةً لَكُمْ وَلِعَائِلَتِكُمْ",
+            "english": "May Allah accept our and your prayers and may this Eid bring happiness and blessings to you and your family.",
+            "hindi": "अल्लाह हमारी और आपकी इबादतें कबूल करे और यह ईद आपके और आपके परिवार के लिए खुशियों और बरकत का ज़रिया बने।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-greeting-2",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "عِيدٌ مُبَارَكٌ، أَسْأَلُ اللَّهَ أَنْ يَمْلَأَ قُلُوبَكُمْ سَلَامًا وَإِيمَانًا",
+            "english": "Eid Mubarak. May Allah fill your heart with peace and strengthen your faith.",
+            "hindi": "ईद मुबारक। अल्लाह आपके दिल को सुकून और ईमान से भर दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-greeting-3",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اجْعَلْ هَذَا الْعِيدَ بَدَايَةَ خَيْرٍ وَسَعَادَةٍ وَمَغْفِرَةٍ",
+            "english": "O Allah, make this Eid a beginning of goodness, forgiveness, and happiness.",
+            "hindi": "ऐ अल्लाह इस ईद को खुशी और मग़फिरत की नई शुरुआत बना दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-greeting-4",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "كُلُّ عَامٍ وَأَنْتُمْ بِخَيْرٍ",
+            "english": "May you remain in goodness every year and may Allah bless your days with joy.",
+            "hindi": "हर साल आप सलामत रहें और खुशियों से भरपूर रहें।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-greeting-5",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا وَأَدِمْ عَلَيْنَا نِعْمَتَكَ",
+            "english": "Our Lord accept from us and continue Your blessings upon us this Eid and always.",
+            "hindi": "ऐ हमारे रब हमसे कबूल फरमा और अपनी नेमतें कायम रख।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-greeting-6",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "عِيدُكُمْ سَعِيدٌ وَمُبَارَكٌ",
+            "english": "Happy and blessed Eid. May Allah return this day upon you with mercy and prosperity.",
+            "hindi": "खुशियों भरी और मुबारक ईद। अल्लाह बरकतें अता करे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-greeting-7",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اجْمَعْ قُلُوبَنَا عَلَى السَّلَامِ",
+            "english": "O Allah unite our hearts in peace this Eid and bless our homes with harmony.",
+            "hindi": "ऐ अल्लाह इस ईद पर हमारे दिलों को मोहब्बत और अमन पर जोड़ दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-greeting-8",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "جَعَلَ اللَّهُ هَذَا الْعِيدَ فَرَجًا لِكُلِّ مَهْمُومٍ",
+            "english": "May Allah make this Eid relief for every worried heart and healing for every soul.",
+            "hindi": "अल्लाह इस ईद को हर परेशान दिल के लिए राहत बना दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-greeting-9",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "نَسْأَلُ اللَّهَ أَنْ يَكْتُبَ لَكُمْ سَعَادَةً دَائِمَةً",
+            "english": "We ask Allah to write lasting happiness and accepted deeds for you this Eid.",
+            "hindi": "अल्लाह आपके लिए हमेशा की खुशियां और कबूल अमल लिख दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-greeting-10",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "نَسْأَلُ اللَّهَ نُورًا فِي قُلُوبِكُمْ وَبَرَكَةً فِي رِزْقِكُمْ",
+            "english": "May Allah grant light in your hearts and barakah in your sustenance this Eid.",
+            "hindi": "अल्लाह आपके दिल में नूर और रिज़्क में बरकत दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-ultra-11",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اجْعَلْ هَذَا الْعِيدَ بَابًا لِلسُّرُورِ",
+            "english": "O Allah, let this Eid open doors of joy and close every chapter of sadness in our lives.",
+            "hindi": "ऐ अल्लाह इस ईद को खुशियों का दरवाज़ा बना दे और हर ग़म को दूर कर दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-ultra-12",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "عِيدٌ يَحْمِلُ الرَّحْمَةَ وَالنُّورَ",
+            "english": "May this Eid carry mercy and light into every believing heart.",
+            "hindi": "यह ईद हर दिल में रहमत और नूर भर दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-ultra-13",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ بَارِكْ أَيَّامَنَا",
+            "english": "O Allah bless our days and unite us upon goodness.",
+            "hindi": "ऐ अल्लाह हमारे दिनों में बरकत दे और हमें भलाई पर एकजुट रख।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-ultra-14",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "عِيدٌ يَزْدَادُ فِيهِ الشُّكْرُ",
+            "english": "Eid reminds us to be grateful, forgive more, and cherish relationships.",
+            "hindi": "ईद शुक्र अदा करने, माफ़ करने और रिश्तों को मजबूत करने का दिन है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-ultra-15",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اجْعَلْ الْعِيدَ سَلَامًا",
+            "english": "O Allah make this Eid a source of peace and happiness for all humanity.",
+            "hindi": "ऐ अल्लाह इस ईद को पूरी इंसानियत के लिए अमन बना दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "eid-bukhari-989",
+        "category": "Eid",
+        "text":
+        {
+            "arabic": "إِنَّ لِكُلِّ قَوْمٍ عِيدًا وَهَذَا عِيدُنَا",
+            "english": "Every nation has its festival, and this is our festival.",
+            "hindi": "हर क़ौम का एक त्योहार होता है और यह हमारा त्योहार है।"
+        },
+        "reference": "Sahih al-Bukhari 989"
+    }
 ]
