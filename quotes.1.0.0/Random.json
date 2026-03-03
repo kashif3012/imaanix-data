@@ -1,0 +1,332 @@
+[
+    {
+        "id": "islamic-general-1",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "التقوى أساس كل خير",
+            "english": "Taqwa is the foundation of every goodness. When a person becomes conscious of Allah in private and public, life transforms into a path of wisdom and protection.",
+            "hindi": "तक़वा हर भलाई की बुनियाद है। जब इंसान हर हाल में अल्लाह को याद रखता है तो उसकी जिंदगी बदल जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-2",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الدنيا طريق والآخرة المقصد",
+            "english": "This world is only a road, while the Hereafter is the destination. Wise believers prepare for eternity rather than being lost in temporary pleasures.",
+            "hindi": "दुनिया सिर्फ रास्ता है और आख़िरत मंज़िल है। समझदार इंसान हमेशा मंज़िल की तैयारी करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-3",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الصدق نور يهدي صاحبه",
+            "english": "Truthfulness is a light that guides its owner. Honest words and actions build trust with people and closeness with Allah.",
+            "hindi": "सचाई इंसान को सही रास्ता दिखाने वाला नूर है। सच्चे शब्द और अमल लोगों का भरोसा और अल्लाह की नज़दीकी दिलाते हैं।"
+        },
+        "reference": "Hadith"
+    },
+    {
+        "id": "islamic-general-4",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "العلم عبادة تقرب إلى الله",
+            "english": "Seeking knowledge is worship. Every step taken toward learning brings elevation in both worldly dignity and spiritual rank.",
+            "hindi": "इल्म हासिल करना इबादत है जो इंसान को दुनिया और आख़िरत दोनों में ऊँचा करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-5",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الرحمة بالخلق سبب لرحمة الخالق",
+            "english": "Showing mercy to creation becomes a reason for receiving mercy from the Creator.",
+            "hindi": "मख़लूक पर रहम करना खालिक की रहमत पाने का जरिया है।"
+        },
+        "reference": "Hadith"
+    },
+    {
+        "id": "islamic-general-6",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الموت تذكير بأن الوقت أمانة",
+            "english": "Death reminds us that time is a trust from Allah. Every moment lost without purpose is an opportunity never returning.",
+            "hindi": "मौत याद दिलाती है कि वक्त अल्लाह की अमानत है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-7",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "القلب المتواضع أقرب إلى الله",
+            "english": "A humble heart is closest to Allah. Pride distances a person while humility opens doors of mercy.",
+            "hindi": "नम्र दिल अल्लाह के ज्यादा करीब होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-8",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "النية تحول العادة إلى عبادة",
+            "english": "A sincere intention turns habits into worship. Even daily work becomes rewarded when done seeking Allah’s pleasure.",
+            "hindi": "अच्छी नीयत रोजमर्रा के कामों को भी इबादत बना देती है।"
+        },
+        "reference": "Hadith"
+    },
+    {
+        "id": "islamic-general-9",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الرزق بيد الله لا بيد الناس",
+            "english": "Provision lies in Allah’s hands, not people’s approval. Trusting Him removes fear of scarcity.",
+            "hindi": "रिज़्क अल्लाह के हाथ में है, लोगों के नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-10",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "القرآن شفاء للقلوب",
+            "english": "The Qur’an heals hearts burdened by confusion and sadness. Guidance within it brings clarity to every stage of life.",
+            "hindi": "क़ुरआन दिलों की शिफा है जो जिंदगी को सही रास्ता दिखाता है।"
+        },
+        "reference": "Quran"
+    },
+    {
+        "id": "islamic-general-11",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الغضب لحظة والندم طويل",
+            "english": "Anger lasts a moment but regret lasts long. Controlling emotions protects relationships and faith.",
+            "hindi": "गुस्सा पल भर का होता है लेकिन पछतावा लंबा चलता है।"
+        },
+        "reference": "Hadith"
+    },
+    {
+        "id": "islamic-general-12",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الستر نعمة عظيمة من الله",
+            "english": "Allah’s concealment of faults is a great blessing. Just as He hides our mistakes, we should hide others’ shortcomings.",
+            "hindi": "अल्लाह का हमारे गुनाह छुपाना बड़ी नेमत है, इसलिए दूसरों की गलतियाँ भी छुपाओ।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-13",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "اللسان أمانة فاحفظه",
+            "english": "The tongue is a trust. Words can heal hearts or destroy relationships, so speak only what brings goodness.",
+            "hindi": "जुबान अमानत है, इससे भलाई की बात ही कहो।"
+        },
+        "reference": "Hadith"
+    },
+    {
+        "id": "islamic-general-14",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "أفضل الزاد تقوى القلوب",
+            "english": "The best provision is piety. Wealth fades, but righteousness travels with a believer into eternity.",
+            "hindi": "सबसे अच्छा सामान तक़वा है जो आख़िरत तक साथ जाता है।"
+        },
+        "reference": "Quran"
+    },
+    {
+        "id": "islamic-general-15",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الخير البسيط عند الله عظيم",
+            "english": "Small acts of kindness are great in Allah’s sight. A smile or helping hand may weigh heavily on the Day of Judgment.",
+            "hindi": "छोटी नेकी भी अल्लाह के पास बड़ी होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-16",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "التوبة باب مفتوح دائماً",
+            "english": "Repentance is a door always open. No matter how far one goes, returning to Allah restores hope.",
+            "hindi": "तौबा का दरवाज़ा हमेशा खुला है।"
+        },
+        "reference": "Quran"
+    },
+    {
+        "id": "islamic-general-17",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "النية الصادقة تغير المصير",
+            "english": "A sincere intention can change destiny. Allah judges hearts before actions.",
+            "hindi": "सच्ची नीयत इंसान की तकदीर बदल सकती है। अल्लाह अमल से पहले दिल को देखता है।"
+        },
+        "reference": "Hadith"
+    },
+    {
+        "id": "islamic-general-18",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "القبر أول منازل الآخرة",
+            "english": "The grave is the first station of the Hereafter. Remembering it softens hearts and corrects priorities.",
+            "hindi": "कब्र आख़िरत की पहली मंज़िल है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-19",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الإحسان يرفع صاحبه درجات",
+            "english": "Doing good sincerely elevates a believer’s rank. Excellence in character becomes lasting legacy.",
+            "hindi": "इहसान इंसान को ऊँचे दर्जे देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-20",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "أقرب الطرق إلى الله قلب صادق",
+            "english": "The closest path to Allah is a sincere heart. Simplicity and honesty attract divine mercy.",
+            "hindi": "अल्लाह तक पहुंचने का सबसे आसान रास्ता सच्चा दिल है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-21",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الوقت يمضي والعمل يبقى",
+            "english": "Time passes quickly but deeds remain forever recorded.",
+            "hindi": "वक्त गुजर जाता है लेकिन अमल हमेशा बाकी रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-22",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الخير يعود لصاحبه",
+            "english": "Goodness always returns to its giver. Every kindness becomes a seed for future blessings.",
+            "hindi": "नेकी हमेशा लौटकर आती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-23",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "السكينة هدية من الله",
+            "english": "Inner peace is a gift from Allah granted to hearts that trust Him.",
+            "hindi": "सुकून अल्लाह की तरफ से मिलने वाला तोहफा है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-24",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "العمل الصالح نور في القبر",
+            "english": "Righteous deeds become light in the grave. What you do today becomes comfort tomorrow.",
+            "hindi": "नेक अमल कब्र में रोशनी बनते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-25",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "القلب الحي يذكر الله كثيراً",
+            "english": "A living heart remembers Allah often. Constant remembrance protects from emptiness.",
+            "hindi": "जिंदा दिल वही है जो अल्लाह को याद रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-26",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "العفو قوة وليس ضعفاً",
+            "english": "Forgiveness is strength, not weakness. Pardoning others elevates dignity.",
+            "hindi": "माफ करना कमजोरी नहीं बल्कि ताकत है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-27",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "القلب الممتلئ بالإيمان لا يخاف",
+            "english": "A heart filled with faith fears nothing except displeasing Allah.",
+            "hindi": "ईमान से भरा दिल किसी से नहीं डरता सिवाय अल्लाह की नाराज़गी के।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-28",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "النية الصادقة تبارك الطريق",
+            "english": "Sincere intention brings blessings to every journey.",
+            "hindi": "सच्ची नीयत हर रास्ते में बरकत लाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-29",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "من أصلح سريرته أصلح الله علانيته",
+            "english": "Whoever fixes what is hidden within, Allah beautifies what is seen outside.",
+            "hindi": "जो अपने अंदर को सुधारता है अल्लाह उसके बाहर को भी बेहतर कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "islamic-general-30",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "النجاة في طاعة الله",
+            "english": "True salvation lies in obedience to Allah. A life guided by faith leads safely beyond worldly trials.",
+            "hindi": "असली नजात अल्लाह की इताअत में है।"
+        },
+        "reference": ""
+    }
+]
