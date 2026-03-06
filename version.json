@@ -1,5 +1,23 @@
 {
   "version": "1.0.0",
   "folder": "quotes-1.0.0",
-  "updatedAt": "2026-03-02"
+  "updatedAt": "2026-03-07",
+  "files": [
+    { "file": "Random.json", "category": "Random" },
+    { "file": "Quran.json", "category": "Quran" },
+    { "file": "Hadith.json", "category": "Hadith" },
+    { "file": "Dua.json", "category": "Dua" },
+    { "file": "Sabr.json", "category": "Sabr" },
+    { "file": "Shukr.json", "category": "Shukr" },
+    { "file": "Halal Rizq.json", "category": "Halal Rizq" },
+    { "file": "Faith.json", "category": "Faith" },
+    { "file": "Life.json", "category": "Life" },
+    { "file": "Motivation.json", "category": "Motivational" },
+    { "file": "Honoring Women.json", "category": "Honoring Women" },
+    { "file": "Sacred Marriage.json", "category": "Sacred Marriage" },
+    { "file": "Family.json", "category": "Family" },
+    { "file": "Jummah.json", "category": "Jummah" },
+    { "file": "Eid.json", "category": "Eid" }
+    { "file": "Ramadan.json", "category": "Ramadan" }
+  ]
 }
