@@ -17,7 +17,7 @@
     { "file": "Sacred Marriage.json", "category": "Sacred Marriage" },
     { "file": "Family.json", "category": "Family" },
     { "file": "Jummah.json", "category": "Jummah" },
-    { "file": "Eid.json", "category": "Eid" }
+    { "file": "Eid.json", "category": "Eid" },
     { "file": "Ramadan.json", "category": "Ramadan" }
   ]
 }
