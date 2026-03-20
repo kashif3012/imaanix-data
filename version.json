@@ -13,11 +13,12 @@
     { "file": "Faith.json", "category": "Faith" },
     { "file": "Life.json", "category": "Life" },
     { "file": "Motivation.json", "category": "Motivational" },
-    { "file": "Honoring Women.json", "category": "Honoring Women" },
-    { "file": "Sacred Marriage.json", "category": "Sacred Marriage" },
+    { "file": "Women.json", "category": " Women" },
+    { "file": "Marriage.json", "category": "Marriage" },
     { "file": "Family.json", "category": "Family" },
     { "file": "Jummah.json", "category": "Jummah" },
     { "file": "Eid.json", "category": "Eid" },
     { "file": "Ramadan.json", "category": "Ramadan" }
+    { "file": "Peace.json", "category": "Peace" }
   ] 
 }
