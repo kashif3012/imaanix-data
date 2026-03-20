@@ -1,277 +1,442 @@
 [
+  {
+    "id": "women-1",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-1",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A daughter in Islam is not a burden but a mercy from Allah. Whoever raises her with love, patience, and righteousness will find her as a means to Jannah.",
-            "hindi": "इस्लाम में बेटी बोझ नहीं बल्कि अल्लाह की रहमत है। जो उसे प्यार, सब्र और नेक तरीक़े से पालता है, वह उसके लिए जन्नत का ज़रिया बनती है।"
-        },
-        "reference": ""
+      "arabic": "البنت رحمة من الله، وتربيتها بإحسان طريق إلى الجنة",
+      "english": "A daughter in Islam is not a burden but a mercy from Allah. Whoever raises her with love, patience, and righteousness will find her as a means to Jannah.",
+      "hindi": "इस्लाम में बेटी बोझ नहीं बल्कि अल्लाह की रहमत है। जो उसे प्यार, सब्र और नेक तरीक़े से पालता है, वह उसके लिए जन्नत का ज़रिया बनती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-2",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-2",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A believing girl shines not because of worldly beauty, but because of her modesty, her character, and her connection with Allah.",
-            "hindi": "एक मोमिन लड़की दुनिया की खूबसूरती से नहीं, बल्कि अपनी हया, अपने अख़लाक़ और अल्लाह से अपने रिश्ते की वजह से चमकती है।"
-        },
-        "reference": ""
+      "arabic": "جمال المؤمنة في حيائها ونقاء قلبها وقربها من الله",
+      "english": "A believing girl shines not because of worldly beauty, but because of her modesty, her character, and her connection with Allah.",
+      "hindi": "एक मोमिन लड़की दुनिया की खूबसूरती से नहीं, बल्कि अपनी हया, अपने अख़लाक़ और अल्लाह से अपने रिश्ते की वजह से चमकती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-3",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-3",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "Whoever is blessed with daughters and treats them with kindness and justice will find them as a shield on the Day of Judgment.",
-            "hindi": "जिसे बेटियों की नेमत मिले और वह उनके साथ रहम और इंसाफ का व्यवहार करे, वे क़यामत के दिन उसके लिए ढाल बनेंगी।"
-        },
-        "reference": ""
+      "arabic": "الإحسان إلى البنات سبب للستر يوم القيامة",
+      "english": "Whoever is blessed with daughters and treats them with kindness and justice will find them as a shield on the Day of Judgment.",
+      "hindi": "जिसे बेटियों की नेमत मिले और वह उनके साथ रहम और इंसाफ का व्यवहार करे, वे क़यामत के दिन उसके लिए ढाल बनेंगी।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-4",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-4",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A Muslim girl should know her worth: Islam honors her as a daughter, respects her as a sister, and protects her as a mother.",
-            "hindi": "एक मुस्लिम लड़की को अपनी क़दर जाननी चाहिए: इस्लाम उसे बेटी के रूप में इज़्ज़त देता है, बहन के रूप में सम्मान देता है और माँ के रूप में मुक़ाम देता है।"
-        },
-        "reference": ""
+      "arabic": "كرّم الإسلام المرأة بنتًا وأختًا وأمًا، وجعل لها مكانة عظيمة",
+      "english": "A Muslim girl should know her worth: Islam honors her as a daughter, respects her as a sister, and protects her as a mother.",
+      "hindi": "एक मुस्लिम लड़की को अपनी क़दर जाननी चाहिए: इस्लाम उसे बेटी के रूप में इज़्ज़त देता है, बहन के रूप में सम्मान देता है और माँ के रूप में मुक़ाम देता है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-5",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-5",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "The strength of a girl is not in loudness, but in her patience, her prayers, and her trust in Allah during difficult times.",
-            "hindi": "एक लड़की की असली ताक़त उसकी आवाज़ की ऊँचाई में नहीं, बल्कि उसके सब्र, उसकी नमाज़ और मुश्किल वक्त में अल्लाह पर उसके भरोसे में होती है।"
-        },
-        "reference": ""
+      "arabic": "قوة المرأة في صبرها وثباتها وثقتها بالله",
+      "english": "The strength of a girl is not in loudness, but in her patience, her prayers, and her trust in Allah during difficult times.",
+      "hindi": "एक लड़की की असली ताक़त उसकी आवाज़ की ऊँचाई में नहीं, बल्कि उसके सब्र, उसकी नमाज़ और मुश्किल वक्त में अल्लाह पर उसके भरोसे में होती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-6",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-6",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "Educating a girl in both knowledge and faith builds a generation rooted in wisdom, compassion, and taqwa.",
-            "hindi": "एक लड़की को इल्म और दीन दोनों की तालीम देना ऐसी नस्ल तैयार करता है जो हिकमत, रहम और तक़वा पर आधारित होती है।"
-        },
-        "reference": ""
+      "arabic": "تعليم المرأة علمًا ودينًا بناء لأجيال صالحة",
+      "english": "Educating a girl in both knowledge and faith builds a generation rooted in wisdom, compassion, and taqwa.",
+      "hindi": "एक लड़की को इल्म और दीन दोनों की तालीम देना ऐसी नस्ल तैयार करता है जो हिकमत, रहम और तक़वा पर आधारित होती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-7",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-7",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A righteous girl who guards her modesty and remembers Allah becomes a source of barakah for her family and society.",
-            "hindi": "एक नेक लड़की जो अपनी हया की हिफाज़त करे और अल्लाह को याद रखे, वह अपने घर और समाज के लिए बरकत का ज़रिया बनती है।"
-        },
-        "reference": ""
+      "arabic": "المرأة الصالحة بحيائها وذكرها لله مصدر بركة لأهلها",
+      "english": "A righteous girl who guards her modesty and remembers Allah becomes a source of barakah for her family and society.",
+      "hindi": "एक नेक लड़की जो अपनी हया की हिफाज़त करे और अल्लाह को याद रखे, वह अपने घर और समाज के लिए बरकत का ज़रिया बनती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-8",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-8",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "Never belittle a girl, for Islam raised her status at a time when the world denied her rights.",
-            "hindi": "किसी लड़की को कभी कमतर न समझो, क्योंकि इस्लाम ने उसे उस दौर में इज़्ज़त दी जब दुनिया उसके हक़ से इनकार कर रही थी।"
-        },
-        "reference": ""
+      "arabic": "لا تُهِن المرأة، فقد رفع الإسلام قدرها وأعلى شأنها",
+      "english": "Never belittle a girl, for Islam raised her status at a time when the world denied her rights.",
+      "hindi": "किसी लड़की को कभी कमतर न समझो, क्योंकि इस्लाम ने उसे उस दौर में इज़्ज़त दी जब दुनिया उसके हक़ से इनकार कर रही थी।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-9",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-9",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A girl who grows up with the Qur'an in her heart and dignity in her character becomes a light wherever she goes.",
-            "hindi": "वह लड़की जिसके दिल में क़ुरआन हो और जिसके किरदार में वक़ार हो, वह जहाँ भी जाती है रोशनी बन जाती है।"
-        },
-        "reference": ""
+      "arabic": "من نشأت على القرآن وحفظت عفتها أشرقت نورًا أينما كانت",
+      "english": "A girl who grows up with the Qur'an in her heart and dignity in her character becomes a light wherever she goes.",
+      "hindi": "वह लड़की जिसके दिल में क़ुरआन हो और जिसके किरदार में वक़ार हो, वह जहाँ भी जाती है रोशनी बन जाती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-10",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-10",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "Value your daughters, respect your sisters, and honor your mothers, for the success of a society begins with the dignity of its women.",
-            "hindi": "अपनी बेटियों की क़दर करो, अपनी बहनों का सम्मान करो और अपनी माँओं की इज़्ज़त करो, क्योंकि समाज की कामयाबी उसकी औरतों की इज़्ज़त से शुरू होती है।"
-        },
-        "reference": ""
+      "arabic": "صلاح المجتمع يبدأ بإكرام نسائه وصون كرامتهن",
+      "english": "Value your daughters, respect your sisters, and honor your mothers, for the success of a society begins with the dignity of its women.",
+      "hindi": "अपनी बेटियों की क़दर करो, अपनी बहनों का सम्मान करो और अपनी माँओं की इज़्ज़त करो, क्योंकि समाज की कामयाबी उसकी औरतों की इज़्ज़त से शुरू होती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-11",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-11",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A righteous daughter is a gift that brings barakah into a home. Through her duas and her character, she becomes a means of peace for her family.",
-            "hindi": "एक नेक बेटी घर के लिए बरकत का तोहफ़ा होती है। अपनी दुआओं और अपने अच्छे अख़लाक़ के ज़रिये वह अपने घर के लिए सुकून का ज़रिया बनती है।"
-        },
-        "reference": ""
+      "arabic": "البنت الصالحة نعمة تجلب البركة والسكون لأهلها",
+      "english": "A righteous daughter is a gift that brings barakah into a home. Through her duas and her character, she becomes a means of peace for her family.",
+      "hindi": "एक नेक बेटी घर के लिए बरकत का तोहफ़ा होती है। अपनी दुआओं और अपने अच्छे अख़लाक़ के ज़रिये वह अपने घर के लिए सुकून का ज़रिया बनती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-12",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-12",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "Islam honored women with rights, dignity, and respect long before the world understood their true value.",
-            "hindi": "इस्लाम ने औरतों को हक़, इज़्ज़त और सम्मान उस समय दिया जब दुनिया अभी उनकी असली क़दर को नहीं समझ पाई थी।"
-        },
-        "reference": ""
+      "arabic": "أعطى الإسلام المرأة حقوقها وكرامتها منذ البداية",
+      "english": "Islam honored women with rights, dignity, and respect long before the world understood their true value.",
+      "hindi": "इस्लाम ने औरतों को हक़, इज़्ज़त और सम्मान उस समय दिया जब दुनिया अभी उनकी असली क़दर को नहीं समझ पाई थी।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-13",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-13",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A believing woman seeks the pleasure of Allah over the approval of people, knowing that true success lies in His acceptance.",
-            "hindi": "एक मोमिन औरत लोगों की मंज़ूरी से पहले अल्लाह की रज़ा चाहती है, क्योंकि असली कामयाबी उसी की क़ुबूलियत में है।"
-        },
-        "reference": ""
+      "arabic": "المرأة المؤمنة تجعل رضا الله غايتها الأولى",
+      "english": "A believing woman seeks the pleasure of Allah over the approval of people, knowing that true success lies in His acceptance.",
+      "hindi": "एक मोमिन औरत लोगों की मंज़ूरी से पहले अल्लाह की रज़ा चाहती है, क्योंकि असली कामयाबी उसी की क़ुबूलियत में है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-14",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-14",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "The strength of a Muslim woman is found in her patience during hardship, her gratitude in ease, and her unwavering trust in Allah.",
-            "hindi": "एक मुस्लिम औरत की ताक़त उसके मुश्किल वक्त में सब्र, आसानी में शुक्र और हर हाल में अल्लाह पर उसके अटूट भरोसे में होती है।"
-        },
-        "reference": ""
+      "arabic": "صبر المرأة في الشدائد وشكرها في الرخاء سر قوتها",
+      "english": "The strength of a Muslim woman is found in her patience during hardship, her gratitude in ease, and her unwavering trust in Allah.",
+      "hindi": "एक मुस्लिम औरत की ताक़त उसके मुश्किल वक्त में सब्र, आसानी में शुक्र और हर हाल में अल्लाह पर उसके अटूट भरोसे में होती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-15",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-15",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "Raise your daughters with faith and confidence, for a girl grounded in Islam can stand firm against any challenge.",
-            "hindi": "अपनी बेटियों को दीन और आत्मविश्वास के साथ पालो, क्योंकि इस्लाम पर क़ायम लड़की हर चुनौती के सामने मजबूती से खड़ी रह सकती है।"
-        },
-        "reference": ""
+      "arabic": "تربية البنات على الإيمان والثقة تبني شخصية قوية",
+      "english": "Raise your daughters with faith and confidence, for a girl grounded in Islam can stand firm against any challenge.",
+      "hindi": "अपनी बेटियों को दीन और आत्मविश्वास के साथ पालो, क्योंकि इस्लाम पर क़ायम लड़की हर चुनौती के सामने मजबूती से खड़ी रह सकती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-16",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-16",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A woman who holds firmly to her faith becomes a pillar of strength for her family, inspiring them through her patience, wisdom, and unwavering trust in Allah.",
-            "hindi": "वह औरत जो अपने दीन पर मजबूती से क़ायम रहती है, अपने घर के लिए ताक़त का स्तंभ बन जाती है और अपने सब्र, हिकमत और अल्लाह पर अटूट भरोसे से सबको प्रेरित करती है।"
-        },
-        "reference": ""
+      "arabic": "المرأة الثابتة على دينها عماد أسرتها ومصدر إلهام لها",
+      "english": "A woman who holds firmly to her faith becomes a pillar of strength for her family, inspiring them through her patience, wisdom, and unwavering trust in Allah.",
+      "hindi": "वह औरत जो अपने दीन पर मजबूती से क़ायम रहती है, अपने घर के लिए ताक़त का स्तंभ बन जाती है और अपने सब्र, हिकमत और अल्लाह पर अटूट भरोसे से सबको प्रेरित करती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-17",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-17",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "Honoring women is not a cultural favor, but a command rooted in faith, for the dignity of a society is measured by the respect it gives to its daughters and mothers.",
-            "hindi": "औरतों की इज़्ज़त करना कोई सांस्कृतिक एहसान नहीं, बल्कि ईमान से जुड़ा हुक्म है, क्योंकि किसी समाज की असली पहचान उसकी बेटियों और माँओं को दिए गए सम्मान से होती है।"
-        },
-        "reference": ""
+      "arabic": "إكرام المرأة خلق من أخلاق الإيمان ودليل على رقي المجتمع",
+      "english": "Honoring women is not a cultural favor, but a command rooted in faith, for the dignity of a society is measured by the respect it gives to its daughters and mothers.",
+      "hindi": "औरतों की इज़्ज़त करना कोई सांस्कृतिक एहसान नहीं, बल्कि ईमान से जुड़ा हुक्म है, क्योंकि किसी समाज की असली पहचान उसकी बेटियों और माँओं को दिए गए सम्मान से होती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-18",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-18",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A modest woman who protects her character and remembers Allah carries a quiet strength that no worldly standard can define.",
-            "hindi": "वह हयादार औरत जो अपने किरदार की हिफाज़त करे और अल्लाह को याद रखे, वह ऐसी खामोश ताक़त रखती है जिसे दुनिया का कोई पैमाना नहीं माप सकता।"
-        },
-        "reference": ""
+      "arabic": "حياء المرأة زينة كرامتها وسر جمالها الحقيقي",
+      "english": "A modest woman who protects her character and remembers Allah carries a quiet strength that no worldly standard can define.",
+      "hindi": "वह हयादार औरत जो अपने किरदार की हिफाज़त करे और अल्लाह को याद रखे, वह ऐसी खामोश ताक़त रखती है जिसे दुनिया का कोई पैमाना नहीं माप सकता।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-19",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-19",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "When you educate a woman in faith and knowledge, you nurture generations who grow with compassion, discipline, and consciousness of Allah.",
-            "hindi": "जब आप एक औरत को दीन और इल्म की तालीम देते हैं, तो आप ऐसी नस्ल तैयार करते हैं जो रहम, अनुशासन और अल्लाह की जागरूकता के साथ बढ़ती है।"
-        },
-        "reference": ""
+      "arabic": "تعليم المرأة إيمانًا وعلمًا استثمار يمتد أثره للأجيال",
+      "english": "When you educate a woman in faith and knowledge, you nurture generations who grow with compassion, discipline, and consciousness of Allah.",
+      "hindi": "जब आप एक औरत को दीन और इल्म की तालीम देते हैं, तो आप ऐसी नस्ल तैयार करते हैं जो रहम, अनुशासन और अल्लाह की जागरूकता के साथ बढ़ती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-20",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-20",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A woman who trusts Allah in her struggles and remains grateful in her blessings becomes a living example of strength wrapped in humility.",
-            "hindi": "वह औरत जो अपनी परेशानियों में अल्लाह पर भरोसा रखे और अपनी नेमतों में शुक्रगुज़ार रहे, वह विनम्रता में लिपटी हुई ताक़त की जीती-जागती मिसाल बन जाती है।"
-        },
-        "reference": ""
+      "arabic": "ثقة المرأة بالله في الشدة وشكرها في النعمة سر تميزها",
+      "english": "A woman who trusts Allah in her struggles and remains grateful in her blessings becomes a living example of strength wrapped in humility.",
+      "hindi": "वह औरत जो अपनी परेशानियों में अल्लाह पर भरोसा रखे और अपनी नेमतों में शुक्रगुज़ार रहे, वह विनम्रता में लिपटी हुई ताक़त की जीती-जागती मिसाल बन जाती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-21",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-21",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A daughter is one of the most beautiful trusts given by Allah. When she is raised with faith, kindness, and wisdom, she becomes a source of mercy in this world and a means of reward in the Hereafter.",
-            "hindi": "बेटी अल्लाह की दी हुई सबसे खूबसूरत अमानतों में से एक है। जब उसे ईमान, रहम और हिकमत के साथ पाला जाता है, तो वह दुनिया में रहमत और आख़िरत में सवाब का ज़रिया बनती है।"
-        },
-        "reference": ""
+      "arabic": "البنت أمانة عظيمة من الله، ورعايتها بإحسان طريق للأجر",
+      "english": "A daughter is one of the most beautiful trusts given by Allah. When she is raised with faith, kindness, and wisdom, she becomes a source of mercy in this world and a means of reward in the Hereafter.",
+      "hindi": "बेटी अल्लाह की दी हुई सबसे खूबसूरत अमानतों में से एक है। जब उसे ईमान, रहम और हिकमत के साथ पाला जाता है, तो वह दुनिया में रहमत और आख़िरत में सवाब का ज़रिया बनती है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-22",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-22",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "Whoever nurtures his daughter with patience and teaches her the values of Islam plants the seeds of righteousness that will grow for generations.",
-            "hindi": "जो अपनी बेटी को सब्र के साथ पालता है और उसे इस्लाम की क़ीमतें सिखाता है, वह ऐसी नेकी के बीज बोता है जो नस्लों तक फल देते हैं।"
-        },
-        "reference": ""
+      "arabic": "غرس القيم في البنات ينبت خيرًا يمتد أثره عبر الأجيال",
+      "english": "Whoever nurtures his daughter with patience and teaches her the values of Islam plants the seeds of righteousness that will grow for generations.",
+      "hindi": "जो अपनी बेटी को सब्र के साथ पालता है और उसे इस्लाम की क़ीमतें सिखाता है, वह ऐसी नेकी के बीज बोता है जो नस्लों तक फल देते हैं।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-23",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-23",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A daughter who grows up knowing her worth in Islam will never seek validation from a world that fails to understand her dignity.",
-            "hindi": "वह बेटी जो इस्लाम में अपनी क़दर को पहचानकर बड़ी होती है, वह कभी ऐसी दुनिया से मंज़ूरी नहीं मांगती जो उसकी असली इज़्ज़त को समझ ही नहीं पाती।"
-        },
-        "reference": ""
+      "arabic": "معرفة المرأة بقيمتها في الإسلام تحفظ كرامتها وتصونها",
+      "english": "A daughter who grows up knowing her worth in Islam will never seek validation from a world that fails to understand her dignity.",
+      "hindi": "वह बेटी जो इस्लाम में अपनी क़दर को पहचानकर बड़ी होती है, वह कभी ऐसी दुनिया से मंज़ूरी नहीं मांगती जो उसकी असली इज़्ज़त को समझ ही नहीं पाती।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-24",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-24",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "Treat your daughter with gentleness and respect, for the way you honor her today shapes the confidence and faith she carries tomorrow.",
-            "hindi": "अपनी बेटी के साथ नरमी और इज़्ज़त से पेश आओ, क्योंकि आज जो सम्मान आप उसे देते हैं वही कल उसके आत्मविश्वास और ईमान की बुनियाद बनता है।"
-        },
-        "reference": ""
+      "arabic": "الرفق بالبنت واحترامها يبني ثقتها ويقوي إيمانها",
+      "english": "Treat your daughter with gentleness and respect, for the way you honor her today shapes the confidence and faith she carries tomorrow.",
+      "hindi": "अपनी बेटी के साथ नरमी और इज़्ज़त से पेश आओ, क्योंकि आज जो सम्मान आप उसे देते हैं वही कल उसके आत्मविश्वास और ईमान की बुनियाद बनता है।"
     },
+    "reference": ""
+  },
+  {
+    "id": "women-25",
+    "category": "Honoring Women",
+    "text":
     {
-        "id": "women-25",
-        "category": "Honoring Women",
-        "text":
-        {
-            "arabic": "",
-            "english": "A righteous daughter is not only a joy to her parents but also a light that reflects the beauty of Islamic values in her character and actions.",
-            "hindi": "एक नेक बेटी केवल अपने माता-पिता की खुशी ही नहीं होती, बल्कि अपने किरदार और अमल के ज़रिये इस्लामी मूल्यों की खूबसूरती को भी उजागर करती है।"
-        },
-        "reference": ""
-    }
+      "arabic": "البنت الصالحة نور يعكس جمال القيم الإسلامية في حياتها",
+      "english": "A righteous daughter is not only a joy to her parents but also a light that reflects the beauty of Islamic values in her character and actions.",
+      "hindi": "एक नेक बेटी केवल अपने माता-पिता की खुशी ही नहीं होती, बल्कि अपने किरदार और अमल के ज़रिये इस्लामी मूल्यों की खूबसूरती को भी उजागर करती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-26",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "صبر المرأة مفتاح للفرج ومصدر لقوتها",
+      "english": "A patient woman becomes a key to relief. Through her endurance, Allah opens doors of ease.",
+      "hindi": "सब्र करने वाली औरत राहत की कुंजी बनती है। उसके सब्र से अल्लाह आसानी के दरवाज़े खोलता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-27",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "حياء المرأة زينة كرامتها وسبب رفعتها",
+      "english": "Modesty is the crown of a woman's dignity. It protects her honor and elevates her status.",
+      "hindi": "हया औरत की इज़्ज़त की ज़ीनत है। यह उसकी हिफाज़त करती है और उसे ऊँचा दर्जा देती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-28",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "قوة المرأة في ثباتها على دينها رغم التحديات",
+      "english": "A strong woman is the one who remains firm on her faith, regardless of the pressures around her.",
+      "hindi": "मजबूत औरत वह है जो हर हाल में अपने दीन पर मजबूती से कायम रहती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-29",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "دعاء المرأة الصالحة نور وبركة تحيط بأسرتها",
+      "english": "The dua of a righteous woman becomes a light that protects and blesses her family.",
+      "hindi": "नेक औरत की दुआ उसके घर के लिए रोशनी और हिफाज़त बन जाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-30",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "رضا المرأة بما قسم الله لها هو الغنى الحقيقي",
+      "english": "A woman’s contentment with what Allah has given her is true richness that brings peace.",
+      "hindi": "औरत का अल्लाह के दिए हुए पर राज़ी रहना असली दौलत है जो सुकून लाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-31",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "المرأة المؤمنة نور في بيتها ومصدر هداية",
+      "english": "A believing woman becomes a light in her home, spreading warmth, faith, and guidance.",
+      "hindi": "एक मोमिन औरत अपने घर में नूर बन जाती है और ईमान व सुकून फैलाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-32",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "حكمة المرأة زينة عقلها وسبب صلاحها",
+      "english": "A woman’s wisdom is the beauty of her mind, guiding her and those around her toward goodness.",
+      "hindi": "औरत की हिकमत उसके दिमाग की खूबसूरती है जो उसे और दूसरों को भलाई की तरफ ले जाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-33",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "تقوى المرأة سبب لسكون بيتها واستقراره",
+      "english": "A God-conscious woman becomes a source of peace and stability for her family.",
+      "hindi": "तक़वा वाली औरत अपने घर के लिए सुकून और स्थिरता का ज़रिया बनती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-34",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "رحمة المرأة تزيد المحبة وتجمع القلوب في بيتها",
+      "english": "A compassionate woman increases love in her home and strengthens family bonds.",
+      "hindi": "रहमदिल औरत अपने घर में मोहब्बत बढ़ाती है और रिश्तों को मजबूत करती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-35",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "شكر المرأة لنعم الله سبب لدوامها وزيادتها",
+      "english": "A grateful woman receives more blessings, as gratitude opens doors to abundance.",
+      "hindi": "शुक्र करने वाली औरत को और नेमतें मिलती हैं क्योंकि शुक्र बरकत बढ़ाता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-36",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "عفة المرأة تحفظ كرامتها وترفع قدرها",
+      "english": "A chaste woman preserves her dignity and earns honor in both this world and the next.",
+      "hindi": "पाक दामन औरत अपनी इज़्ज़त की हिफाज़त करती है और दुनिया व आख़िरत में सम्मान पाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-37",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "المرأة الحكيمة تنشر السلام بكلامها وأفعالها",
+      "english": "A wise woman plants peace wherever she goes through her words and actions.",
+      "hindi": "समझदार औरत अपने शब्दों और कामों से जहाँ भी जाती है सुकून फैलाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-38",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "ثبات المرأة على الحق دليل قوتها وإيمانها",
+      "english": "A woman’s firmness upon truth is a sign of strength that cannot be shaken.",
+      "hindi": "सच पर डटी रहने वाली औरत असली ताक़त और ईमान की निशानी होती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-39",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "ذكر المرأة لله يملأ قلبها طمأنينة وقوة",
+      "english": "A woman who remembers Allah finds peace in her heart and strength in her soul.",
+      "hindi": "जो औरत अल्लाह को याद करती है उसके दिल को सुकून और उसकी रूह को ताक़त मिलती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "women-40",
+    "category": "Honoring Women",
+    "text":
+    {
+      "arabic": "المرأة الصالحة أساس البيت المبارك وسر سعادته",
+      "english": "A righteous woman is the foundation of a blessed home, bringing faith, love, and stability.",
+      "hindi": "नेक औरत बरकत वाले घर की बुनियाद होती है, जो ईमान, मोहब्बत और स्थिरता लाती है।"
+    },
+    "reference": ""
+  }
 ]

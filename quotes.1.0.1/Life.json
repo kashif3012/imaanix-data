@@ -16,8 +16,8 @@
         "text":
         {
             "arabic": "من عرف الله هانت عليه الدنيا",
-            "english": "Whoever truly knows Allah finds worldly worries lighter, because trust in Him removes fear from the heart.",
-            "hindi": "जो अल्लाह को पहचान ले उसके लिए दुनिया की परेशानियाँ आसान हो जाती हैं।"
+            "english": "Whoever knows Allah finds this world becomes light upon him, and its burdens no longer weigh heavily on the heart.",
+            "hindi": "जो अल्लाह को पहचान ले उसके लिए दुनिया हल्की हो जाती है और परेशानियाँ कम लगती हैं।"
         },
         "reference": ""
     },
@@ -38,8 +38,8 @@
         "text":
         {
             "arabic": "التوكل على الله يبدل القلق طمأنينة",
-            "english": "Reliance upon Allah transforms anxiety into peace. When the heart trusts Him, uncertainty becomes hope.",
-            "hindi": "अल्लाह पर भरोसा चिंता को सुकून में बदल देता है।"
+            "english": "Reliance upon Allah transforms anxiety into peace. When the heart trusts Him, uncertainty turns into calm assurance.",
+            "hindi": "अल्लाह पर भरोसा चिंता को सुकून में बदल देता है। जब दिल भरोसा करता है तो बेचैनी खत्म हो जाती है।"
         },
         "reference": ""
     },
@@ -49,7 +49,7 @@
         "text":
         {
             "arabic": "ذكر الله حياة للروح",
-            "english": "Remembering Allah gives life to the soul. Even in chaos, dhikr brings clarity and calmness.",
+            "english": "Remembering Allah gives life to the soul. Even in chaos, remembrance brings clarity and calmness.",
             "hindi": "अल्लाह का ज़िक्र रूह को जिंदगी देता है और दिल को सुकून देता है।"
         },
         "reference": ""
@@ -61,7 +61,7 @@
         {
             "arabic": "القناعة كنز لا يفنى",
             "english": "Contentment is a treasure that never fades. A believer finds richness not in possessions but in gratitude.",
-            "hindi": "कनाअत ऐसा खज़ाना है जो खत्म नहीं होता। असली अमीरी शुक्र में है।"
+            "hindi": "संतोष ऐसा खज़ाना है जो कभी खत्म नहीं होता। असली अमीरी शुक्र में है।"
         },
         "reference": ""
     },
@@ -71,8 +71,8 @@
         "text":
         {
             "arabic": "كل تأخير يحمل حكمة من الله",
-            "english": "Every delay carries wisdom from Allah. What seems late may actually be protection or preparation.",
-            "hindi": "हर देरी में अल्लाह की हिकमत होती है। जो देर लगती है वह अक्सर बेहतर होती है।"
+            "english": "Every delay carries wisdom from Allah. What seems late may actually be protection or preparation for something better.",
+            "hindi": "हर देरी में अल्लाह की हिकमत होती है। जो देर लगती है वह अक्सर किसी बेहतर चीज़ की तैयारी होती है।"
         },
         "reference": ""
     },
@@ -82,8 +82,8 @@
         "text":
         {
             "arabic": "الدعاء يغير الأقدار بإذن الله",
-            "english": "Dua changes destinies by Allah’s permission. A sincere prayer opens doors unseen by human effort.",
-            "hindi": "दुआ अल्लाह की इजाज़त से तकदीर बदल सकती है।"
+            "english": "Dua can change what is destined, by Allah’s permission. A sincere prayer opens doors beyond human effort.",
+            "hindi": "दुआ अल्लाह की इजाज़त से तकदीर को बदल सकती है और बंद दरवाज़े खोल सकती है।"
         },
         "reference": ""
     },
@@ -93,7 +93,7 @@
         "text":
         {
             "arabic": "الإيمان يجعل الصعاب سهلة",
-            "english": "Faith makes hardships bearable. A believer walks through storms knowing Allah walks with him.",
+            "english": "Faith makes hardships bearable. A believer moves forward knowing Allah is always with him.",
             "hindi": "ईमान मुश्किलों को आसान बना देता है क्योंकि मोमिन जानता है कि अल्लाह उसके साथ है।"
         },
         "reference": ""
@@ -104,7 +104,7 @@
         "text":
         {
             "arabic": "الحياة قصيرة فاجعلها طاعة",
-            "english": "Life is short, so fill it with obedience and goodness. Every moment spent in sincerity becomes eternal reward.",
+            "english": "Life is short, so fill it with obedience and goodness. Every sincere moment becomes an eternal reward.",
             "hindi": "जिंदगी छोटी है इसलिए इसे नेकियों से भर दो। हर सच्चा लम्हा आख़िरत का सवाब बन जाता है।"
         },
         "reference": ""
@@ -137,10 +137,10 @@
         "text":
         {
             "arabic": "الشكر يزيد النعم",
-            "english": "Gratitude increases blessings. When a believer thanks Allah sincerely, even little becomes abundant.",
-            "hindi": "शुक्र करने से नेमतें बढ़ती हैं।"
+            "english": "Gratitude increases blessings. When a believer thanks Allah sincerely, even the little becomes abundant.",
+            "hindi": "शुक्र करने से नेमतें बढ़ती हैं। जब इंसान सच्चे दिल से शुक्र करता है तो थोड़ी चीज़ भी ज्यादा लगती है।"
         },
-        "reference": "Quran"
+        "reference": ""
     },
     {
         "id": "life-14",
@@ -162,7 +162,7 @@
             "english": "Showing mercy to people invites Allah’s mercy. Kindness never goes unnoticed by the Creator.",
             "hindi": "लोगों पर रहम करने से अल्लाह की रहमत मिलती है।"
         },
-        "reference": "Hadith"
+        "reference": ""
     },
     {
         "id": "life-16",
@@ -170,10 +170,10 @@
         "text":
         {
             "arabic": "كل ضيق بعده سعة",
-            "english": "After every hardship comes ease. A believer never loses hope because Allah promises relief.",
-            "hindi": "हर तंगी के बाद आसानी आती है।"
+            "english": "After every hardship comes ease. A believer holds onto hope knowing relief will surely arrive.",
+            "hindi": "हर तंगी के बाद आसानी आती है। मोमिन हमेशा उम्मीद रखता है कि राहत जरूर आएगी।"
         },
-        "reference": "Quran"
+        "reference": ""
     },
     {
         "id": "life-17",
@@ -181,8 +181,8 @@
         "text":
         {
             "arabic": "الصدق طريق النجاة",
-            "english": "Truthfulness is the path to salvation. Honesty builds trust with people and closeness with Allah.",
-            "hindi": "सचाई नजात का रास्ता है। ईमानदारी लोगों का भरोसा और अल्लाह की नज़दीकी दिलाती है।"
+            "english": "Truthfulness is the path to salvation. Honesty brings peace to the heart and builds trust among people.",
+            "hindi": "सचाई नजात का रास्ता है। ईमानदारी दिल को सुकून और लोगों का भरोसा दिलाती है।"
         },
         "reference": ""
     },
@@ -193,7 +193,7 @@
         {
             "arabic": "المال وسيلة لا غاية",
             "english": "Wealth is a means, not a purpose. True richness lies in generosity and faith.",
-            "hindi": "दौलत मकसद नहीं बल्कि साधन है। असली अमीरी दिल की है।"
+            "hindi": "दौलत मकसद नहीं बल्कि साधन है। असली अमीरी दिल और ईमान में है।"
         },
         "reference": ""
     },
@@ -203,8 +203,8 @@
         "text":
         {
             "arabic": "الوقت أمانة فاستثمره",
-            "english": "Time is a trust from Allah. Investing it in goodness turns moments into everlasting rewards.",
-            "hindi": "वक्त अल्लाह की अमानत है, इसे नेक कामों में लगाओ।"
+            "english": "Time is a trust from Allah. Using it wisely turns moments into lasting rewards.",
+            "hindi": "वक्त अल्लाह की अमानत है, इसे समझदारी से नेक कामों में लगाओ।"
         },
         "reference": ""
     },
@@ -213,9 +213,9 @@
         "category": "Life",
         "text":
         {
-            "arabic": "القلوب تطمئن بذكر الله",
-            "english": "Hearts find peace in the remembrance of Allah. Spiritual connection heals what the world cannot.",
-            "hindi": "अल्लाह के ज़िक्र से दिलों को सुकून मिलता है।"
+            "arabic": "ألا بذكر الله تطمئن القلوب",
+            "english": "Indeed, in the remembrance of Allah do hearts find peace.",
+            "hindi": "बेशक अल्लाह के ज़िक्र से ही दिलों को सुकून मिलता है।"
         },
         "reference": "Quran 13:28"
     },
@@ -247,10 +247,10 @@
         "text":
         {
             "arabic": "الرفق زينة الحياة",
-            "english": "Gentleness beautifies life. Softness in speech and behavior earns love and reward.",
-            "hindi": "नर्मी जिंदगी की खूबसूरती है। मीठी जुबान और अच्छे व्यवहार से मोहब्बत और सवाब मिलता है।"
+            "english": "Gentleness beautifies life. Softness in character brings love and reward.",
+            "hindi": "नर्मी जिंदगी की खूबसूरती है। अच्छे व्यवहार से मोहब्बत और सवाब मिलता है।"
         },
-        "reference": "Hadith"
+        "reference": ""
     },
     {
         "id": "life-24",
@@ -258,7 +258,7 @@
         "text":
         {
             "arabic": "الدنيا مزرعة الآخرة",
-            "english": "This world is the field of the Hereafter. Every action planted here will be harvested eternally.",
+            "english": "This world is the field of the Hereafter. What you plant today, you will harvest forever.",
             "hindi": "दुनिया आख़िरत की खेती है, जैसा बोओगे वैसा पाओगे।"
         },
         "reference": ""
@@ -269,8 +269,173 @@
         "text":
         {
             "arabic": "القرب من الله أعظم نجاح",
-            "english": "Closeness to Allah is the greatest success. When faith guides life, even ordinary days become meaningful journeys.",
+            "english": "Closeness to Allah is the greatest success. A life guided by faith becomes a meaningful journey.",
             "hindi": "अल्लाह के करीब होना सबसे बड़ी कामयाबी है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-26",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "وَمَا عِندَ اللَّهِ خَيْرٌ وَأَبْقَى",
+            "english": "What is with Allah is better and everlasting.",
+            "hindi": "अल्लाह के पास जो है वही बेहतर और हमेशा रहने वाला है।"
+        },
+        "reference": "Quran 28:60"
+    },
+    {
+        "id": "life-27",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "راحة القلب في القرب من الله",
+            "english": "The heart finds true comfort in closeness to Allah, beyond all worldly distractions.",
+            "hindi": "दिल को असली सुकून अल्लाह के करीब होने में मिलता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-28",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+            "english": "Allah does not burden a soul beyond what it can bear.",
+            "hindi": "अल्लाह किसी जान पर उसकी ताकत से ज्यादा बोझ नहीं डालता।"
+        },
+        "reference": "Quran 2:286"
+    },
+    {
+        "id": "life-29",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "القلب الذي يثق بالله لا ينكسر",
+            "english": "A heart that trusts Allah may feel pain, but it never truly breaks.",
+            "hindi": "जो दिल अल्लाह पर भरोसा करता है वह टूटता नहीं, चाहे उसे दर्द क्यों न हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-30",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الخير الذي تزرعه يعود إليك",
+            "english": "The good you plant in life always returns to you, often in ways you never expect.",
+            "hindi": "जो नेकी तुम बोते हो वह तुम्हारे पास जरूर लौटती है, अक्सर अनदेखे तरीकों से।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-31",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "السكينة هدية من الله للمؤمن",
+            "english": "Tranquility is a gift from Allah to the believer, calming the heart in every storm.",
+            "hindi": "सुकून अल्लाह की तरफ से मोमिन के लिए एक तोहफा है जो हर हाल में दिल को शांत करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-32",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "كل يوم فرصة للتقرب إلى الله",
+            "english": "Every day is a new opportunity to draw closer to Allah and renew your faith.",
+            "hindi": "हर दिन अल्लाह के करीब होने और अपने ईमान को मजबूत करने का मौका है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-33",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "القلب الحي يذكر الله دائمًا",
+            "english": "A living heart remembers Allah constantly and finds peace in that remembrance.",
+            "hindi": "जिंदा दिल हमेशा अल्लाह को याद करता है और उसी में सुकून पाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-34",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "العطاء يبارك الحياة",
+            "english": "Giving brings blessings into life. What you give for Allah never decreases.",
+            "hindi": "देने से जिंदगी में बरकत आती है। अल्लाह के लिए दिया हुआ कभी कम नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-35",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الطمأنينة في رضا الله",
+            "english": "True peace lies in accepting Allah’s will, even when it differs from your plans.",
+            "hindi": "असली सुकून अल्लाह की रज़ा में राज़ी रहने में है, चाहे वह हमारी इच्छा से अलग हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-36",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "القلب المؤمن يرى الخير في كل حال",
+            "english": "A believing heart sees goodness in every situation, trusting Allah’s wisdom always.",
+            "hindi": "ईमान वाला दिल हर हाल में भलाई देखता है क्योंकि उसे अल्लाह की हिकमत पर भरोसा होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-37",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الابتلاء طريق لرفع الدرجات",
+            "english": "Trials are a path to higher ranks. Every difficulty carries unseen elevation.",
+            "hindi": "आज़माइश इंसान के दर्जे बढ़ाने का ज़रिया है। हर मुश्किल में छुपी हुई तरक्की होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-38",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "نور الإيمان يبدد الظلام",
+            "english": "The light of faith dispels darkness, guiding the believer through every uncertainty.",
+            "hindi": "ईमान की रोशनी हर अंधेरे को दूर कर देती है और रास्ता दिखाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-39",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "النية الصادقة تغير المصير",
+            "english": "A sincere intention can change your path, turning simple actions into meaningful journeys.",
+            "hindi": "सच्ची नीयत इंसान की राह बदल सकती है और छोटे कामों को भी खास बना देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-40",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "القرب من القرآن حياة للقلب",
+            "english": "Closeness to the Quran brings life to the heart and light to the soul.",
+            "hindi": "कुरआन के करीब होना दिल को जिंदगी और रूह को रोशनी देता है।"
         },
         "reference": ""
     }

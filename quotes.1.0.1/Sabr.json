@@ -8,7 +8,7 @@
             "english": "Patience is the key to relief and a mercy from Allah. Every hardship carries hidden wisdom, and those who endure with faith eventually witness ease beyond expectation.",
             "hindi": "सब्र राहत की चाबी और अल्लाह की रहमत है। हर मुश्किल में छुपी हुई हिकमत होती है और सब्र करने वालों को आखिरकार आसानी मिलती है।"
         },
-        "reference": "Quran"
+        "reference": ""
     },
     {
         "id": "sabr-2",
@@ -26,11 +26,11 @@
         "category": "Sabr",
         "text":
         {
-            "arabic": "الصبر عند الصدمة الأولى أعظم أجراً",
+            "arabic": "إنما الصبر عند الصدمة الأولى",
             "english": "True patience is shown at the first moment of hardship. Controlling emotions and trusting Allah during shock earns the greatest reward.",
             "hindi": "असली सब्र पहली तकलीफ के वक्त होता है। उसी समय खुद को संभालना सबसे बड़ा सवाब देता है।"
         },
-        "reference": "Hadith"
+        "reference": "Sahih al-Bukhari and Sahih Muslim"
     },
     {
         "id": "sabr-4",
@@ -59,11 +59,11 @@
         "category": "Sabr",
         "text":
         {
-            "arabic": "بعد العسر يسراً وعد من الله",
-            "english": "Ease always follows hardship as promised by Allah. A believer walks through darkness knowing light is already written ahead.",
-            "hindi": "हर मुश्किल के बाद आसानी अल्लाह का वादा है। मोमिन अंधेरे में भी उम्मीद के साथ चलता है।"
+            "arabic": "فإن مع العسر يسراً إن مع العسر يسراً",
+            "english": "Indeed, with hardship comes ease. This promise from Allah reassures every believer that no difficulty is permanent and relief is always near.",
+            "hindi": "बेशक हर मुश्किल के साथ आसानी है। यह अल्लाह का वादा है कि कोई भी परेशानी हमेशा नहीं रहती और राहत जरूर आती है।"
         },
-        "reference": "Quran 94:5-6 Meaning"
+        "reference": "Quran 94:5-6"
     },
     {
         "id": "sabr-7",
@@ -81,9 +81,9 @@
         "category": "Sabr",
         "text":
         {
-            "arabic": "الدعاء مع الصبر يغير الأقدار",
-            "english": "Dua combined with patience changes destinies. Waiting while praying invites Allah’s mercy at the perfect moment.",
-            "hindi": "दुआ और सब्र मिलकर तकदीर बदल सकते हैं। इंतजार के साथ की गई दुआ सही वक्त पर अल्लाह की रहमत लाती है।"
+            "arabic": "الدعاء مع الصبر يفتح أبواب الرحمة",
+            "english": "Dua combined with patience opens the doors of mercy. Waiting while praying invites Allah’s help at the most perfect time.",
+            "hindi": "दुआ और सब्र मिलकर रहमत के दरवाजे खोल देते हैं। इंतजार के साथ की गई दुआ सही वक्त पर अल्लाह की मदद लाती है।"
         },
         "reference": ""
     },
@@ -93,8 +93,8 @@
         "text":
         {
             "arabic": "الصبر عبادة صامتة يراها الله",
-            "english": "Patience is a silent worship seen only by Allah. Tears held back and hope maintained become acts of devotion.",
-            "hindi": "सब्र खामोश इबादत है जिसे सिर्फ अल्लाह देखता है। दबे हुए आँसू और कायम उम्मीद भी इबादत बन जाते हैं।"
+            "english": "Patience is a silent act of worship seen only by Allah. Even the tears you hide and the strength you show quietly are counted as devotion.",
+            "hindi": "सब्र खामोश इबादत है जिसे सिर्फ अल्लाह देखता है। आपके छुपे हुए आँसू और खामोश मजबूती भी इबादत बन जाते हैं।"
         },
         "reference": ""
     },
@@ -103,9 +103,229 @@
         "category": "Sabr",
         "text":
         {
-            "arabic": "من صبر ظفر برحمة الله",
-            "english": "Whoever remains patient eventually earns Allah’s mercy. Every moment endured for His sake becomes eternal reward.",
-            "hindi": "जो सब्र करता है वह आखिरकार अल्लाह की रहमत पाता है।"
+            "arabic": "من صبر نال رحمة الله الواسعة",
+            "english": "Whoever remains patient earns the vast mercy of Allah. Every moment endured for His sake becomes a source of eternal reward and inner peace.",
+            "hindi": "जो सब्र करता है वह अल्लाह की विशाल रहमत पाता है। उसके लिए हर सहन किया हुआ लम्हा सुकून और सवाब बन जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-11",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر نور يهدي القلب في الظلمات",
+            "english": "Patience is a light that guides the heart through the darkest moments. When everything feels uncertain, sabr keeps the believer steady and hopeful.",
+            "hindi": "सब्र एक नूर है जो अंधेरे में दिल को रास्ता दिखाता है। जब सब कुछ अनिश्चित लगे, सब्र इंसान को मजबूत बनाए रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-12",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "من رضي بالصبر رضي الله عنه",
+            "english": "Whoever embraces patience earns the pleasure of Allah. Accepting trials with faith transforms difficulty into spiritual elevation.",
+            "hindi": "जो सब्र को अपनाता है अल्लाह उससे राज़ी हो जाता है। ईमान के साथ मुश्किलों को स्वीकार करना इंसान को ऊँचा दर्जा देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-13",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر بداية الفرج وإن طال الانتظار",
+            "english": "Patience is the beginning of relief, even if the wait feels long. Allah’s timing is always perfect, even when we do not understand it.",
+            "hindi": "सब्र राहत की शुरुआत है, चाहे इंतजार लंबा लगे। अल्लाह का वक्त हमेशा सही होता है, भले हम उसे न समझ सकें।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-14",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "في الصبر قوة لا يراها إلا المؤمن",
+            "english": "In patience lies a strength only a believer truly understands. It is a quiet power that keeps the heart firm during life’s storms.",
+            "hindi": "सब्र में ऐसी ताकत होती है जिसे सिर्फ मोमिन समझ सकता है। यह खामोश ताकत इंसान को मुश्किलों में भी मजबूत रखती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-15",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر طريق إلى رضا الله",
+            "english": "Patience is a path that leads to Allah’s pleasure. Every moment of endurance draws a believer closer to divine acceptance.",
+            "hindi": "सब्र वह रास्ता है जो अल्लाह की रज़ा तक ले जाता है। हर सब्र का लम्हा इंसान को अल्लाह के करीब करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-16",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر يزرع الطمأنينة في القلب",
+            "english": "Patience plants tranquility within the heart. When one trusts Allah’s plan, even the heaviest burdens feel lighter.",
+            "hindi": "सब्र दिल में सुकून बो देता है। जब इंसान अल्लाह की योजना पर भरोसा करता है, तो भारी बोझ भी हल्का लगने लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-17",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "مع الصبر تنكشف الحكم الخفية",
+            "english": "With patience, hidden wisdom begins to unfold. What once felt painful later reveals itself as a blessing in disguise.",
+            "hindi": "सब्र के साथ छुपी हुई हिकमतें सामने आने लगती हैं। जो दर्द लगता था वही बाद में नेमत बनकर सामने आता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-18",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر عند البلاء رفعة في الدرجات",
+            "english": "Patience during trials raises a believer’s rank. Every hardship endured with faith becomes a step closer to Allah.",
+            "hindi": "मुश्किलों में सब्र करना इंसान के दर्जे को बढ़ाता है। हर परीक्षा ईमान के साथ झेलना अल्लाह के करीब ले जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-19",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر يفتح أبواب الفرج ولو بعد حين",
+            "english": "Patience eventually opens the doors of relief, even if it takes time. No struggle is unseen by Allah.",
+            "hindi": "सब्र आखिरकार राहत के दरवाजे खोल देता है, चाहे देर लगे। अल्लाह किसी भी कोशिश को नजरअंदाज नहीं करता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-20",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "في الصبر جمال لا يدركه إلا الصادقون",
+            "english": "There is a beauty in patience that only the sincere understand. It reflects deep trust and unwavering faith in Allah.",
+            "hindi": "सब्र में एक खूबसूरती होती है जिसे सिर्फ सच्चे लोग समझते हैं। यह अल्लाह पर गहरे भरोसे को दिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-21",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر يصنع من الألم أملاً ومن الحزن قوة",
+            "english": "Patience transforms pain into hope and sorrow into strength. A believer who endures learns that every hardship carries a divine purpose.",
+            "hindi": "सब्र दर्द को उम्मीद और ग़म को ताकत में बदल देता है। सब्र करने वाला समझ जाता है कि हर तकलीफ में अल्लाह की हिकमत होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-22",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "كل لحظة صبر يكتبها الله لك أجراً عظيماً",
+            "english": "Every moment of patience is recorded by Allah as a great reward. Even your silent struggles are valued and never forgotten.",
+            "hindi": "सब्र का हर लम्हा अल्लाह के पास बड़े सवाब के रूप में लिखा जाता है। आपकी खामोश तकलीफें भी उससे छुपी नहीं हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-23",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر في الخفاء أعظم عند الله من الصبر في العلن",
+            "english": "Patience in private is greater in the sight of Allah than patience shown publicly. True strength lies in silent endurance.",
+            "hindi": "खामोशी में किया गया सब्र अल्लाह के नज़दीक ज्यादा बड़ा होता है। असली ताकत बिना दिखावे के सब्र करने में है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-24",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر يعلّم القلب كيف يثق بالله دون شروط",
+            "english": "Patience teaches the heart to trust Allah without conditions. It builds a faith that remains firm even in uncertainty.",
+            "hindi": "सब्र दिल को बिना शर्त अल्लाह पर भरोसा करना सिखाता है। यह ऐसा ईमान बनाता है जो हर हाल में कायम रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-25",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "عندما تصبر فإنك تقترب من حكمة الله أكثر",
+            "english": "When you choose patience, you move closer to understanding Allah’s wisdom. What confuses you today may become clarity tomorrow.",
+            "hindi": "जब आप सब्र करते हैं तो आप अल्लाह की हिकमत के और करीब हो जाते हैं। जो आज समझ नहीं आता, वही कल साफ हो जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-26",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر يجعل القلب يرى النور وسط الألم",
+            "english": "Patience allows the heart to see light even in pain. A believer learns that no hardship comes without hidden mercy from Allah.",
+            "hindi": "सब्र दिल को दर्द के बीच भी रोशनी देखने की ताकत देता है। मोमिन जानता है कि हर मुश्किल में अल्लाह की रहमत छुपी होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-27",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "مع الصبر تتبدل القلوب وتصفو النفوس",
+            "english": "With patience, hearts change and souls become pure. Trials refine a believer and bring them closer to Allah’s guidance.",
+            "hindi": "सब्र के साथ दिल बदलते हैं और रूह साफ होती है। मुश्किलें इंसान को बेहतर बनाकर अल्लाह के करीब लाती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-28",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر يمنحك قوة لا تهزمها الدنيا",
+            "english": "Patience grants you a strength that the world cannot break. It builds resilience rooted in faith and trust in Allah.",
+            "hindi": "सब्र आपको ऐसी ताकत देता है जिसे दुनिया नहीं हरा सकती। यह ईमान और भरोसे पर आधारित मजबूती बनाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-29",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر في الشدة باب للرحمة والفرج",
+            "english": "Patience during hardship becomes a door to mercy and relief. What feels heavy today may lead to unexpected blessings tomorrow.",
+            "hindi": "मुश्किल वक्त में सब्र करना रहमत और राहत का दरवाजा बन जाता है। जो आज भारी लगता है वही कल नेमत बन सकता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-30",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر يعلّمك أن كل شيء بقدر الله",
+            "english": "Patience teaches you that everything happens by the decree of Allah. Accepting this truth brings peace to even the most restless heart.",
+            "hindi": "सब्र यह सिखाता है कि हर चीज़ अल्लाह के फैसले से होती है। इसे मानने से बेचैन दिल को भी सुकून मिल जाता है।"
         },
         "reference": ""
     }

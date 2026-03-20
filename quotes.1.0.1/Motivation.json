@@ -4,11 +4,11 @@
         "category": "Motivation",
         "text":
         {
-            "arabic": "مع كل عسر يسر من الله",
-            "english": "With every hardship comes ease from Allah. Challenges are not meant to break you but to strengthen faith and prepare you for greater blessings.",
-            "hindi": "हर मुश्किल के साथ अल्लाह आसानी रखता है। परेशानियाँ इंसान को तोड़ने नहीं बल्कि मजबूत बनाने के लिए होती हैं।"
+            "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+            "english": "Indeed, with hardship comes ease. Every challenge carries relief that unfolds at the right time.",
+            "hindi": "बेशक हर मुश्किल के साथ आसानी है। हर परेशानी के बाद राहत जरूर आती है।"
         },
-        "reference": "Quran"
+        "reference": "Quran 94:6"
     },
     {
         "id": "motivation-2",
@@ -16,8 +16,8 @@
         "text":
         {
             "arabic": "التوكل على الله بداية النجاح",
-            "english": "Trusting Allah is the beginning of success. When effort meets reliance upon Him, doors open from places never imagined.",
-            "hindi": "अल्लाह पर भरोसा कामयाबी की शुरुआत है। मेहनत और तवक्कुल साथ हों तो रास्ते खुद बनते हैं।"
+            "english": "Trusting Allah is the beginning of success. When effort meets reliance upon Him, doors open from unexpected places.",
+            "hindi": "अल्लाह पर भरोसा कामयाबी की शुरुआत है। मेहनत और तवक्कुल साथ हों तो नए रास्ते खुलते हैं।"
         },
         "reference": ""
     },
@@ -26,11 +26,11 @@
         "category": "Motivation",
         "text":
         {
-            "arabic": "لا تيأس من رحمة الله",
-            "english": "Never despair of Allah’s mercy. Even after failure, hope rebuilds strength and guides you toward new opportunities.",
-            "hindi": "अल्लाह की रहमत से कभी मायूस मत हो। हर नाकामी नई शुरुआत का मौका होती है।"
+            "arabic": "لَا تَيْأَسُوا مِن رَّحْمَةِ اللَّهِ",
+            "english": "Never despair of Allah’s mercy. Even after failure, hope can rebuild your path.",
+            "hindi": "अल्लाह की रहमत से कभी मायूस मत हो। हर नाकामी के बाद भी नई शुरुआत हो सकती है।"
         },
-        "reference": "Quran"
+        "reference": "Quran 12:87"
     },
     {
         "id": "motivation-4",
@@ -38,7 +38,7 @@
         "text":
         {
             "arabic": "الإخلاص يجعل العمل عظيماً",
-            "english": "Sincerity makes every effort meaningful. A small action done for Allah can become greater than worldly achievements.",
+            "english": "Sincerity makes every effort meaningful. A small action for Allah can outweigh great worldly achievements.",
             "hindi": "इख़लास हर छोटे काम को बड़ा बना देता है जब वह अल्लाह के लिए किया जाए।"
         },
         "reference": ""
@@ -59,8 +59,8 @@
         "category": "Motivation",
         "text":
         {
-            "arabic": "ابدأ صغيراً ولكن بنيتك الكبيرة",
-            "english": "Start small but with great intention. Allah values sincerity more than size, and consistent effort leads to success.",
+            "arabic": "ابدأ صغيرًا بنيةٍ كبيرة",
+            "english": "Start small but with a great intention. Consistency with sincerity leads to lasting success.",
             "hindi": "छोटे कदम से शुरू करो लेकिन नीयत बड़ी रखो। लगातार कोशिश कामयाबी लाती है।"
         },
         "reference": ""
@@ -71,8 +71,8 @@
         "text":
         {
             "arabic": "الدعاء يفتح الأبواب المغلقة",
-            "english": "Dua opens doors that effort alone cannot. When hands rise sincerely, Allah creates solutions beyond imagination.",
-            "hindi": "दुआ बंद दरवाज़े खोल देती है। सच्ची दुआ अल्लाह की मदद लाती है।"
+            "english": "Dua opens doors that effort alone cannot. A sincere prayer brings unseen solutions.",
+            "hindi": "दुआ बंद दरवाज़े खोल देती है। सच्ची दुआ अनदेखी मदद लाती है।"
         },
         "reference": ""
     },
@@ -82,10 +82,10 @@
         "text":
         {
             "arabic": "النية الصالحة بداية كل خير",
-            "english": "A righteous intention is the beginning of every success. When intentions are pure, Allah blesses outcomes.",
-            "hindi": "अच्छी नीयत हर भलाई की शुरुआत है। जब नीयत पाक हो तो अल्लाह अंजाम में बरकत देता है।"
+            "english": "A righteous intention is the beginning of every good. Pure intentions bring blessed outcomes.",
+            "hindi": "अच्छी नीयत हर भलाई की शुरुआत है। साफ नीयत से अंजाम में बरकत आती है।"
         },
-        "reference": "Hadith"
+        "reference": ""
     },
     {
         "id": "motivation-9",
@@ -93,8 +93,8 @@
         "text":
         {
             "arabic": "العمل عبادة إذا كان لله",
-            "english": "Work becomes worship when done for Allah. Excellence in effort brings both worldly success and spiritual reward.",
-            "hindi": "जब काम अल्लाह के लिए हो तो मेहनत भी इबादत बन जाती है। ईमानदारी और लगन दुनिया और आख़िरत दोनों में कामयाबी लाती है।"
+            "english": "Work becomes worship when done for Allah. Excellence in effort brings both success and reward.",
+            "hindi": "जब काम अल्लाह के लिए हो तो मेहनत भी इबादत बन जाती है।"
         },
         "reference": ""
     },
@@ -104,8 +104,8 @@
         "text":
         {
             "arabic": "الفشل درس وليس نهاية",
-            "english": "Failure is a lesson, not an ending. Allah sometimes delays success to teach wisdom and patience.",
-            "hindi": "नाकामी अंत नहीं बल्कि सबक है। अल्लाह सही समय पर कामयाबी देता है।"
+            "english": "Failure is a lesson, not an end. Every setback prepares you for something greater.",
+            "hindi": "नाकामी अंत नहीं बल्कि एक सबक है। हर गिरावट आगे बढ़ने की तैयारी है।"
         },
         "reference": ""
     },
@@ -115,8 +115,8 @@
         "text":
         {
             "arabic": "القوة الحقيقية في الثبات",
-            "english": "True strength lies in consistency. Small daily efforts build great achievements with Allah’s blessings.",
-            "hindi": "असली ताकत लगातार कोशिश में है। रोज़ के छोटे प्रयास भी अल्लाह की बरकत से बड़ी कामयाबी बन जाते हैं।"
+            "english": "True strength lies in consistency. Small efforts done daily build great success.",
+            "hindi": "असली ताकत लगातार कोशिश में है। छोटे-छोटे प्रयास बड़ी कामयाबी बनाते हैं।"
         },
         "reference": ""
     },
@@ -126,8 +126,8 @@
         "text":
         {
             "arabic": "اجعل هدفك رضا الله",
-            "english": "Make Allah’s pleasure your ultimate goal. When intentions align with faith, success gains deeper meaning.",
-            "hindi": "अपना मकसद अल्लाह की रज़ा बनाओ। जब नीयत ईमान से जुड़ती है तो कामयाबी का मतलब और गहरा हो जाता है।"
+            "english": "Make Allah’s pleasure your goal. When intentions align with faith, success gains deeper meaning.",
+            "hindi": "अपना मकसद अल्लाह की रज़ा बनाओ। तब कामयाबी का असली मतलब समझ आता है।"
         },
         "reference": ""
     },
@@ -136,9 +136,9 @@
         "category": "Motivation",
         "text":
         {
-            "arabic": "كل تأخير يحمل خيراً خفياً",
-            "english": "Every delay hides unseen goodness. Allah protects you from what you do not yet understand.",
-            "hindi": "हर देरी में छिपी हुई भलाई होती है। अल्लाह तुम्हें उस चीज़ से बचाता है जिसे तुम अभी नहीं समझते।"
+            "arabic": "كل تأخير يحمل خيرًا خفيًا",
+            "english": "Every delay carries hidden good. What you wait for may come in a better form.",
+            "hindi": "हर देरी में छिपी हुई भलाई होती है। जो मिलता है वह अक्सर बेहतर होता है।"
         },
         "reference": ""
     },
@@ -148,8 +148,8 @@
         "text":
         {
             "arabic": "استعن بالله ولا تعجز",
-            "english": "Seek help from Allah and never give up. Determination supported by faith creates unstoppable strength.",
-            "hindi": "अल्लाह से मदद मांगो और हार मत मानो।"
+            "english": "Seek help from Allah and do not give up. Strength comes from relying on Him.",
+            "hindi": "अल्लाह से मदद मांगो और हार मत मानो। उसी पर भरोसा ताकत देता है।"
         },
         "reference": "Hadith"
     },
@@ -158,11 +158,11 @@
         "category": "Motivation",
         "text":
         {
-            "arabic": "الشكر يفتح أبواب الرزق",
-            "english": "Gratitude opens doors of provision. Appreciating blessings attracts more goodness into life.",
-            "hindi": "शुक्र करने से रिज़्क के दरवाज़े खुलते हैं।"
+            "arabic": "الشكر سبب للزيادة",
+            "english": "Gratitude brings increase. Appreciating what you have invites more blessings.",
+            "hindi": "शुक्र करने से नेमतें बढ़ती हैं। जो है उसकी कद्र करो तो और मिलता है।"
         },
-        "reference": "Quran"
+        "reference": ""
     },
     {
         "id": "motivation-16",
@@ -170,8 +170,8 @@
         "text":
         {
             "arabic": "التغيير يبدأ من القلب",
-            "english": "Change begins within the heart. When intentions transform, actions and destiny follow.",
-            "hindi": "बदलाव दिल से शुरू होता है। जब नीयत बदलती है तो अमल और तकदीर भी बदल जाती है। "
+            "english": "Change begins within the heart. When intentions improve, actions follow.",
+            "hindi": "बदलाव दिल से शुरू होता है। जब नीयत बदलती है तो अमल भी बदलता है।"
         },
         "reference": ""
     },
@@ -181,8 +181,8 @@
         "text":
         {
             "arabic": "الإيمان يمنح الشجاعة",
-            "english": "Faith gives courage to face uncertainty. A believer moves forward knowing Allah never abandons sincere effort.",
-            "hindi": "ईमान इंसान को हिम्मत देता है। मोमिन आगे बढ़ता है क्योंकि वह जानता है कि अल्लाह सच्ची कोशिश को कभी बेकार नहीं जाने देता।"
+            "english": "Faith gives courage to face uncertainty. Belief removes fear from the path ahead.",
+            "hindi": "ईमान इंसान को हिम्मत देता है। यह डर को दूर करके आगे बढ़ने की ताकत देता है।"
         },
         "reference": ""
     },
@@ -192,10 +192,10 @@
         "text":
         {
             "arabic": "العلم طريق الرفعة",
-            "english": "Knowledge elevates a believer. Seeking learning sincerely becomes a path toward success and honor.",
-            "hindi": "इल्म इंसान को ऊँचा दर्जा देता है।"
+            "english": "Knowledge is a path to elevation. Learning brings both honor and success.",
+            "hindi": "इल्म इंसान को ऊँचा दर्जा देता है और इज़्ज़त दिलाता है।"
         },
-        "reference": "Quran Meaning"
+        "reference": ""
     },
     {
         "id": "motivation-19",
@@ -203,8 +203,8 @@
         "text":
         {
             "arabic": "لا تقارن رحلتك بغيرك",
-            "english": "Do not compare your journey with others. Allah writes unique paths for every soul.",
-            "hindi": "अपनी जिंदगी दूसरों से मत तुलना करो। अल्लाह हर इंसान के लिए अलग रास्ता लिखता है।"
+            "english": "Do not compare your journey with others. Your path is written uniquely for you.",
+            "hindi": "अपनी जिंदगी दूसरों से मत तुलना करो। तुम्हारा रास्ता तुम्हारे लिए खास है।"
         },
         "reference": ""
     },
@@ -214,8 +214,8 @@
         "text":
         {
             "arabic": "العمل مع الصدق بركة",
-            "english": "Work done with honesty carries blessings. Integrity attracts trust and divine support.",
-            "hindi": "सच्चाई के साथ किया गया काम बरकत लाता है।"
+            "english": "Work done with honesty brings blessings. Integrity leads to lasting success.",
+            "hindi": "सच्चाई के साथ किया गया काम बरकत लाता है और स्थायी कामयाबी देता है।"
         },
         "reference": ""
     },
@@ -225,8 +225,8 @@
         "text":
         {
             "arabic": "كل بداية صعبة تحمل نهاية جميلة",
-            "english": "Every difficult beginning leads to a beautiful ending when guided by patience and faith.",
-            "hindi": "हर कठिन शुरुआत खूबसूरत अंजाम ला सकती है।"
+            "english": "Every difficult beginning leads to a beautiful ending with patience and faith.",
+            "hindi": "हर कठिन शुरुआत एक खूबसूरत अंजाम ला सकती है।"
         },
         "reference": ""
     },
@@ -237,7 +237,7 @@
         {
             "arabic": "اجعل القرآن دليلك في الحياة",
             "english": "Make the Qur’an your guide in life. Its wisdom turns confusion into clarity.",
-            "hindi": "क़ुरआन को जिंदगी का रास्ता बनाओ।"
+            "hindi": "क़ुरआन को जिंदगी का रास्ता बनाओ। यह उलझन को सुलझा देता है।"
         },
         "reference": ""
     },
@@ -247,10 +247,10 @@
         "text":
         {
             "arabic": "العطاء لا ينقص الرزق",
-            "english": "Giving never decreases wealth. Generosity multiplies blessings in unexpected ways.",
+            "english": "Giving never decreases wealth. Generosity brings unexpected increase.",
             "hindi": "देने से रिज़्क कम नहीं होता बल्कि बढ़ता है।"
         },
-        "reference": "Hadith"
+        "reference": ""
     },
     {
         "id": "motivation-24",
@@ -258,7 +258,7 @@
         "text":
         {
             "arabic": "القلب القريب من الله لا يضيع",
-            "english": "A heart close to Allah never loses direction. Faith protects even during confusion.",
+            "english": "A heart close to Allah never loses direction. Faith keeps it steady.",
             "hindi": "जो दिल अल्लाह के करीब हो वह कभी भटकता नहीं।"
         },
         "reference": ""
@@ -269,8 +269,228 @@
         "text":
         {
             "arabic": "الأمل بالله بداية كل نجاح",
-            "english": "Hope in Allah is the beginning of every success. When belief drives effort, miracles become possibilities.",
+            "english": "Hope in Allah is the beginning of every success. Belief fuels effort and results.",
             "hindi": "अल्लाह से उम्मीद हर कामयाबी की शुरुआत है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-26",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "لا يتغير حالك حتى تبدأ بنفسك",
+            "english": "Your situation will not change until you begin with yourself. Growth starts from within.",
+            "hindi": "हालात तब तक नहीं बदलते जब तक इंसान खुद से शुरुआत न करे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-27",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "ثق بالله وامضِ في طريقك",
+            "english": "Trust Allah and keep moving forward. Progress begins with faith and courage.",
+            "hindi": "अल्लाह पर भरोसा करो और आगे बढ़ते रहो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-28",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "النجاح يحتاج صبرًا واستمرارًا",
+            "english": "Success requires patience and persistence. Consistency turns effort into achievement.",
+            "hindi": "कामयाबी के लिए सब्र और लगातार मेहनत जरूरी है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-29",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "اجعل نيتك صادقة يبارك الله عملك",
+            "english": "Make your intention sincere and Allah will bless your efforts.",
+            "hindi": "नीयत सच्ची रखो, अल्लाह तुम्हारे काम में बरकत देगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-30",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "القليل المستمر خير من الكثير المنقطع",
+            "english": "Consistent small actions are better than large actions done occasionally.",
+            "hindi": "थोड़ा लेकिन लगातार किया गया काम बेहतर है।"
+        },
+        "reference": "Hadith"
+    },
+    {
+        "id": "motivation-31",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "كل يوم فرصة جديدة للنجاح",
+            "english": "Every day is a new opportunity to succeed and improve yourself.",
+            "hindi": "हर दिन खुद को बेहतर बनाने का नया मौका है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-32",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "العزيمة تقودك إلى القمة",
+            "english": "Determination leads you to the top. Strong willpower overcomes obstacles.",
+            "hindi": "मजबूत इरादा इंसान को ऊँचाइयों तक पहुंचाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-33",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "لا تخف من البداية الجديدة",
+            "english": "Do not fear new beginnings. Every start carries the chance of success.",
+            "hindi": "नई शुरुआत से मत डरना, हर शुरुआत में कामयाबी का मौका होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-34",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الصبر مع العمل يحقق المعجزات",
+            "english": "Patience combined with effort can achieve what seems impossible.",
+            "hindi": "सब्र और मेहनत मिलकर नामुमकिन को भी मुमकिन बना देते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-35",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "اجعل نيتك لله يرفعك",
+            "english": "Make your intention for Allah, and He will elevate you.",
+            "hindi": "नीयत अल्लाह के लिए रखो, वह तुम्हें ऊँचा उठाएगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-36",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "كل جهد تضعه يراه الله",
+            "english": "Every effort you make is seen by Allah. Nothing goes unnoticed.",
+            "hindi": "तुम्हारी हर कोशिश अल्लाह देखता है, कुछ भी बेकार नहीं जाता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-37",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الثقة بالله تمنحك القوة",
+            "english": "Trust in Allah gives you strength to overcome any challenge.",
+            "hindi": "अल्लाह पर भरोसा इंसान को हर मुश्किल से लड़ने की ताकत देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-38",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "النجاح ثمرة الاجتهاد",
+            "english": "Success is the fruit of hard work and dedication.",
+            "hindi": "कामयाबी मेहनत और लगन का फल है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-39",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "اجعل وقتك فيما ينفعك",
+            "english": "Use your time in what benefits you. Every moment matters.",
+            "hindi": "अपने वक्त को उन कामों में लगाओ जो तुम्हारे लिए फायदेमंद हों।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-40",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "النية الصادقة تفتح أبواب النجاح",
+            "english": "Sincere intention opens the doors of success and brings lasting results.",
+            "hindi": "सच्ची नीयत कामयाबी के दरवाज़े खोल देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-41",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "ثق بأن الله يختار لك الخير حتى وإن لم تفهم الحكمة الآن",
+            "english": "Trust that Allah chooses what is best for you, even when you cannot understand it right now. What feels like a delay may be protection, and what feels like a loss may be a hidden blessing leading you toward something greater.",
+            "hindi": "यकीन रखो कि अल्लाह तुम्हारे लिए वही चुनता है जो बेहतर है, चाहे तुम अभी उसकी हिकमत न समझ सको। जो देर लगती है वह कभी सुरक्षा होती है और जो नुकसान लगता है वह अक्सर छुपी हुई भलाई होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-42",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "كل خطوة نحو الله تقربك من الطمأنينة التي تبحث عنها",
+            "english": "Every step you take toward Allah brings you closer to the peace you are searching for. Even small efforts, when done sincerely, have the power to transform your life and fill your heart with strength and clarity.",
+            "hindi": "अल्लाह की तरफ उठाया गया हर कदम तुम्हें उस सुकून के करीब लाता है जिसकी तुम तलाश कर रहे हो। छोटी-छोटी कोशिशें भी अगर सच्चे दिल से हों तो जिंदगी बदल सकती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-43",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "لا تجعل خوفك يمنعك من السعي فالله مع من يحاول",
+            "english": "Do not let fear stop you from trying, for Allah is with those who strive. Every effort you make, no matter how small, is seen and valued, and it can lead to doors opening in ways you never imagined.",
+            "hindi": "डर को अपनी कोशिशों के बीच मत आने दो, क्योंकि अल्लाह कोशिश करने वालों के साथ होता है। तुम्हारी हर छोटी कोशिश भी देखी जाती है और वह अनदेखे रास्ते खोल सकती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-44",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الصبر ليس انتظارًا سلبيًا بل قوة تدفعك للاستمرار بثقة",
+            "english": "Patience is not passive waiting, but a powerful strength that keeps you moving forward with trust. It teaches you to remain firm, to keep striving, and to believe that Allah’s plan is always unfolding in your favor.",
+            "hindi": "सब्र सिर्फ इंतजार नहीं बल्कि एक ताकत है जो तुम्हें भरोसे के साथ आगे बढ़ने की हिम्मत देती है। यह सिखाता है कि डटे रहो और यकीन रखो कि अल्लाह की योजना हमेशा बेहतर होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-45",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "اجعل نيتك خالصة لله وستجد البركة في كل ما تفعل",
+            "english": "Make your intention purely for Allah, and you will find blessings in everything you do. Even ordinary actions become meaningful, and your efforts gain a deeper purpose that leads to both success and inner peace.",
+            "hindi": "अपनी नीयत सिर्फ अल्लाह के लिए रखो, तब तुम्हें हर काम में बरकत मिलेगी। साधारण काम भी खास बन जाएंगे और तुम्हारी मेहनत को असली मकसद मिलेगा।"
         },
         "reference": ""
     }

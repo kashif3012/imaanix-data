@@ -1,151 +1,301 @@
 [
   {
-    "id": "wife-1",
+    "id": "marriage-1",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "A Sacred Marriage is not merely a partner in worldly life but a companion in faith. She walks beside her husband in prayer, patience, and the shared hope of Jannah.",
-      "hindi": "इस्लाम में बीवी केवल दुनियावी साथी नहीं होती, बल्कि दीन की हमसफ़र होती है। वह अपने शौहर के साथ नमाज़, सब्र और जन्नत की उम्मीद के सफर में चलती है।"
+      "arabic": "الزواج سكنٌ ومودةٌ ورحمة بين الزوجين",
+      "english": "Marriage is a sanctuary of peace, love, and mercy. It is not just a bond of companionship but a journey where both spouses grow together in faith and support one another toward Jannah.",
+      "hindi": "निकाह सुकून, मोहब्बत और रहमत का रिश्ता है। यह केवल साथ रहने का नहीं, बल्कि दीन में साथ बढ़ने और एक-दूसरे को जन्नत की राह में मदद करने का सफर है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-2",
+    "id": "marriage-2",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "A righteous wife brings tranquility into her home, turning ordinary moments into acts of worship through sincerity and remembrance of Allah.",
-      "hindi": "एक नेक बीवी अपने घर में सुकून लाती है और अपनी सच्चाई व अल्लाह की याद के ज़रिये आम लम्हों को भी इबादत में बदल देती है।"
+      "arabic": "الزوجة الصالحة سكنٌ لقلب زوجها ونورٌ لبيتها",
+      "english": "A righteous wife becomes a source of peace for her husband and a light within her home. Through her sincerity and faith, she transforms ordinary moments into meaningful acts of devotion.",
+      "hindi": "एक नेक बीवी अपने शौहर के दिल के लिए सुकून और घर के लिए रोशनी बनती है। अपनी सच्चाई और ईमान से वह आम लम्हों को भी इबादत में बदल देती है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-3",
+    "id": "marriage-3",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "In Islam, the honor of a wife is protected, her dignity is upheld, and her rights are clearly defined as part of a sacred covenant.",
-      "hindi": "इस्लाम में बीवी की इज़्ज़त की हिफाज़त की गई है, उसकी गरिमा को कायम रखा गया है और उसके हक़ एक पवित्र अहद के तहत स्पष्ट किए गए हैं।"
+      "arabic": "كرامة الزوجة مصونة في الإسلام وحقوقها محفوظة",
+      "english": "Islam protects the dignity of a wife and secures her rights within a sacred bond. She is honored, respected, and valued as an essential pillar of the family.",
+      "hindi": "इस्लाम में बीवी की इज़्ज़त और उसके हक़ पूरी तरह सुरक्षित हैं। वह घर की एक अहम और सम्मानित हिस्सा होती है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-4",
+    "id": "marriage-4",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "A believing wife supports her husband not only in worldly matters but also in strengthening his connection with Allah.",
-      "hindi": "एक मोमिन बीवी अपने शौहर का साथ केवल दुनिया के मामलों में नहीं देती, बल्कि उसे अल्लाह से अपने रिश्ते को मजबूत करने में भी मदद करती है।"
+      "arabic": "الزوجة المؤمنة تعين زوجها على طاعة الله وتقربه من الخير",
+      "english": "A believing wife supports her husband not only in worldly matters but also in strengthening his connection with Allah, guiding him gently toward goodness.",
+      "hindi": "एक मोमिन बीवी अपने शौहर का साथ केवल दुनिया में नहीं देती, बल्कि उसे अल्लाह के करीब लाने और भलाई की राह पर चलने में भी मदद करती है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-5",
+    "id": "marriage-5",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "The strength of a Muslim wife is found in her patience during hardship, her gratitude in ease, and her wisdom in times of trial.",
-      "hindi": "एक मुस्लिम बीवी की ताक़त उसके मुश्किल में सब्र, आसानी में शुक्र और इम्तिहान के समय हिकमत में दिखाई देती है।"
+      "arabic": "قوة الزوجة في صبرها وشكرها وثباتها على الإيمان",
+      "english": "The strength of a Muslim wife lies in her patience during hardship, her gratitude in times of ease, and her unwavering faith through every trial.",
+      "hindi": "एक मुस्लिम बीवी की असली ताक़त उसके सब्र, शुक्र और हर हाल में मजबूत ईमान में दिखाई देती है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-6",
+    "id": "marriage-6",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "A wife who guards her faith and her home fulfills a noble responsibility that carries immense reward in the sight of Allah.",
-      "hindi": "वह बीवी जो अपने दीन और अपने घर की हिफाज़त करती है, वह एक ऊँची जिम्मेदारी निभाती है जिसका अल्लाह के नज़दीक बड़ा सवाब है।"
+      "arabic": "حفظ الدين والبيت أمانة عظيمة في يد الزوجة",
+      "english": "A wife who protects her faith and her home carries a noble trust. Her sincerity in fulfilling this responsibility earns great reward from Allah.",
+      "hindi": "वह बीवी जो अपने दीन और अपने घर की हिफाज़त करती है, वह एक बड़ी अमानत निभाती है जिसका अल्लाह के पास बड़ा सवाब है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-7",
+    "id": "marriage-7",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "Marriage in Islam is built upon mercy, and a wife is a central source of that mercy within the home.",
-      "hindi": "इस्लाम में निकाह रहमत पर आधारित है, और बीवी घर के भीतर उस रहमत का अहम ज़रिया होती है।"
+      "arabic": "الزواج يقوم على الرحمة والزوجة قلب هذه الرحمة",
+      "english": "Marriage in Islam is built upon mercy, and a wife often becomes the heart of that mercy within the home, spreading compassion and warmth.",
+      "hindi": "इस्लाम में निकाह रहमत पर आधारित है, और बीवी घर में उस रहमत का दिल बनकर मोहब्बत और नरमी फैलाती है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-8",
+    "id": "marriage-8",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "A Muslim wife who remains sincere in her intentions turns her daily responsibilities into continuous acts of worship.",
-      "hindi": "एक मुस्लिम बीवी जो अपनी नियत को खालिस रखे, वह अपनी रोजमर्रा की जिम्मेदारियों को लगातार इबादत में बदल देती है।"
+      "arabic": "إخلاص الزوجة يجعل أعمالها اليومية عبادة متواصلة",
+      "english": "When a wife remains sincere in her intentions, even her daily responsibilities become continuous acts of worship in the sight of Allah.",
+      "hindi": "जब बीवी अपनी नियत को खालिस रखती है, तो उसकी रोज़मर्रा की जिम्मेदारियाँ भी लगातार इबादत बन जाती हैं।"
     },
     "reference": ""
   },
   {
-    "id": "wife-9",
+    "id": "marriage-9",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "The beauty of a Sacred Marriage lies not only in appearance but in her character, modesty, and devotion to Allah.",
-      "hindi": "इस्लाम में बीवी की खूबसूरती केवल उसके रूप में नहीं, बल्कि उसके किरदार, हया और अल्लाह के प्रति उसकी लगन में होती है।"
+      "arabic": "جمال الزوجة الحقيقي في خلقها وحياها وتقواها",
+      "english": "The true beauty of a wife lies not in appearance but in her character, modesty, and deep connection with Allah.",
+      "hindi": "बीवी की असली खूबसूरती उसके रूप में नहीं, बल्कि उसके किरदार, हया और अल्लाह से उसके रिश्ते में होती है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-10",
+    "id": "marriage-10",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "A righteous wife strengthens the foundation of a family by nurturing love, patience, and faith within the home.",
-      "hindi": "एक नेक बीवी घर में मोहब्बत, सब्र और ईमान को बढ़ाकर परिवार की बुनियाद को मजबूत करती है।"
+      "arabic": "الزوجة الصالحة تبني بيتاً يقوم على الإيمان والمودة",
+      "english": "A righteous wife builds a home rooted in faith and love, creating an environment where hearts grow closer to Allah.",
+      "hindi": "एक नेक बीवी ऐसा घर बनाती है जो ईमान और मोहब्बत पर खड़ा होता है, जहाँ दिल अल्लाह के करीब आते हैं।"
     },
     "reference": ""
   },
   {
-    "id": "wife-11",
+    "id": "marriage-11",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "When a wife practices gratitude and trust in Allah, she becomes a source of emotional stability and spiritual strength.",
-      "hindi": "जब बीवी शुक्र और अल्लाह पर भरोसा करती है, तो वह घर में जज़्बाती स्थिरता और रूहानी ताक़त का ज़रिया बनती है।"
+      "arabic": "الزوجة الشاكرة سبب في استقرار البيت وسكينته",
+      "english": "A grateful wife brings emotional stability and peace into her home, nurturing an atmosphere of calmness and trust.",
+      "hindi": "शुक्र करने वाली बीवी घर में सुकून और स्थिरता लाती है और भरोसे का माहौल बनाती है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-12",
+    "id": "marriage-12",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "A Sacred Marriage is honored as a partner whose voice, feelings, and dignity matter within the sacred bond of marriage.",
-      "hindi": "इस्लाम में बीवी को एक ऐसी हमसफ़र के रूप में सम्मान दिया गया है जिसकी बात, एहसास और इज़्ज़त निकाह के पवित्र रिश्ते में मायने रखते हैं।"
+      "arabic": "الزوجة مكرمة يُحترم رأيها وتُصان مشاعرها",
+      "english": "A wife in Islam is honored, her voice is respected, and her emotions are valued within the sacred bond of marriage.",
+      "hindi": "इस्लाम में बीवी को सम्मान दिया जाता है, उसकी बात सुनी जाती है और उसके एहसास की कदर की जाती है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-13",
+    "id": "marriage-13",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "The role of a wife is not weakness but strength wrapped in compassion, patience, and faith.",
-      "hindi": "बीवी का किरदार कमजोरी नहीं, बल्कि रहम, सब्र और ईमान में लिपटी हुई ताक़त है।"
+      "arabic": "الزوجة ليست ضعفاً بل قوة مملوءة بالرحمة والإيمان",
+      "english": "The role of a wife is not weakness but strength filled with compassion, patience, and faith that holds the family together.",
+      "hindi": "बीवी का किरदार कमजोरी नहीं बल्कि रहम, सब्र और ईमान से भरी ताक़त है जो परिवार को जोड़े रखती है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-14",
+    "id": "marriage-14",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "A Muslim wife who values her faith builds a home where Allah is remembered and peace is preserved.",
-      "hindi": "वह मुस्लिम बीवी जो अपने दीन की क़दर करती है, ऐसा घर बनाती है जहाँ अल्लाह को याद किया जाता है और सुकून कायम रहता है।"
+      "arabic": "الزوجة المؤمنة تبني بيتاً يذكر فيه الله دائماً",
+      "english": "A believing wife builds a home where Allah is remembered, creating a space filled with peace, blessings, and spiritual warmth.",
+      "hindi": "एक मोमिन बीवी ऐसा घर बनाती है जहाँ अल्लाह की याद होती है और सुकून व बरकत कायम रहती है।"
     },
     "reference": ""
   },
   {
-    "id": "wife-15",
+    "id": "marriage-15",
     "category": "Sacred Marriage",
     "text": {
-      "arabic": "",
-      "english": "In Islam, a wife is a blessing entrusted with love, respect, and responsibility within a bond that is sacred and accountable before Allah.",
-      "hindi": "इस्लाम में बीवी एक नेमत है जिसे मोहब्बत, इज़्ज़त और जिम्मेदारी के साथ एक ऐसे रिश्ते में रखा गया है जो अल्लाह के सामने पवित्र और जवाबदेह है।"
+      "arabic": "الزوجة نعمة عظيمة تُصان بالمحبة والاحترام",
+      "english": "A wife is a great blessing entrusted with love and respect. Honoring her is part of honoring the sacred trust given by Allah.",
+      "hindi": "बीवी एक बड़ी नेमत है जिसे मोहब्बत और इज़्ज़त के साथ संभालना चाहिए। उसकी कदर करना अल्लाह की दी हुई अमानत की कदर करना है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-16",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "الزوج الصالح يعامل زوجته برحمة ولين في كل حال",
+      "english": "A righteous husband treats his wife with mercy and gentleness in every situation, knowing that kindness strengthens love and builds lasting trust.",
+      "hindi": "एक नेक शौहर हर हाल में अपनी बीवी के साथ नरमी और रहमदिली से पेश आता है, क्योंकि यही मोहब्बत और भरोसे को मजबूत करता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-17",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "خيركم خيركم لأهله وأنا خيركم لأهلي",
+      "english": "The best among you are those who are best to their wives. True excellence in character is reflected in how a man treats his spouse with respect and care.",
+      "hindi": "तुम में सबसे बेहतर वह है जो अपनी बीवी के साथ सबसे अच्छा हो। असली अच्छाई इंसान के अपने घर के व्यवहार में दिखाई देती है।"
+    },
+    "reference": "Sunan al-Tirmidhi"
+  },
+  {
+    "id": "marriage-18",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "الزوج الحكيم يقود بيته بالمودة والرحمة لا بالقسوة",
+      "english": "A wise husband leads his home with love and mercy, not harshness. True leadership is built on understanding, patience, and emotional care.",
+      "hindi": "एक समझदार शौहर अपने घर को मोहब्बत और रहमत से चलाता है, सख्ती से नहीं। असली क़ियादत समझदारी और सब्र में होती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-19",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "احترام الزوجة من كمال الإيمان وحسن الخلق",
+      "english": "Respecting one’s wife is a sign of strong faith and good character. A believing husband honors her dignity and values her presence.",
+      "hindi": "बीवी की इज़्ज़त करना मजबूत ईमान और अच्छे अख़लाक की निशानी है। एक मोमिन अपनी बीवी की कदर करता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-20",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "الزوج الصالح يكون سكينة لزوجته كما تكون له",
+      "english": "A righteous husband becomes a source of peace for his wife just as she is for him, creating a balanced and loving relationship.",
+      "hindi": "एक नेक शौहर अपनी बीवी के लिए सुकून बनता है, जैसे वह उसके लिए होती है, जिससे रिश्ता संतुलित और मोहब्बत भरा बनता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-21",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "الزوج الصالح يحفظ قلب زوجته كما يحفظ بيته",
+      "english": "A righteous husband protects his wife’s heart just as he protects his home, understanding that emotional care is part of responsibility.",
+      "hindi": "एक नेक शौहर अपनी बीवी के दिल की हिफाज़त करता है जैसे अपने घर की करता है, क्योंकि जज़्बाती ख्याल रखना भी जिम्मेदारी है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-22",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "المودة بين الزوجين تقوى بالصبر والتفاهم",
+      "english": "Love between spouses grows stronger through patience and understanding. Every challenge becomes easier when faced together with faith.",
+      "hindi": "पति-पत्नी के बीच मोहब्बत सब्र और समझ से मजबूत होती है। हर मुश्किल आसान हो जाती है जब दोनों मिलकर सामना करते हैं।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-23",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "الزواج الصالح طريق إلى السكينة في الدنيا والجنة في الآخرة",
+      "english": "A righteous marriage becomes a path to peace in this world and a means toward Jannah in the Hereafter when both spouses support each other in faith.",
+      "hindi": "एक नेक निकाह दुनिया में सुकून और आख़िरत में जन्नत का रास्ता बनता है जब दोनों एक-दूसरे को दीन में सहारा देते हैं।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-24",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "الرحمة بين الزوجين تحفظ الحب وتزيده",
+      "english": "Mercy between spouses preserves love and increases it over time. A gentle heart keeps the relationship strong and enduring.",
+      "hindi": "पति-पत्नी के बीच रहम दिल मोहब्बत को संभालता है और बढ़ाता है। नरमी रिश्ता मजबूत बनाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-25",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "الزوجان الصالحان يعين كلٌ منهما الآخر على طاعة الله",
+      "english": "Righteous spouses support one another in obedience to Allah, helping each other grow spiritually and stay firm in faith.",
+      "hindi": "नेक पति-पत्नी एक-दूसरे को अल्लाह की इबादत में मदद करते हैं और दीन में आगे बढ़ाते हैं।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-26",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "الصبر بين الزوجين يحفظ العلاقة ويقويها مع الزمن",
+      "english": "Patience between spouses protects the relationship and strengthens it over time, turning difficulties into deeper understanding.",
+      "hindi": "पति-पत्नी के बीच सब्र रिश्ते को संभालता है और वक्त के साथ मजबूत बनाता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-27",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "الزواج الناجح يقوم على الاحترام المتبادل والرحمة",
+      "english": "A successful marriage is built upon mutual respect and mercy, where both partners value and honor each other equally.",
+      "hindi": "एक सफल निकाह आपसी इज़्ज़त और रहम पर आधारित होता है, जहाँ दोनों एक-दूसरे की कदर करते हैं।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-28",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "التفاهم بين الزوجين أساس السكينة والاستقرار",
+      "english": "Understanding between spouses is the foundation of peace and stability, allowing love to grow in a healthy and balanced way.",
+      "hindi": "पति-पत्नी के बीच समझ ही सुकून और स्थिरता की बुनियाद है, जिससे मोहब्बत सही तरीके से बढ़ती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-29",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "البيت الذي يذكر فيه الله يعيش في سكينة دائمة",
+      "english": "A home where Allah is remembered regularly lives in continuous peace, as faith fills every corner with blessings.",
+      "hindi": "वह घर जहाँ अल्लाह को याद किया जाता है, वहाँ हमेशा सुकून और बरकत रहती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "marriage-30",
+    "category": "Sacred Marriage",
+    "text": {
+      "arabic": "الزواج في الإسلام شراكة في الرحمة والإيمان والطاعة",
+      "english": "Marriage in Islam is a partnership built on mercy, faith, and obedience to Allah, where both spouses walk together toward a higher purpose.",
+      "hindi": "इस्लाम में निकाह रहमत, ईमान और अल्लाह की इताअत पर आधारित एक साझेदारी है, जिसमें दोनों एक साथ बेहतर मकसद की ओर बढ़ते हैं।"
     },
     "reference": ""
   }

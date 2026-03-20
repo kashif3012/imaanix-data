@@ -162,7 +162,7 @@
             "english": "A home in which Allah is remembered is surrounded by angels and filled with tranquility.",
             "hindi": "जिस घर में अल्लाह का ज़िक्र होता है वहाँ फरिश्ते और सुकून होता है।"
         },
-        "reference": "Hadith (Meaning)"
+        "reference": "Hadith"
     },
     {
         "id": "family-16",
@@ -171,7 +171,7 @@
         {
             "arabic": "التضحية من أجل الأسرة عبادة",
             "english": "Sacrifice for family is an act of worship. Providing and caring for loved ones earns great reward.",
-            "hindi": "परिवार के लिए कुर्बानी देना इबादत है।"
+            "hindi": "परिवार के लिए कुर्बानी देना एक बड़ी इबादत है जो अल्लाह को पसंद है।"
         },
         "reference": ""
     },
@@ -237,7 +237,7 @@
         {
             "arabic": "الشكر داخل الأسرة يزيد البركة",
             "english": "Gratitude within the family increases blessings. Appreciating one another builds love.",
-            "hindi": "घर में शुक्र करने से बरकत बढ़ती है।"
+            "hindi": "घर में शुक्र करने से बरकत बढ़ती है और रिश्तों में मोहब्बत आती है।"
         },
         "reference": ""
     },
@@ -271,6 +271,171 @@
             "arabic": "الأسرة الصالحة كنز لا يقدر بثمن",
             "english": "A righteous family is a priceless treasure. Cherish it, protect it, and nurture it with faith and kindness.",
             "hindi": "नेक परिवार अनमोल खज़ाना है, इसे ईमान और मोहब्बत से संभालें।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-26",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "لين الكلام في البيت يزيد المودة",
+            "english": "Gentle speech at home increases love and harmony. Kind words can soften hearts and bring family members closer.",
+            "hindi": "घर में नरमी से बात करना मोहब्बत बढ़ाता है। अच्छे अल्फाज़ दिलों को करीब लाते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-27",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيت الذي يُبنى على الحب يدوم",
+            "english": "A home built on love endures through every test. Strong affection keeps the family united in all situations.",
+            "hindi": "मोहब्बत पर बना घर हर हाल में कायम रहता है। सच्चा प्यार परिवार को जोड़े रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-28",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "التسامح في الأسرة يجدد القلوب",
+            "english": "Forgiveness within the family renews hearts and restores peace after every hardship.",
+            "hindi": "घर में माफी दिलों को नया सुकून देती है और हर मुश्किल के बाद शांति लौटाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-29",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الاهتمام بالأهل عبادة خفية",
+            "english": "Caring for your family is a hidden act of worship that brings immense reward from Allah.",
+            "hindi": "अपने परिवार का ख्याल रखना एक छुपी हुई इबादत है जो बड़ा अज्र दिलाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-30",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "اجتماع القلوب في البيت نعمة عظيمة",
+            "english": "The unity of hearts within a home is a great blessing that brings strength and lasting peace.",
+            "hindi": "घर में दिलों का जुड़ाव एक बड़ी नेमत है जो ताकत और सुकून लाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-31",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيت الهادئ ثمرة التفاهم",
+            "english": "A peaceful home is the result of understanding, patience, and mutual respect.",
+            "hindi": "सुकून भरा घर समझदारी, सब्र और आपसी इज़्ज़त का नतीजा होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-32",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "العطاء داخل الأسرة يزيد المحبة",
+            "english": "Giving within the family increases love and strengthens emotional bonds.",
+            "hindi": "घर में देने का जज़्बा मोहब्बत को बढ़ाता है और रिश्तों को मजबूत करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-33",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الاستماع للأهل دليل المحبة",
+            "english": "Listening to your family is a sign of love. Being present for them strengthens trust and connection.",
+            "hindi": "घरवालों की बात सुनना मोहब्बत की निशानी है। इससे भरोसा और जुड़ाव बढ़ता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-34",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "النية الصالحة تصلح العلاقات",
+            "english": "Pure intentions repair relationships and bring harmony back into the family.",
+            "hindi": "साफ नीयत रिश्तों को सुधारती है और घर में फिर से सुकून लाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-35",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الأسرة التي تتعاون تنجح",
+            "english": "A family that supports and cooperates with each other succeeds together in both dunya and akhirah.",
+            "hindi": "जो परिवार एक-दूसरे का साथ देता है, वह दुनिया और आखिरत दोनों में कामयाब होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-36",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "حسن الخلق في البيت أساس السعادة",
+            "english": "Good character at home is the foundation of true happiness. A kind attitude brings lasting peace to the family.",
+            "hindi": "घर में अच्छा अख़लाक असली खुशहाली की बुनियाद है। अच्छा बर्ताव घर में सुकून लाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-37",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيت الذي يسوده الحب لا يكسره الخلاف",
+            "english": "A home filled with love is not broken by disagreements. Love keeps hearts connected even in difficult times.",
+            "hindi": "जिस घर में मोहब्बत होती है, उसे झगड़े तोड़ नहीं सकते। प्यार हर हाल में दिलों को जोड़े रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-38",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الدعاء للأهل نور لا ينقطع",
+            "english": "Praying for your family is a light that never fades, protecting them in ways you cannot see.",
+            "hindi": "परिवार के लिए की गई दुआ एक ऐसी रोशनी है जो कभी खत्म नहीं होती और उन्हें अनदेखे तरीकों से बचाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-39",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الرفق في التعامل مع الأهل يزيد البركة",
+            "english": "Gentleness in dealing with your family increases blessings and brings calm into the home.",
+            "hindi": "घरवालों के साथ नरमी बरकत बढ़ाती है और घर में सुकून लाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-40",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيت الصالح ملجأ من هموم الدنيا",
+            "english": "A righteous home becomes a refuge from the worries of the world, offering comfort and peace.",
+            "hindi": "नेक घर दुनिया की परेशानियों से पनाह बन जाता है और सुकून देता है।"
         },
         "reference": ""
     }

@@ -220,102 +220,222 @@
         "reference": ""
     },
     {
-        "id": "faith-anxiety-1",
+        "id": "faith-21",
         "category": "Faith",
         "text":
         {
             "arabic": "ألا بذكر الله تطمئن القلوب",
-            "english": "In the remembrance of Allah hearts find peace. Anxiety fades when worries are handed to the One who controls every outcome."
+            "english": "In the remembrance of Allah hearts find peace. Anxiety fades when worries are handed to the One who controls every outcome.",
+            "hindi": "निश्चय ही, अल्लाह के ज़िक्र में दिलों को सुकून मिलता है। जब इंसान अपनी चिंताओं को अल्लाह के हवाले कर देता है तो दिल को राहत मिलती है।"
         },
         "reference": "Quran 13:28"
     },
     {
-        "id": "faith-anxiety-2",
+        "id": "faith-22",
         "category": "Faith",
         "text":
         {
             "arabic": "الله يعلم ما في قلبك",
-            "english": "Allah knows the pain hidden within your chest. Speak to Him even when words fail."
+            "english": "Allah knows the pain hidden within your chest. Speak to Him even when words fail.",
+            "hindi": "अल्लाह तुम्हारे दिल के हाल को जानता है। जब शब्द साथ न दें तब भी उससे बात करो।"
         },
         "reference": ""
     },
     {
-        "id": "faith-anxiety-3",
+        "id": "faith-23",
         "category": "Faith",
         "text":
         {
             "arabic": "التوكل يزيل الخوف",
-            "english": "Trust in Allah removes fear. When you surrender control, peace replaces worry."
+            "english": "Trust in Allah removes fear. When you surrender control, peace replaces worry.",
+            "hindi": "अल्लाह पर भरोसा डर को खत्म कर देता है। जब इंसान खुद को उसके हवाले कर देता है तो सुकून मिल जाता है।"
         },
         "reference": ""
     },
     {
-        "id": "faith-anxiety-4",
+        "id": "faith-24",
         "category": "Faith",
         "text":
         {
             "arabic": "كل تأخير يحمل رحمة",
-            "english": "Every delay carries mercy. What feels like rejection may actually be protection."
+            "english": "Every delay carries mercy. What feels like rejection may actually be protection.",
+            "hindi": "हर देरी में अल्लाह की रहमत होती है। जो हमें इंकार लगता है, वही कभी-कभी हमारी हिफाज़त भी होता है।"
         },
         "reference": ""
     },
     {
-        "id": "faith-anxiety-5",
+        "id": "faith-25",
         "category": "Faith",
         "text":
         {
             "arabic": "الدعاء يهدئ القلب",
-            "english": "Dua calms the heart. Tears raised toward heaven never fall unnoticed."
+            "english": "Dua calms the heart. Tears raised toward heaven never fall unnoticed.",
+            "hindi": "दुआ दिल को सुकून देती है। आसमान की तरफ उठे आँसू कभी बेकार नहीं जाते।"
         },
         "reference": ""
     },
     {
-        "id": "faith-anxiety-6",
+        "id": "faith-26",
         "category": "Faith",
         "text":
         {
             "arabic": "مع العسر يسرا",
-            "english": "With hardship comes ease. Every difficulty has already been paired with relief by Allah."
+            "english": "With hardship comes ease. Every difficulty has already been paired with relief by Allah.",
+            "hindi": "हर मुश्किल के साथ आसानी है। अल्लाह हर परेशानी के साथ राहत भी रखता है।"
         },
         "reference": "Quran 94:5"
     },
     {
-        "id": "faith-anxiety-7",
+        "id": "faith-27",
         "category": "Faith",
         "text":
         {
             "arabic": "الله لا ينسى عباده",
-            "english": "Allah never forgets His servants. Even silence in life is part of His planning."
+            "english": "Allah never forgets His servants. Even silence in life is part of His planning.",
+            "hindi": "अल्लाह अपने बंदों को कभी नहीं भूलता। जिंदगी की खामोशी भी उसकी योजना का हिस्सा होती है।"
         },
         "reference": ""
     },
     {
-        "id": "faith-anxiety-8",
+        "id": "faith-28",
         "category": "Faith",
         "text":
         {
             "arabic": "الصلاة ملجأ القلوب",
-            "english": "Prayer becomes a refuge when the world feels heavy."
+            "english": "Prayer becomes a refuge when the world feels heavy.",
+            "hindi": "जब दुनिया भारी लगने लगे तो नमाज़ दिल का सहारा बन जाती है।"
         },
         "reference": ""
     },
     {
-        "id": "faith-anxiety-9",
+        "id": "faith-29",
         "category": "Faith",
         "text":
         {
             "arabic": "ما أصابك لم يكن ليخطئك",
-            "english": "What reaches you was never meant to miss you. Destiny carries wisdom beyond understanding."
+            "english": "What reaches you was never meant to miss you. Destiny carries wisdom beyond understanding.",
+            "hindi": "जो तुम्हें मिला है वह कभी तुमसे चूक नहीं सकता था। तकदीर में ऐसी हिकमत होती है जिसे इंसान तुरंत समझ नहीं पाता।"
         },
         "reference": ""
     },
     {
-        "id": "faith-anxiety-10",
+        "id": "faith-30",
         "category": "Faith",
         "text":
         {
             "arabic": "القرب من الله أمان",
-            "english": "Closeness to Allah becomes safety during storms of life."
+            "english": "Closeness to Allah becomes safety during storms of life.",
+            "hindi": "अल्लाह के करीब होना जिंदगी के तूफानों में भी अमन और सुरक्षा देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-31",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يثبت القلب عند الشدائد",
+            "english": "Faith keeps the heart firm during hardships. When everything shakes, belief keeps you standing.",
+            "hindi": "ईमान मुश्किलों में दिल को मजबूत बनाए रखता है। जब सब कुछ हिल जाए तब भी ईमान इंसान को संभालता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-32",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "من وثق بالله كفاه",
+            "english": "Whoever trusts Allah, He is sufficient for them. No reliance is stronger than reliance on Him.",
+            "hindi": "जो अल्लाह पर भरोसा करता है, वह उसके लिए काफी होता है। उससे बड़ा सहारा कोई नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-33",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يبدل الحزن سكينة",
+            "english": "Faith turns sorrow into calmness. A believing heart always finds its way back to peace.",
+            "hindi": "ईमान ग़म को सुकून में बदल देता है। मोमिन का दिल आखिरकार सुकून पा ही लेता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-34",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الله مع من صدق في إيمانه",
+            "english": "Allah is with those who are sincere in their faith. True belief invites divine support.",
+            "hindi": "अल्लाह उन लोगों के साथ होता है जिनका ईमान सच्चा होता है। सच्चा यकीन अल्लाह की मदद लाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-35",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يمنح القلب قوة لا ترى",
+            "english": "Faith gives the heart unseen strength. What others cannot see, Allah strengthens within you.",
+            "hindi": "ईमान दिल को ऐसी ताकत देता है जो दिखाई नहीं देती। अल्लाह अंदर से इंसान को मजबूत करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-36",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "من لجأ إلى الله وجد الأمان",
+            "english": "Whoever turns to Allah finds safety. His protection is greater than any fear.",
+            "hindi": "जो अल्लाह की तरफ लौटता है उसे अमन मिलता है। उसकी हिफाज़त हर डर से बड़ी होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-37",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان نور في طريق الحياة",
+            "english": "Faith is a light on the path of life. It guides you even in the darkest moments.",
+            "hindi": "ईमान जिंदगी के रास्ते में रोशनी है। यह अंधेरे वक्त में भी रास्ता दिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-38",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الثقة بالله تملأ القلب طمأنينة",
+            "english": "Trust in Allah fills the heart with peace. Worry fades when reliance becomes firm.",
+            "hindi": "अल्लाह पर भरोसा दिल को सुकून से भर देता है। जब भरोसा मजबूत हो जाए तो फिक्र खत्म हो जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-39",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يجعل المستحيل ممكناً",
+            "english": "Faith makes the impossible possible. With Allah, no difficulty is beyond solution.",
+            "hindi": "ईमान नामुमकिन को भी मुमकिन बना देता है। अल्लाह के साथ कोई मुश्किल बड़ी नहीं होती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-40",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "من قوي إيمانه سهلت عليه الحياة",
+            "english": "Whoever strengthens their faith finds life easier. Strong belief simplifies even complex trials.",
+            "hindi": "जिसका ईमान मजबूत हो जाए उसकी जिंदगी आसान हो जाती है। मजबूत यकीन मुश्किलों को भी आसान बना देता है।"
         },
         "reference": ""
     }
