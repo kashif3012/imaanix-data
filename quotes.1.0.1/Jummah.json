@@ -55,39 +55,6 @@
         "reference": ""
     },
     {
-        "id": "ramadan-long-1",
-        "category": "Ramadan",
-        "text":
-        {
-            "arabic": "رمضان شهر الرحمة والمغفرة وتزكية القلوب",
-            "english": "Ramadan is the month of mercy, forgiveness, and purification of hearts. Every fast teaches patience, every prayer builds hope, and every dua brings a believer closer to Allah.",
-            "hindi": "रमज़ान रहमत, मग़फिरत और दिलों की सफाई का महीना है। हर रोज़ा सब्र सिखाता है और हर दुआ इंसान को अल्लाह के करीब लाती है।"
-        },
-        "reference": ""
-    },
-    {
-        "id": "ramadan-long-2",
-        "category": "Ramadan",
-        "text":
-        {
-            "arabic": "في رمضان تفتح أبواب الجنة وتغلق أبواب النار",
-            "english": "In Ramadan the doors of Paradise are opened and the doors of Hell are closed. It is a chance to rebuild faith and begin a new chapter of obedience.",
-            "hindi": "रमज़ान में जन्नत के दरवाज़े खोल दिए जाते हैं और जहन्नम के बंद कर दिए जाते हैं। यह नई शुरुआत का मौका है।"
-        },
-        "reference": ""
-    },
-    {
-        "id": "ramadan-long-3",
-        "category": "Ramadan",
-        "text":
-        {
-            "arabic": "رمضان مدرسة الصبر والإحسان",
-            "english": "Ramadan is a school of patience and kindness. Hunger teaches humility, charity teaches compassion, and night prayers strengthen faith.",
-            "hindi": "रमज़ान सब्र और नेकी की तालीम देता है। भूख विनम्रता सिखाती है और इबादत ईमान को मजबूत करती है।"
-        },
-        "reference": ""
-    },
-    {
         "id": "jummah-6",
         "category": "Jummah",
         "text":
