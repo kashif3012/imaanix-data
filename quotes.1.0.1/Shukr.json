@@ -1,0 +1,442 @@
+[
+    {
+        "id": "gratitude-1",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر مفتاح زيادة النعم",
+            "english": "Gratitude is the key to increasing blessings. When a believer thanks Allah sincerely, even small favors grow into abundant mercy and provision.",
+            "hindi": "शुक्र करना नेमतों में बढ़ोतरी की चाबी है। जब इंसान सच्चे दिल से अल्लाह का शुक्र करता है तो छोटी नेमतें भी बड़ी होकर रहमत और बरकत में बदल जाती हैं।"
+        },
+        "reference": "Quran (14:7)"
+    },
+    {
+        "id": "gratitude-2",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله على كل حال",
+            "english": "Alhamdulillah in every situation. A grateful heart sees wisdom in both ease and hardship, trusting that Allah’s plan is always perfect.",
+            "hindi": "हर हाल में अल्हम्दुलिल्लाह कहना दिल को सुकून देता है और इंसान को यह एहसास दिलाता है कि हर परिस्थिति में अल्लाह की हिकमत छुपी होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-3",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من شكر الله زاده فضلاً",
+            "english": "Whoever thanks Allah, He increases him in favor. Gratitude transforms ordinary moments into spiritual treasures.",
+            "hindi": "जो अल्लाह का शुक्र करता है, अल्लाह उसे और बढ़ा देता है। शुक्र साधारण लम्हों को भी रूहानी खजाने में बदल देता है और दिल को नेमतों की कदर सिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-4",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "القناعة شكر عملي",
+            "english": "Contentment is practical gratitude. Being satisfied with what Allah has given reflects true thankfulness.",
+            "hindi": "कनाअत असली शुक्र है। जो इंसान अल्लाह की दी हुई चीजों पर राज़ी रहता है, वही सच्चे दिल से शुक्र करने वाला होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-5",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "ذكر النعم يزيد الإيمان",
+            "english": "Remembering Allah’s blessings strengthens faith. Reflecting on His gifts fills the heart with humility and love.",
+            "hindi": "नेमतों को याद करना ईमान को मजबूत करता है। जब इंसान अल्लाह की नेमतों पर गौर करता है तो उसका दिल नम्रता और मोहब्बत से भर जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-6",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يجلب الطمأنينة",
+            "english": "Gratitude brings peace to the heart. When we focus on blessings rather than losses, anxiety fades away.",
+            "hindi": "शुक्र दिल को सुकून देता है और इंसान को हर हाल में अल्लाह पर भरोसा रखना सिखाता है, जिससे फिक्र और बेचैनी धीरे-धीरे खत्म हो जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-7",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله على الصحة والعافية",
+            "english": "Praise be to Allah for health and well-being. Many blessings go unnoticed until they are lost, so cherish them daily.",
+            "hindi": "सेहत और आराम के लिए अल्लाह का शुक्र अदा करो, क्योंकि ये ऐसी नेमतें हैं जिन्हें इंसान अक्सर तब तक नजरअंदाज करता है जब तक वे उससे छिन न जाएं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-8",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "شكر الناس من شكر الله",
+            "english": "Gratitude toward people is part of gratitude toward Allah. Appreciating others reflects a thankful heart.",
+            "hindi": "लोगों का शुक्रिया अदा करना भी अल्लाह का शुक्र है, क्योंकि दूसरों की कदर करना एक सच्चे शुक्रगुज़ार दिल की निशानी है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-9",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "كل نفس هو نعمة من الله",
+            "english": "Every breath is a blessing from Allah. Recognizing this fills life with humility and constant praise.",
+            "hindi": "हर सांस अल्लाह की नेमत है। जब इंसान इसे महसूस करता है तो उसका दिल नम्रता से भर जाता है और वह हर पल अल्लाह का शुक्र अदा करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-10",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يحول القليل إلى كثير",
+            "english": "Gratitude turns little into plenty. A thankful heart sees abundance even in simplicity.",
+            "hindi": "शुक्र कम को भी ज्यादा बना देता है और इंसान के दिल में अमीरी का एहसास पैदा करता है, चाहे उसके पास थोड़ा ही क्यों न हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-11",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله في السراء والضراء",
+            "english": "Praise Allah in ease and hardship alike. Gratitude in difficulty raises spiritual rank.",
+            "hindi": "खुशी और ग़म दोनों में अल्लाह का शुक्र करना इंसान के दर्जे को ऊँचा करता है और उसे हर हाल में सब्र और सुकून देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-12",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر سبب لدوام النعم",
+            "english": "Gratitude preserves blessings. What is appreciated sincerely remains protected.",
+            "hindi": "शुक्र नेमतों को कायम रखता है और उन्हें खोने से बचाता है, क्योंकि जो कदर करता है अल्लाह उसकी नेमतें बरकरार रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-13",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "النظر لمن هو أقل يزيد الشكر",
+            "english": "Looking at those with less increases gratitude. It reminds us how much Allah has already given.",
+            "hindi": "जो लोग हमसे कम रखते हैं उन्हें देखकर दिल में शुक्र पैदा होता है और इंसान को एहसास होता है कि अल्लाह ने उसे कितना कुछ दिया है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-14",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر عبادة قلب ولسان",
+            "english": "Gratitude is worship of the heart and tongue. Saying Alhamdulillah sincerely is an act of devotion.",
+            "hindi": "शुक्र दिल और जुबान दोनों की इबादत है, और सच्चे दिल से अल्हम्दुलिल्लाह कहना अल्लाह के करीब ले जाने वाला अमल है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-15",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "كل يوم جديد فرصة للشكر",
+            "english": "Every new day is an opportunity for gratitude. Waking up itself is a gift worth praising Allah for.",
+            "hindi": "हर नया दिन शुक्र करने का एक मौका है। सुबह उठना भी अल्लाह की बड़ी नेमत है, जो हमें हर दिन नई शुरुआत देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-16",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يجلب البركة في الرزق",
+            "english": "Gratitude brings barakah into sustenance. What is blessed lasts longer and benefits more.",
+            "hindi": "शुक्र रिज़्क में बरकत लाता है और जिंदगी में आसानी पैदा करता है, जिससे थोड़ी चीज भी काफी लगने लगती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-17",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله على نعمة الإسلام",
+            "english": "Praise be to Allah for the blessing of Islam. Guidance is the greatest gift among all blessings.",
+            "hindi": "इस्लाम की नेमत पर अल्लाह का शुक्र अदा करो, क्योंकि सही रास्ते की हिदायत सबसे बड़ी नेमत है जो इंसान को दुनिया और आखिरत में काम आती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-18",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يفتح أبواب المزيد",
+            "english": "Gratitude opens doors to more blessings. Allah promises increase for those who thank Him.",
+            "hindi": "शुक्र और नेमतों के दरवाज़े खोल देता है और इंसान को और ज्यादा रहमतों का हकदार बना देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-19",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من شكر بقلبه ولسانه أحبه الله",
+            "english": "The one who thanks Allah with heart and tongue earns His love and favor.",
+            "hindi": "जो इंसान दिल और जुबान से अल्लाह का शुक्र करता है, वह अल्लाह का महबूब बन जाता है और उसकी रहमतों का हकदार होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-20",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يبعد الحسد",
+            "english": "Gratitude removes jealousy. A thankful heart is too content to envy others.",
+            "hindi": "शुक्र दिल से जलन को दूर कर देता है, क्योंकि शुक्र करने वाला इंसान अपनी नेमतों में ही खुश और संतुष्ट रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-21",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الاعتراف بالنعمة شكر",
+            "english": "Recognizing blessings is gratitude itself. Awareness creates humility before Allah.",
+            "hindi": "नेमतों को पहचानना भी शुक्र है और यह इंसान के दिल में नम्रता और अल्लाह के सामने झुकने का एहसास पैदा करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-22",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يحفظ القلب من الغفلة",
+            "english": "Gratitude protects the heart from heedlessness. It keeps the believer connected to Allah.",
+            "hindi": "शुक्र दिल को ग़फलत से बचाता है और इंसान को हर वक्त अल्लाह से जुड़ा हुआ रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-23",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله على كل نعمة ظاهرة وباطنة",
+            "english": "Praise be to Allah for every visible and hidden blessing. Many favors remain unseen but deeply impactful.",
+            "hindi": "हर जाहिर और छुपी नेमत पर अल्लाह का शुक्र अदा करो, क्योंकि कई नेमतें ऐसी होती हैं जिन्हें हम महसूस भी नहीं करते लेकिन वे हमारे लिए बहुत अहम होती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-24",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يجعل الحياة أكثر إشراقًا",
+            "english": "Gratitude brightens life. A thankful heart sees light even in dark days.",
+            "hindi": "शुक्र जिंदगी को रोशन बना देता है और इंसान को हर अंधेरे हालात में भी उम्मीद और रोशनी दिखाई देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-25",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من عاش شاكراً عاش سعيداً",
+            "english": "Whoever lives gratefully lives happily. Gratitude fills the heart with contentment and closeness to Allah.",
+            "hindi": "जो इंसान शुक्र के साथ जीता है वह सुकून और खुशी पाता है, क्योंकि उसका दिल अल्लाह के करीब और उसकी नेमतों से भरा रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-26",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يفتح أبواب الرحمة التي لا تُرى",
+            "english": "Gratitude opens unseen doors of mercy. When a believer thanks Allah sincerely, blessings arrive in ways the heart never expected.",
+            "hindi": "शुक्र ऐसे रहमत के दरवाज़े खोलता है जो नजर नहीं आते। जब इंसान सच्चे दिल से शुक्र करता है, तो अल्लाह अनदेखे तरीकों से नेमतें अता करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-27",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "القلب الشاكر لا يعرف الفقر",
+            "english": "A grateful heart never feels poor. Even with little, it experiences richness through Allah’s endless generosity.",
+            "hindi": "शुक्र करने वाला दिल कभी खुद को गरीब महसूस नहीं करता, क्योंकि वह हर हाल में अल्लाह की दी हुई नेमतों में अमीरी देखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-28",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يحول الابتلاء إلى نعمة خفية",
+            "english": "Gratitude transforms trials into hidden blessings. What seems difficult often carries wisdom that strengthens the soul.",
+            "hindi": "शुक्र मुसीबतों को भी छुपी हुई नेमत में बदल देता है, क्योंकि हर कठिनाई में अल्लाह की कोई न कोई हिकमत होती है जो इंसान को मजबूत बनाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-29",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من امتلأ قلبه شكراً امتلأ نوراً",
+            "english": "When the heart fills with gratitude, it fills with light. That light guides a believer through every stage of life.",
+            "hindi": "जब दिल शुक्र से भर जाता है, तो उसमें नूर भर जाता है जो इंसान को जिंदगी के हर मोड़ पर सही रास्ता दिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-30",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر سر السعادة الدائمة",
+            "english": "Gratitude is the secret of lasting happiness. It shifts the focus from what is missing to what Allah has already given.",
+            "hindi": "शुक्र हमेशा रहने वाली खुशी का राज़ है, क्योंकि यह इंसान को कमी से हटाकर नेमतों पर ध्यान देना सिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-31",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله تزرع الطمأنينة في القلب",
+            "english": "Saying Alhamdulillah plants peace within the heart. It reassures the believer that every moment is under Allah’s wisdom.",
+            "hindi": "अल्हम्दुलिल्लाह कहना दिल में सुकून बो देता है और इंसान को यह यकीन दिलाता है कि हर लम्हा अल्लाह की हिकमत के तहत है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-32",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يحفظ النعم من الزوال",
+            "english": "Gratitude protects blessings from fading away. What is appreciated sincerely is preserved by Allah’s mercy.",
+            "hindi": "शुक्र नेमतों को खत्म होने से बचाता है और उन्हें कायम रखता है, क्योंकि अल्लाह कदर करने वालों को और देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-33",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من رأى النعمة شكرها زادت",
+            "english": "Whoever recognizes a blessing and gives thanks, sees it increase. Awareness is the beginning of gratitude.",
+            "hindi": "जो नेमत को पहचान कर शुक्र करता है, उसकी नेमतें बढ़ जाती हैं और उसका दिल और ज्यादा शुक्रगुज़ार बन जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-34",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر طريق القرب من الله",
+            "english": "Gratitude is a path to closeness with Allah. A thankful heart remains constantly connected to its Creator.",
+            "hindi": "शुक्र अल्लाह के करीब जाने का रास्ता है, क्योंकि शुक्र करने वाला दिल हमेशा अपने रब से जुड़ा रहता है और उसकी रहमत महसूस करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-35",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "كل نعمة تحتاج إلى شكر جديد",
+            "english": "Every blessing deserves renewed gratitude. Continuous thanks keeps the heart alive and aware of Allah’s favors.",
+            "hindi": "हर नेमत के लिए नया शुक्र जरूरी है, क्योंकि लगातार शुक्र करना दिल को जिंदा और अल्लाह की नेमतों के प्रति जागरूक रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-36",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يبدل القلق راحة",
+            "english": "Gratitude turns anxiety into peace. When the heart focuses on blessings, worries begin to fade away.",
+            "hindi": "शुक्र चिंता को सुकून में बदल देता है, क्योंकि जब इंसान नेमतों पर ध्यान देता है तो उसकी फिक्र और बेचैनी कम हो जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-37",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله تملأ الميزان",
+            "english": "Saying Alhamdulillah fills the scale of good deeds. A simple phrase carries immense reward with Allah.",
+            "hindi": "अल्हम्दुलिल्लाह कहना नेकियों के तराजू को भर देता है और यह छोटा सा ज़िक्र अल्लाह के यहाँ बड़ा अज्र रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-38",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يعلّم القلب الرضا",
+            "english": "Gratitude teaches the heart contentment. It allows a believer to accept Allah’s decree with peace.",
+            "hindi": "शुक्र दिल को रज़ा सिखाता है और इंसान को अल्लाह के फैसलों को सुकून के साथ स्वीकार करना सिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-39",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من عاش شاكراً رأى الجمال في كل شيء",
+            "english": "The one who lives with gratitude sees beauty in everything. Even ordinary moments become signs of Allah’s care.",
+            "hindi": "जो इंसान शुक्र के साथ जीता है, वह हर चीज में खूबसूरती देखता है और हर लम्हे में अल्लाह की रहमत महसूस करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-40",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يجعل القلب غنياً بالله",
+            "english": "Gratitude enriches the heart through Allah. True richness is not in possessions, but in recognizing His blessings.",
+            "hindi": "शुक्र दिल को अल्लाह के साथ अमीर बना देता है, क्योंकि असली दौलत नेमतों को पहचानने और उनकी कदर करने में है।"
+        },
+        "reference": ""
+    }
+]
