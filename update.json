@@ -1,0 +1,10 @@
+{
+  "updateId": "2026-03-29-v1",
+  "latestVersion": "1.1.7",
+  "minimumSupportedVersion": "1.1.0",
+  "title": "Update Imaanix",
+  "optionalMessage": "A newer version of Imaanix is available with fixes and improvements.",
+  "forcedMessage": "An update is required to continue using Imaanix.",
+  "force": false,
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.imaanix.app"
+}
