@@ -1,0 +1,662 @@
+[
+    {
+        "id": "dua-status-1",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء بابٌ لا يُغلق، ورحمةٌ لا تنقطع",
+            "english": "Dua is a door that never closes and a mercy that never ends. No matter how heavy life feels, the way to Allah is always open.",
+            "hindi": "दुआ एक ऐसा दरवाज़ा है जो कभी बंद नहीं होता, और एक ऐसी रहमत है जो कभी खत्म नहीं होती। चाहे ज़िंदगी कितनी भी भारी लगे, अल्लाह तक जाने का रास्ता हमेशा खुला रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-2",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "ارفع يديك إلى الله، ففي السماء جوابُ قلبك",
+            "english": "Raise your hands to Allah, for the answer to your heart lies with Him. What feels impossible for you is easy for Him.",
+            "hindi": "अपने हाथ अल्लाह की तरफ उठाओ, क्योंकि तुम्हारे दिल का जवाब उसी के पास है। जो तुम्हें नामुमकिन लगता है, वह उसके लिए आसान है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-3",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "ما خاب قلبٌ لجأ إلى الله صادقًا",
+            "english": "A heart that turns to Allah sincerely is never disappointed. Even delayed answers carry hidden mercy.",
+            "hindi": "जो दिल सच्चाई के साथ अल्लाह की तरफ जाता है, वह कभी नामुराद नहीं होता। देर से मिला जवाब भी अपने अंदर छुपी रहमत रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-4",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "في الدعاء سكينةٌ لا يمنحها العالم كله",
+            "english": "There is a peace in dua that the whole world cannot give. It heals what no one else can see.",
+            "hindi": "दुआ में ऐसा सुकून है जो पूरी दुनिया नहीं दे सकती। यह उस दर्द को भी भर देती है जिसे कोई देख नहीं पाता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-5",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "دعاؤك محفوظٌ عند الله، فلا تيأس",
+            "english": "Your dua is safe with Allah, so never lose hope. Every sincere call is preserved and answered in the best way.",
+            "hindi": "तुम्हारी दुआ अल्लाह के पास महफूज़ है, इसलिए कभी मायूस मत हो। हर सच्ची पुकार सबसे बेहतर तरीके से कबूल होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-6",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "إذا ضاقت بك الدنيا، فافزع إلى الدعاء",
+            "english": "When the world feels heavy upon you, turn to dua. Relief often begins the moment you place your pain before Allah.",
+            "hindi": "जब दुनिया तुम पर भारी लगने लगे, तो दुआ की तरफ रुख करो। राहत अक्सर उसी पल शुरू होती है जब तुम अपना दर्द अल्लाह के सामने रख देते हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-7",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء قوةُ القلب وثقةُ المؤمن بربه",
+            "english": "Dua is the strength of the heart and the believer’s trust in Allah. It reminds you that you were never meant to carry everything alone.",
+            "hindi": "दुआ दिल की ताकत और मोमिन का अपने रब पर भरोसा है। यह याद दिलाती है कि हर बोझ अकेले उठाना तुम्हारे लिए नहीं था।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-8",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "أجمل الطمأنينة تأتي بعد دعاءٍ صادق",
+            "english": "The most beautiful calm comes after sincere dua. Once you surrender your worries to Allah, the heart begins to rest.",
+            "hindi": "सबसे खूबसूरत इत्मीनान सच्ची दुआ के बाद आता है। जब तुम अपनी फिक्रें अल्लाह के हवाले कर देते हो, तो दिल को सुकून मिलने लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-9",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "ادعُ الله بيقين، فاليقين روحُ الدعاء",
+            "english": "Call upon Allah with certainty, for certainty is the soul of dua. A hopeful heart is already standing near mercy.",
+            "hindi": "यकीन के साथ दुआ करो, क्योंकि यकीन ही दुआ की रूह है। उम्मीद से भरा दिल पहले ही रहमत के करीब खड़ा होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-10",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "كل دمعةٍ في الدعاء يعلمها الله",
+            "english": "Every tear shed in dua is known to Allah. No pain poured before Him goes unseen.",
+            "hindi": "दुआ में गिरा हर आँसू अल्लाह जानता है। उसके सामने रखा गया कोई भी दर्द अनदेखा नहीं जाता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-11",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء حياةٌ للقلوب المتعبة",
+            "english": "Dua gives life to tired hearts and restores strength to weary souls.",
+            "hindi": "दुआ थके हुए दिलों को नई ज़िंदगी देती है और थकी हुई रूह को ताकत लौटाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-12",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "لا تترك الدعاء، فالله يسمع همس قلبك",
+            "english": "Never abandon dua, for Allah hears even the whispers of your heart.",
+            "hindi": "दुआ को कभी मत छोड़ो, क्योंकि अल्लाह दिल की खामोश फुसफुसाहट भी सुनता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-13",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء بدايةُ الفرج وإن لم تره بعد",
+            "english": "Dua is the beginning of relief, even if you cannot see it yet. Allah starts changing things before your eyes notice.",
+            "hindi": "दुआ राहत की शुरुआत है, चाहे तुम्हें अभी दिखाई न दे। अल्लाह बदलाव शुरू कर देता है, उससे पहले कि तुम्हारी नज़र उसे पहचान सके।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-14",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "قد يكون الفرج أقربَ إليك من ظنك، ودعاؤك طريقه",
+            "english": "Relief may be closer than you think, and your dua may be the path that leads to it.",
+            "hindi": "राहत तुम्हारी सोच से भी ज्यादा करीब हो सकती है, और तुम्हारी दुआ ही उसका रास्ता बन सकती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-15",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اجعل الدعاء أولَ ملجأٍ لك",
+            "english": "Make dua your first refuge, not your last option. A believer begins with Allah before turning elsewhere.",
+            "hindi": "दुआ को अपना पहला सहारा बनाओ, आख़िरी नहीं। मोमिन दुनिया की तरफ जाने से पहले अल्लाह की तरफ रुख करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-16",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "في جوف الليل، للدعاء أثرٌ لا يشبهه شيء",
+            "english": "In the depth of the night, dua carries a power unlike anything else. Tahajjud is where tears, hope, and nearness to Allah meet.",
+            "hindi": "रात की गहराई में की गई दुआ का असर किसी और चीज़ जैसा नहीं होता। तहज्जुद वह जगह है जहाँ आँसू, उम्मीद और अल्लाह की नज़दीकी मिलती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-17",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "إذا انقطعت الأسباب، بقي الدعاء",
+            "english": "When every means comes to an end, dua still remains. Human doors may close, but Allah’s door never does.",
+            "hindi": "जब सारे सहारे खत्म हो जाएँ, तब भी दुआ बाकी रहती है। इंसानों के दरवाज़े बंद हो सकते हैं, लेकिन अल्लाह का दरवाज़ा कभी बंद नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-18",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اجعل لي من كل همٍّ فرجًا",
+            "english": "O Allah, grant me relief from every worry. Turn my fears into peace and my hardship into mercy.",
+            "hindi": "ऐ अल्लाह! मेरी हर फिक्र से राहत अता फ़रमा। मेरे डर को सुकून में और मेरी मुश्किल को रहमत में बदल दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-19",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ أصلح لي قلبي وحالي",
+            "english": "O Allah, correct my heart and improve my condition. Heal what words cannot fully describe.",
+            "hindi": "ऐ अल्लाह! मेरे दिल को दुरुस्त कर और मेरी हालत बेहतर बना दे। उस चीज़ को भी ठीक कर दे जिसे लफ़्ज़ पूरी तरह बयान नहीं कर पाते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-20",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ لا تكلني إلى نفسي طرفة عين",
+            "english": "O Allah, do not leave me to myself even for the blink of an eye. Without Your mercy, I am weak and lost.",
+            "hindi": "ऐ अल्लाह! मुझे एक पल के लिए भी मेरे हवाले न कर। तेरी रहमत के बिना मैं कमज़ोर और भटका हुआ हूँ।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-21",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء نورٌ في عتمات الحياة",
+            "english": "Dua becomes light in the darkest corners of life. It guides the heart when the road feels uncertain.",
+            "hindi": "दुआ ज़िंदगी के अंधेरे कोनों में रोशनी बन जाती है। जब रास्ता धुंधला लगे, तो यह दिल को राह दिखाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-22",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "ما دام قلبك يقبل على الله، فالأمل لا يموت",
+            "english": "As long as your heart keeps turning to Allah, hope never dies.",
+            "hindi": "जब तक तुम्हारा दिल अल्लाह की तरफ रुख करता रहता है, उम्मीद कभी नहीं मरती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-23",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "ربُّك يعلم حاجتك قبل أن تنطق بها",
+            "english": "Your Lord knows your need before you even speak it. Dua is not to inform Him, but to return to Him.",
+            "hindi": "तुम्हारा रब तुम्हारी ज़रूरत को उससे पहले जानता है, जितना तुम उसे कहो। दुआ उसे बताने के लिए नहीं, बल्कि उसकी तरफ लौटने के लिए है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-24",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "في كل دعاءٍ صادقٍ وعدٌ خفيٌّ باللطف",
+            "english": "In every sincere dua, there is a hidden promise of divine gentleness.",
+            "hindi": "हर सच्ची दुआ में अल्लाह की नरमी और करम का एक छुपा हुआ वादा होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-25",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "إذا عجز لسانك، دعا قلبك، والله يسمع",
+            "english": "When your tongue cannot speak, your heart still makes dua, and Allah still hears.",
+            "hindi": "जब तुम्हारी ज़ुबान साथ न दे, तब भी तुम्हारा दिल दुआ करता है, और अल्लाह उसे सुनता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-26",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اهْدِ قلبي وسدِّد خطاي",
+            "english": "O Allah, guide my heart and make my steps firm. Keep me steady upon truth when the world pulls me away.",
+            "hindi": "ऐ अल्लाह! मेरे दिल को हिदायत दे और मेरे कदमों को जमा दे। जब दुनिया मुझे भटकाए, तब मुझे सच पर कायम रख।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-27",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ ارزقني قلبًا سليمًا",
+            "english": "O Allah, grant me a sound heart, free from envy, pride, and hidden darkness.",
+            "hindi": "ऐ अल्लाह! मुझे ऐसा पाक दिल दे जो जलन, घमंड और अंदरूनी अंधेरे से साफ हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-28",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اجعلني من الشاكرين الصابرين",
+            "english": "O Allah, make me among those who are grateful in ease and patient in hardship.",
+            "hindi": "ऐ अल्लाह! मुझे उन लोगों में शामिल कर जो नेमत में शुक्र करते हैं और मुश्किल में सब्र करते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-29",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اختم لنا بالحسنى",
+            "english": "O Allah, grant us a beautiful ending. Let our final moments be wrapped in Your mercy.",
+            "hindi": "ऐ अल्लाह! हमें अच्छा अंजाम दे। हमारी आख़िरी घड़ियों को अपनी रहमत में ढँक दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-30",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "ما من دعاءٍ يخرج من القلب إلا ترك في الروح نورًا",
+            "english": "No sincere dua leaves the heart without leaving light in the soul. Every call to Allah changes something within you.",
+            "hindi": "दिल से निकली कोई भी सच्ची दुआ रूह में रोशनी छोड़े बिना नहीं जाती। अल्लाह से की गई हर पुकार इंसान के अंदर कुछ न कुछ बदल देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-31",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء يعلِّم القلب كيف يطمئن بالله",
+            "english": "Dua teaches the heart how to find peace in Allah when everything else feels unstable.",
+            "hindi": "दुआ दिल को सिखाती है कि जब सब कुछ डगमगाए, तब अल्लाह में सुकून कैसे पाया जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-32",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "إذا أبطأت الإجابة، فلا تظن أن الله نسيك",
+            "english": "If the answer comes slowly, do not think Allah has forgotten you. Delay is not abandonment.",
+            "hindi": "अगर जवाब देर से आए, तो यह मत समझो कि अल्लाह ने तुम्हें भुला दिया। देर होना छोड़े जाना नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-33",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "كم من دعاءٍ كان بدايةَ نجاة",
+            "english": "How many rescues began with a single dua only Allah heard in full?",
+            "hindi": "कितनी ही नजातें एक ऐसी दुआ से शुरू हुईं जिसे पूरी तरह सिर्फ अल्लाह ने सुना।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-34",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "كلما دعوت، ازددت قربًا وإن لم ترَ العطاء",
+            "english": "Each time you make dua, you draw closer to Allah, even before you see the gift.",
+            "hindi": "हर बार जब तुम दुआ करते हो, तो तुम अल्लाह के और करीब हो जाते हो, चाहे तुम्हें अभी नेमत दिखाई न दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-35",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "في الدعاء يقينٌ هادئ بأن الله يكفي",
+            "english": "Dua carries a quiet certainty that Allah is enough for every burden, fear, and need.",
+            "hindi": "दुआ दिल में यह शांत यकीन भर देती है कि हर बोझ, हर डर और हर ज़रूरत के लिए अल्लाह ही काफी है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-36",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "إذا ضاع منك الطريق، فالدعاء دليلُ القلب",
+            "english": "When the road feels lost, dua becomes the heart’s guide.",
+            "hindi": "जब रास्ता खोया हुआ लगे, तो दुआ दिल की रहनुमा बन जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-37",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "ليس كل تأخير حرمانًا، فربما كان لطفًا",
+            "english": "Not every delay is deprivation; sometimes it is divine gentleness protecting you.",
+            "hindi": "हर देर महरूमी नहीं होती; कभी-कभी वह अल्लाह की नरमी होती है जो तुम्हें बचा रही होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-38",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "من أحسن الظن بربه، أحسن الدعاء",
+            "english": "The one who thinks well of Allah learns to make dua with beauty and trust.",
+            "hindi": "जो अपने रब के बारे में अच्छा गुमान रखता है, वह दुआ भी भरोसे और खूबसूरती के साथ करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-39",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء يهوِّن ما أثقل القلب",
+            "english": "Dua makes heavy hearts feel lighter and weary souls feel held.",
+            "hindi": "दुआ भारी दिल को हल्का कर देती है और थकी हुई रूह को सहारा देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-40",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "لا تملَّ من الدعاء، فالعطاء يأتي في وقته",
+            "english": "Do not grow tired of dua. What is written for you arrives at its perfect time.",
+            "hindi": "दुआ से थको मत। जो तुम्हारे लिए लिखा गया है, वह अपने सही वक़्त पर आएगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-41",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "بعض الدعاء يغيرك قبل أن يغير حالك",
+            "english": "Some duas change you before they change your situation.",
+            "hindi": "कुछ दुआएँ तुम्हारे हालात बदलने से पहले तुम्हें बदल देती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-42",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء يزرع في القلب رجاءً لا تقتله الأيام",
+            "english": "Dua plants a hope in the heart that even the hardest days cannot destroy.",
+            "hindi": "दुआ दिल में ऐसी उम्मीद बो देती है जिसे सबसे कठिन दिन भी खत्म नहीं कर सकते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-43",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "في كل مرةٍ تدعو، أنت تعود إلى مأمنك",
+            "english": "Each time you make dua, you return to your safest place.",
+            "hindi": "हर बार जब तुम दुआ करते हो, तो अपने सबसे महफूज़ ठिकाने की तरफ लौटते हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-44",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء زادُ الروح في طريق الحياة",
+            "english": "Dua is the nourishment of the soul on the long road of life.",
+            "hindi": "दुआ ज़िंदगी के लंबे सफर में रूह की गिज़ा और सहारा है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-45",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "إذا عظمت حاجتك، فعظِّم رجاءك بالله",
+            "english": "If your need is great, then make your hope in Allah even greater.",
+            "hindi": "अगर तुम्हारी ज़रूरत बड़ी है, तो अल्लाह से अपनी उम्मीद उससे भी बड़ी कर लो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-46",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "ما رُفع إلى الله بصدقٍ إلا عاد بلطف",
+            "english": "Nothing raised to Allah with sincerity returns except with gentleness.",
+            "hindi": "जो चीज़ सच्चाई के साथ अल्लाह की तरफ उठाई जाती है, वह उसके करम और नर्मी के साथ लौटती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-47",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء جبرٌ للقلوب إذا عجزت الدنيا",
+            "english": "Dua mends the heart when the world no longer knows how to.",
+            "hindi": "जब दुनिया दिल को संभालना छोड़ दे, तब दुआ उसे जोड़ देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-48",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "من صدق مع الله في دعائه وجد كفايته",
+            "english": "Whoever turns to Allah with sincerity in dua finds that He is enough.",
+            "hindi": "जो इंसान सच्चाई के साथ दुआ में अल्लाह की तरफ लौटता है, वह पाता है कि अल्लाह उसके लिए काफी है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-49",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء يبدل الخوف سكينةً",
+            "english": "Dua turns fear into calm and trembling into reassurance.",
+            "hindi": "दुआ डर को सुकून में और बेचैनी को इत्मीनान में बदल देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-50",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "الدعاء ملجأُ القلب إذا اشتدت عليه الحياة",
+            "english": "Dua is the refuge of the heart when life becomes too hard to carry.",
+            "hindi": "जब ज़िंदगी बहुत भारी हो जाए, तो दुआ ही दिल का सबसे बड़ा सहारा बनती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-51",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اجعل قلبي معلقًا بك دائمًا",
+            "english": "O Allah, keep my heart attached to You at all times, no matter where life takes me.",
+            "hindi": "ऐ अल्लाह! मेरा दिल हमेशा तुझसे जुड़ा रख, चाहे ज़िंदगी मुझे कहीं भी ले जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-52",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ لا تجعل همي إلا رضاك",
+            "english": "O Allah, make my greatest concern Your pleasure, and let everything else fall into place.",
+            "hindi": "ऐ अल्लाह! मेरी सबसे बड़ी फिक्र सिर्फ तेरी रज़ा बना दे, और बाकी सब अपने आप ठीक कर दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-53",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ ارزقني دعاءً يفتح لي أبواب رحمتك",
+            "english": "O Allah, grant me supplication that opens for me the doors of Your mercy and fills my heart with hope.",
+            "hindi": "ऐ अल्लाह! मुझे ऐसी दुआ अता फ़रमा जो मेरे लिए तेरी रहमत के दरवाज़े खोल दे और मेरे दिल को उम्मीद से भर दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-54",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اجعل لي من كل ضيقٍ مخرجًا",
+            "english": "O Allah, make a way out for me from every hardship and open doors I never expected.",
+            "hindi": "ऐ अल्लाह! हर तंगी से निकलने का रास्ता दे और ऐसे दरवाज़े खोल जिनकी मैंने उम्मीद भी न की हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-55",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اشرح صدري وطمئن قلبي",
+            "english": "O Allah, expand my chest and calm my heart, filling it with peace and trust in You.",
+            "hindi": "ऐ अल्लाह! मेरा सीना खोल दे और मेरे दिल को सुकून दे, उसमें तुझ पर भरोसा भर दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-56",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ لا تحرمني لذة القرب منك",
+            "english": "O Allah, never deprive me of the sweetness of being close to You.",
+            "hindi": "ऐ अल्लाह! मुझे अपनी नज़दीकी की मिठास से कभी महरूम न कर।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-57",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اجعلني ممن إذا سألوك بقلبٍ صادقٍ أعطيتهم من فضلك",
+            "english": "O Allah, make me among those who ask You with sincerity and receive from Your grace.",
+            "hindi": "ऐ अल्लाह! मुझे उन लोगों में शामिल कर जो तुझसे सच्चे दिल से मांगते हैं और तेरे फ़ज़्ल से पाते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-58",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ طهر قلبي وأصلح حالي",
+            "english": "O Allah, purify my heart and improve my condition in ways only You can.",
+            "hindi": "ऐ अल्लाह! मेरे दिल को पाक कर और मेरी हालत को उस तरह बेहतर बना, जैसा सिर्फ तू कर सकता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-59",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ اجعل دعائي نورًا في حياتي",
+            "english": "O Allah, make my dua a source of light in my life and guidance in every step.",
+            "hindi": "ऐ अल्लाह! मेरी दुआ को मेरी ज़िंदगी में रोशनी बना और हर कदम पर हिदायत दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "dua-status-60",
+        "category": "Dua",
+        "text":
+        {
+            "arabic": "اللَّهُمَّ قربني إليك ولا تبعدني عنك",
+            "english": "O Allah, draw me closer to You and never let me drift away.",
+            "hindi": "ऐ अल्लाह! मुझे अपने करीब कर ले और मुझे कभी अपने से दूर न होने दे।"
+        },
+        "reference": ""
+    }
+]

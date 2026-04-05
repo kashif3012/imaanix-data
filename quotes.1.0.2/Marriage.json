@@ -1,0 +1,442 @@
+[
+    {
+        "id": "marriage-1",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزواج سكنٌ ومودةٌ ورحمة بين الزوجين",
+            "english": "Marriage is a sanctuary of peace, love, and mercy. It is not merely companionship, but a sacred journey where two hearts help one another grow toward Allah.",
+            "hindi": "निकाह सुकून, मोहब्बत और रहमत का रिश्ता है। यह सिर्फ साथ रहने का नाम नहीं, बल्कि ऐसा मुकद्दस सफर है जिसमें दो दिल एक-दूसरे को अल्लाह के करीब लाते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-2",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزوجة الصالحة سكنٌ لقلب زوجها ونورٌ لبيتها",
+            "english": "A righteous wife becomes peace for her husband’s heart and light within her home. Her faith turns ordinary life into a place of warmth and barakah.",
+            "hindi": "एक नेक बीवी अपने शौहर के दिल के लिए सुकून और अपने घर के लिए रोशनी बनती है। उसका ईमान आम जिंदगी को भी बरकत और मोहब्बत से भर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-3",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "كرامة الزوجة مصونة في الإسلام وحقوقها محفوظة",
+            "english": "Islam protects the dignity of a wife and safeguards her rights within a sacred bond. She is honored, respected, and never meant to be diminished.",
+            "hindi": "इस्लाम में बीवी की इज़्ज़त और उसके हक़ पूरी तरह महफूज़ हैं। वह सम्मानित है, उसकी कदर की जाती है, और उसे कभी छोटा नहीं समझा जाना चाहिए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-4",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزوجة المؤمنة لا تكتفي بالمحبة بل تعين على طاعة الله",
+            "english": "A believing wife does not offer love alone — she also helps build a marriage that leads both hearts closer to Allah.",
+            "hindi": "एक मोमिन बीवी सिर्फ मोहब्बत ही नहीं देती, बल्कि ऐसा रिश्ता भी बनाती है जो दोनों दिलों को अल्लाह के करीब ले जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-5",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "جمال الزوجة الحقيقي في خلقها وحياها وتقواها",
+            "english": "The true beauty of a wife is not in appearance, but in her character, modesty, and nearness to Allah.",
+            "hindi": "बीवी की असली खूबसूरती उसके रूप में नहीं, बल्कि उसके किरदार, हया और अल्लाह से उसके रिश्ते में होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-6",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزوجة نعمة عظيمة تُصان بالمحبة والاحترام",
+            "english": "A wife is a great blessing that deserves love, gentleness, and respect. Honoring her is part of honoring what Allah entrusted to you.",
+            "hindi": "बीवी एक बड़ी नेमत है जिसे मोहब्बत, नरमी और इज़्ज़त के साथ संभालना चाहिए। उसकी कदर करना अल्लाह की दी हुई अमानत की कदर करना है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-7",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزوج الصالح يعامل زوجته برحمة ولين في كل حال",
+            "english": "A righteous husband treats his wife with mercy and gentleness in every season of life, knowing that kindness is one of the foundations of love.",
+            "hindi": "एक नेक शौहर हर हाल में अपनी बीवी के साथ रहम और नरमी से पेश आता है, क्योंकि यही मोहब्बत की बुनियादों में से एक है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-8",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "خيركم خيركم لأهله وأنا خيركم لأهلي",
+            "english": "The best among you are those who are best to their wives. True character is revealed not in public, but in the mercy shown at home.",
+            "hindi": "तुम में सबसे बेहतर वह है जो अपने घरवालों और अपनी बीवी के साथ सबसे अच्छा हो। इंसान का असली किरदार उसके घर के बर्ताव में नज़र आता है।"
+        },
+        "reference": "Jami` al-Tirmidhi 3895"
+    },
+    {
+        "id": "marriage-9",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزوج الحكيم يقود بيته بالمودة والرحمة لا بالقسوة",
+            "english": "A wise husband leads his home with love and mercy, not harshness. True strength is calm, patient, and emotionally safe.",
+            "hindi": "एक समझदार शौहर अपने घर को मोहब्बत और रहमत से चलाता है, सख्ती से नहीं। असली ताक़त वही है जो सब्र और सुकून दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-10",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "احترام الزوجة من كمال الإيمان وحسن الخلق",
+            "english": "Respecting one’s wife is a sign of strong faith and beautiful character. A believing man never sees gentleness as weakness.",
+            "hindi": "बीवी की इज़्ज़त करना मजबूत ईमान और खूबसूरत अख़लाक की निशानी है। मोमिन नरमी को कभी कमजोरी नहीं समझता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-11",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزوج الصالح يكون سكينة لزوجته كما تكون له",
+            "english": "A righteous husband becomes peace for his wife just as she is peace for him. Marriage is most beautiful when tranquility flows both ways.",
+            "hindi": "एक नेक शौहर अपनी बीवी के लिए सुकून बनता है, जैसे वह उसके लिए होती है। निकाह की खूबसूरती तब होती है जब सुकून दोनों तरफ से हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-12",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزوج الصالح يحفظ قلب زوجته كما يحفظ بيته",
+            "english": "A righteous husband protects his wife’s heart just as he protects his home, because emotional care is part of amanah.",
+            "hindi": "एक नेक शौहर अपनी बीवी के दिल की हिफाज़त वैसे ही करता है जैसे अपने घर की, क्योंकि जज़्बाती ख्याल रखना भी अमानत है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-13",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "المودة بين الزوجين تقوى بالصبر والتفاهم",
+            "english": "Love between spouses grows stronger through patience and understanding. A marriage survives not by perfection, but by mercy.",
+            "hindi": "पति-पत्नी के बीच मोहब्बत सब्र और समझ से मजबूत होती है। निकाह परफेक्शन से नहीं, बल्कि रहम और समझ से चलता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-14",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزواج الصالح طريق إلى السكينة في الدنيا والجنة في الآخرة",
+            "english": "A righteous marriage becomes a path to peace in this world and, by Allah’s mercy, a road toward Jannah in the next.",
+            "hindi": "एक नेक निकाह दुनिया में सुकून और अल्लाह की रहमत से आख़िरत में जन्नत का रास्ता बन सकता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-15",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزوجان الصالحان يعين كلٌ منهما الآخر على طاعة الله",
+            "english": "Righteous spouses help one another obey Allah. The most beautiful marriages are those where both hearts pull each other upward.",
+            "hindi": "नेक पति-पत्नी एक-दूसरे को अल्लाह की इताअत में मदद करते हैं। सबसे खूबसूरत निकाह वही है जहाँ दोनों एक-दूसरे को ऊपर उठाते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-16",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الصبر بين الزوجين يحفظ العلاقة ويقويها مع الزمن",
+            "english": "Patience between spouses protects the relationship and strengthens it over time. Some love grows deeper only after hardship.",
+            "hindi": "पति-पत्नी के बीच सब्र रिश्ते को संभालता है और वक्त के साथ मजबूत बनाता है। कुछ मोहब्बत मुश्किलों के बाद और गहरी हो जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-17",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزواج الناجح يقوم على الاحترام المتبادل والرحمة",
+            "english": "A successful marriage is built on mutual respect and mercy, where neither heart is made to feel small.",
+            "hindi": "एक सफल निकाह आपसी इज़्ज़त और रहम पर खड़ा होता है, जहाँ किसी एक दिल को छोटा महसूस नहीं कराया जाता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-18",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "التفاهم بين الزوجين أساس السكينة والاستقرار",
+            "english": "Understanding between spouses is the foundation of peace and stability. When hearts are understood, love becomes easier to protect.",
+            "hindi": "पति-पत्नी के बीच समझ सुकून और स्थिरता की बुनियाद है। जब दिलों को समझा जाए, तो मोहब्बत को संभालना आसान हो जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-19",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "البيت الذي يذكر فيه الله يعيش في سكينة دائمة",
+            "english": "A home where Allah is remembered lives in a different kind of peace. Faith softens the walls and fills the house with barakah.",
+            "hindi": "वह घर जहाँ अल्लाह को याद किया जाता है, वहाँ एक अलग ही सुकून होता है। दीन घर की फिज़ा को नरम और बरकत वाला बना देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-20",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزواج في الإسلام شراكة في الرحمة والإيمان والطاعة",
+            "english": "Marriage in Islam is a partnership of mercy, faith, and obedience to Allah — not a struggle for power, but a journey of shared purpose.",
+            "hindi": "इस्लाम में निकाह रहमत, ईमान और अल्लाह की इताअत पर आधारित साझेदारी है — यह हुकूमत का रिश्ता नहीं, बल्कि साझा मकसद का सफर है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-21",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "أجمل الحب ما كان حلالًا يقرّب القلب إلى الله",
+            "english": "The most beautiful love is the one made halal — a love that brings the heart closer to Allah, not farther from Him.",
+            "hindi": "सबसे खूबसूरत मोहब्बत वही है जो हलाल हो — ऐसी मोहब्बत जो दिल को अल्लाह के करीब ले जाए, दूर नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-22",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "ليس الزواج أن تجد شخصًا كاملاً بل أن تبني السكينة مع قلبٍ صادق",
+            "english": "Marriage is not about finding someone perfect, but about building peace with a sincere heart beside you.",
+            "hindi": "निकाह किसी परफेक्ट इंसान को ढूंढने का नाम नहीं, बल्कि एक सच्चे दिल के साथ सुकून बनाने का नाम है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-23",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "حين يكون الله في بداية الزواج يحضر بركته في كل تفاصيله",
+            "english": "When Allah is placed at the beginning of a marriage, His barakah appears in its smallest details.",
+            "hindi": "जब निकाह की शुरुआत अल्लाह के नाम और उसकी रज़ा से होती है, तो उसकी बरकत हर छोटे पहलू में दिखाई देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-24",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الزوجان اللذان يدعوان معًا يثبت الله بينهما مودةً لا يراها الناس",
+            "english": "When spouses make dua together, Allah places between them a kind of love the world cannot fully see.",
+            "hindi": "जब पति-पत्नी साथ दुआ करते हैं, तो अल्लाह उनके बीच ऐसी मोहब्बत रख देता है जिसे दुनिया पूरी तरह समझ नहीं पाती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-25",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "بعض البيوت لا تقوم على كثرة المال بل على كثرة الرحمة",
+            "english": "Some homes are not built by wealth, but by mercy. What keeps a marriage alive is often softness, not luxury.",
+            "hindi": "कुछ घर बहुत पैसे से नहीं, बल्कि बहुत रहमत से बनते हैं। निकाह को जिंदा रखने वाली चीज़ अक्सर नर्मी होती है, आराम नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-26",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "في الزواج الصالح يصبح التعب أخف حين يُحمل معًا",
+            "english": "In a righteous marriage, even exhaustion feels lighter when life is carried together.",
+            "hindi": "एक नेक निकाह में जिंदगी की थकान भी हल्की लगती है जब उसे मिलकर उठाया जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-27",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الرحمة في الزواج ليست ضعفًا بل أعظم أشكال القوة",
+            "english": "Mercy in marriage is not weakness — it is one of the strongest forms of love.",
+            "hindi": "निकाह में रहम कमजोरी नहीं, बल्कि मोहब्बत की सबसे मजबूत शक्लों में से एक है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-28",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "القلوب التي تتزوج لله تجد في الصبر معنى لا يعرفه غيرها",
+            "english": "Hearts that marry for Allah discover a depth in patience that ordinary love may never understand.",
+            "hindi": "जो दिल अल्लाह के लिए निकाह करते हैं, वे सब्र का ऐसा मतलब समझते हैं जिसे आम मोहब्बत नहीं समझ पाती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-29",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "أمان الزواج لا يأتي من خلو الحياة من المشاكل بل من وجود قلبٍ رحيم",
+            "english": "The safety of marriage does not come from a life without problems, but from having a merciful heart beside you.",
+            "hindi": "निकाह का सुकून इस बात से नहीं आता कि जिंदगी में कोई मुश्किल न हो, बल्कि इस बात से आता है कि साथ एक रहमदिल दिल हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-30",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "حين يُبنى الزواج على الإخلاص يصبح كل يومٍ فيه أقرب إلى الجنة",
+            "english": "When marriage is built on sincerity, even its ordinary days begin to feel like steps toward Jannah.",
+            "hindi": "जब निकाह इख़लास पर बनाया जाए, तो उसके आम दिन भी जन्नत की तरफ बढ़ते कदम लगने लगते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-31",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "ليس أجمل في الزواج من قلبين يختاران الرفق كلما اشتدت الحياة",
+            "english": "Few things are more beautiful in marriage than two hearts choosing gentleness whenever life becomes hard.",
+            "hindi": "निकाह में इससे खूबसूरत बहुत कम चीज़ें होती हैं कि जब जिंदगी सख्त हो जाए, तब भी दो दिल नरमी को चुनें।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-32",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "الحب بعد الزواج لا يُقاس بالكلام فقط بل بالطمأنينة التي يمنحها كلٌّ للآخر",
+            "english": "Love after marriage is not measured by words alone, but by the peace each spouse gives the other.",
+            "hindi": "निकाह के बाद की मोहब्बत सिर्फ अल्फाज़ से नहीं, बल्कि उस सुकून से मापी जाती है जो दोनों एक-दूसरे को देते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-33",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "أجمل البيوت ما بُنيت على الدعاء قبل أن تُزيَّن بالأثاث",
+            "english": "The most beautiful homes are built with dua before they are decorated with furniture.",
+            "hindi": "सबसे खूबसूरत घर वे होते हैं जो फर्नीचर से पहले दुआओं पर बनाए जाते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-34",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "حين يسكن قلبك عند شخصٍ يعينك على الله فهذه من أعظم النعم",
+            "english": "When your heart finds rest with someone who helps you toward Allah, that is one of life’s greatest blessings.",
+            "hindi": "जब दिल को ऐसा इंसान मिल जाए जो तुम्हें अल्लाह की तरफ बढ़ाए, तो यह जिंदगी की सबसे बड़ी नेमतों में से एक है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-35",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "في الزواج الصالح لا يُطفئ الخلاف الحب بل يتعلم القلب كيف يحب برحمة",
+            "english": "In a righteous marriage, disagreement does not extinguish love — it teaches the heart how to love with mercy.",
+            "hindi": "एक नेक निकाह में मतभेद मोहब्बत को खत्म नहीं करते, बल्कि दिल को रहम के साथ मोहब्बत करना सिखाते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-36",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "أحيانًا يكون أعظم الحب في الزواج هو أن يبقى أحدكما سترًا وراحةً للآخر",
+            "english": "Sometimes the greatest love in marriage is simply becoming comfort, protection, and concealment for one another.",
+            "hindi": "कभी-कभी निकाह की सबसे बड़ी मोहब्बत यही होती है कि दोनों एक-दूसरे के लिए सुकून, पर्दा और सहारा बन जाएँ।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-37",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "البيت الذي يُصلح فيه الزوجان نياتهما كل يوم لا تهزّه العواصف بسهولة",
+            "english": "A home where spouses renew their intentions for Allah each day is not easily shaken by storms.",
+            "hindi": "वह घर जहाँ पति-पत्नी हर दिन अपनी नीयत अल्लाह के लिए सही करते हैं, उसे तूफ़ान आसानी से नहीं हिला पाते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-38",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "حين يكون الاحترام حاضرًا في الزواج تبقى الكلمات حتى في الخلاف نظيفة",
+            "english": "When respect remains present in marriage, even disagreements stay clean and do not wound the soul.",
+            "hindi": "जब निकाह में इज़्ज़त बाकी रहती है, तो मतभेदों में भी अल्फाज़ साफ रहते हैं और दिल को ज़ख्म नहीं देते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-39",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "من رزقه الله زوجًا صالحًا فقد رزقه رفيقًا إلى الجنة",
+            "english": "Whoever is blessed with a righteous spouse has been given not only companionship in this world, but a companion toward Jannah.",
+            "hindi": "जिसे अल्लाह नेक जीवनसाथी दे दे, उसे सिर्फ दुनिया का साथी नहीं बल्कि जन्नत की राह का रफ़ीक़ भी मिल जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "marriage-40",
+        "category": "Marriage",
+        "text":
+        {
+            "arabic": "ليس الزواج الناجح هو الخالي من النقص بل الذي يظلّ فيه القلبان أوفياء لله ولِبعضهما",
+            "english": "A successful marriage is not one without flaws, but one in which both hearts remain faithful to Allah and loyal to each other.",
+            "hindi": "सफल निकाह वह नहीं जिसमें कोई कमी न हो, बल्कि वह है जिसमें दोनों दिल अल्लाह के लिए और एक-दूसरे के लिए वफ़ादार बने रहें।"
+        },
+        "reference": ""
+    }
+]
