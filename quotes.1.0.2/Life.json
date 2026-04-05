@@ -1,0 +1,552 @@
+[
+    {
+        "id": "life-1",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الدنيا دار اختبار وليست دار قرار",
+            "english": "This world is a place of tests, not a permanent home. Every joy and hardship is temporary, but the rewards of patience and faith remain forever.",
+            "hindi": "दुनिया इम्तिहान की जगह है, ठहरने की नहीं। हर खुशी और हर मुश्किल कुछ वक्त की है, लेकिन सब्र और ईमान का सवाब हमेशा रहने वाला है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-2",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "إذا امتلأ القلب بمعرفة الله صغرت في عينه أثقال الدنيا",
+            "english": "When the heart is filled with the knowledge of Allah, the burdens of this world begin to feel smaller.",
+            "hindi": "जब दिल अल्लाह की पहचान से भर जाता है, तो दुनिया के बोझ भी छोटे लगने लगते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-3",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الصبر لا يغيّر الألم فورًا لكنه يفتح باب الفرج في وقته",
+            "english": "Patience does not remove pain instantly, but it opens the door of relief at the right time.",
+            "hindi": "सब्र दर्द को तुरंत खत्म नहीं करता, लेकिन सही वक्त पर राहत का दरवाज़ा ज़रूर खोल देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-4",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "التوكل على الله يبدل القلق طمأنينة",
+            "english": "Reliance upon Allah transforms anxiety into peace. When the heart trusts Him, uncertainty turns into calm assurance.",
+            "hindi": "अल्लाह पर भरोसा चिंता को सुकून में बदल देता है। जब दिल उस पर यकीन करता है, तो बेचैनी इत्मीनान में बदल जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-5",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "إذا ضاقت بك الحياة فافتح قلبك لذكر الله",
+            "english": "When life feels heavy, open your heart to the remembrance of Allah. Dhikr has a way of healing what words cannot reach.",
+            "hindi": "जब जिंदगी तंग लगे, तो अपने दिल को अल्लाह के ज़िक्र के लिए खोल दो। ज़िक्र वहाँ भी सुकून देता है जहाँ अल्फाज़ नहीं पहुँचते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-6",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "القناعة لا تُنقص الأحلام لكنها تحفظ القلب من التعب",
+            "english": "Contentment does not kill ambition; it simply protects the heart from exhaustion and endless comparison.",
+            "hindi": "क़नाअत इंसान के ख्वाब कम नहीं करती, बल्कि दिल को थकान और लगातार तुलना से बचाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-7",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "كل تأخير يحمل حكمة من الله",
+            "english": "Every delay carries wisdom from Allah. What feels late may actually be mercy, protection, or preparation.",
+            "hindi": "हर देरी में अल्लाह की कोई हिकमत होती है। जो देर लगती है, वह कभी रहमत, कभी हिफाज़त और कभी तैयारी होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-8",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الدعاء لا يضيع ولو تأخر الجواب",
+            "english": "No sincere dua is ever wasted, even when the answer takes time to arrive.",
+            "hindi": "कोई भी सच्ची दुआ कभी ज़ाया नहीं जाती, चाहे उसका जवाब आने में वक्त ही क्यों न लगे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-9",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الإيمان لا يمنع العاصفة لكنه يثبت القلب فيها",
+            "english": "Faith does not always stop the storm, but it teaches the heart how to remain standing within it.",
+            "hindi": "ईमान हर तूफान को नहीं रोकता, लेकिन वह दिल को उसके बीच भी मज़बूत रहना सिखा देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-10",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الحياة قصيرة فاجعلها طريقًا إلى الله",
+            "english": "Life is short, so make it a path that leads you back to Allah with every step.",
+            "hindi": "जिंदगी छोटी है, इसलिए इसे ऐसा सफर बनाओ जो हर कदम पर तुम्हें अल्लाह के करीब ले जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-11",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "التوبة بداية جديدة للقلب",
+            "english": "Repentance gives the heart a new beginning. No sin is greater than the mercy of Allah.",
+            "hindi": "तौबा दिल को नई शुरुआत देती है। अल्लाह की रहमत से बड़ा कोई गुनाह नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-12",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "ليس النجاح فيما يصفق له الناس بل فيما يرضى عنه الله",
+            "english": "Success is not what earns applause from people, but what earns acceptance from Allah.",
+            "hindi": "कामयाबी वह नहीं जिसके लिए लोग तालियाँ बजाएँ, बल्कि वह है जिससे अल्लाह राज़ी हो जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-13",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الشكر لا يغيّر ما عندك فقط بل يغيّر قلبك أيضًا",
+            "english": "Gratitude does not only change what you have; it changes the heart that receives it.",
+            "hindi": "शुक्र सिर्फ नेमतों को नहीं बदलता, बल्कि उस दिल को भी बदल देता है जो उन्हें महसूस करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-14",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "النية الصالحة تحول العادة عبادة",
+            "english": "A sincere intention transforms ordinary actions into worship. Even daily life can carry reward when done for Allah.",
+            "hindi": "अच्छी नीयत आम कामों को भी इबादत बना देती है। जब कुछ अल्लाह के लिए किया जाए, तो रोज़मर्रा की जिंदगी भी सवाब बन जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-15",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "القلوب الرحيمة أقرب إلى رحمة الله",
+            "english": "Merciful hearts live closer to the mercy of Allah. Kindness is never small in His sight.",
+            "hindi": "रहमदिल दिल अल्लाह की रहमत के ज्यादा करीब होते हैं। उसकी नज़र में कोई भी नेकी छोटी नहीं होती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-16",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "كل ضيق بعده سعة",
+            "english": "Every hardship is followed by ease. A believer survives the narrowest moments by holding onto hope.",
+            "hindi": "हर तंगी के बाद आसानी आती है। मोमिन सबसे मुश्किल लम्हों में भी उम्मीद का दामन नहीं छोड़ता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-17",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الصدق يريح القلب قبل أن يرفع المقام",
+            "english": "Truthfulness brings peace to the heart before it ever earns respect from the world.",
+            "hindi": "सचाई पहले दिल को सुकून देती है, फिर इंसान को लोगों की नज़रों में ऊँचा करती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-18",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "ما تملكه في يدك لا يساوي ما تحمله في قلبك",
+            "english": "What you hold in your hand is never more valuable than what you carry in your heart.",
+            "hindi": "तुम्हारे हाथ में जो है, वह कभी भी उस चीज़ से ज्यादा कीमती नहीं हो सकता जो तुम्हारे दिल में है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-19",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الوقت أمانة فاستثمره",
+            "english": "Time is a trust from Allah. Use it well before it becomes a memory you cannot bring back.",
+            "hindi": "वक्त अल्लाह की अमानत है। उसे नेक तरीके से खर्च करो, इससे पहले कि वह सिर्फ एक याद बनकर रह जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-20",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "ألا بذكر الله تطمئن القلوب",
+            "english": "Indeed, in the remembrance of Allah do hearts find peace.",
+            "hindi": "बेशक अल्लाह के ज़िक्र से ही दिलों को सुकून मिलता है।"
+        },
+        "reference": "Quran 13:28"
+    },
+    {
+        "id": "life-21",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "أجمل ما في الحياة أن تترك فيها أثرًا يرضي الله",
+            "english": "One of the most beautiful ways to live is to leave behind an impact that pleases Allah.",
+            "hindi": "जिंदगी की सबसे खूबसूरत बात यह है कि इंसान ऐसा असर छोड़ जाए जिससे अल्लाह राज़ी हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-22",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "إذا انقطعت بك الأسباب فاعلم أن باب الله لا يُغلق",
+            "english": "When every worldly door seems closed, remember that the door of Allah never shuts.",
+            "hindi": "जब दुनिया के सारे रास्ते बंद लगें, तब याद रखो कि अल्लाह का दरवाज़ा कभी बंद नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-23",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الرفق لا يضعفك بل يجعلك أجمل عند الله",
+            "english": "Gentleness does not make you weak; it makes your character more beautiful in the sight of Allah.",
+            "hindi": "नर्मी इंसान को कमज़ोर नहीं बनाती, बल्कि उसे अल्लाह की नज़र में और खूबसूरत बना देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-24",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الدنيا مزرعة الآخرة",
+            "english": "This world is the field of the Hereafter. What you plant today, you will harvest forever.",
+            "hindi": "दुनिया आख़िरत की खेती है। आज जो बोओगे, वही हमेशा के लिए पाओगे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-25",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "ليس أعظم من حياةٍ يكون الله فيها أول المقاصد",
+            "english": "There is no life greater than the one in which Allah remains your first destination.",
+            "hindi": "उस जिंदगी से बड़ी कोई जिंदगी नहीं जिसमें अल्लाह इंसान का पहला मकसद हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-26",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "وَمَا عِندَ اللَّهِ خَيْرٌ وَأَبْقَى",
+            "english": "What is with Allah is better and everlasting.",
+            "hindi": "अल्लाह के पास जो है वही बेहतर और हमेशा रहने वाला है।"
+        },
+        "reference": "Quran 28:60"
+    },
+    {
+        "id": "life-27",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "راحة القلب ليست في زوال المشكلات بل في القرب من الله",
+            "english": "The heart does not find peace only when problems disappear, but when it stays close to Allah through them.",
+            "hindi": "दिल को सुकून सिर्फ मुश्किलें खत्म होने से नहीं मिलता, बल्कि उनके बीच भी अल्लाह के करीब रहने से मिलता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-28",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+            "english": "Allah does not burden a soul beyond what it can bear.",
+            "hindi": "अल्लाह किसी जान पर उसकी ताकत से ज्यादा बोझ नहीं डालता।"
+        },
+        "reference": "Quran 2:286"
+    },
+    {
+        "id": "life-29",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "القلب الذي يثق بالله قد يتألم لكنه لا يضيع",
+            "english": "A heart that trusts Allah may still feel pain, but it never becomes truly lost.",
+            "hindi": "जो दिल अल्लाह पर भरोसा करता है, वह दर्द तो महसूस करता है लेकिन कभी भटकता नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-30",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "بعض الخير يعود إليك على هيئة دعوة صادقة لا تراها",
+            "english": "Some of the good you do returns to you in the form of quiet prayers you never even hear.",
+            "hindi": "तुम्हारी कुछ नेकियाँ तुम्हारे पास उन सच्ची दुआओं की शक्ल में लौटती हैं जिन्हें तुम सुन भी नहीं पाते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-31",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "السكينة ليست غياب الضجيج بل حضور الله في قلبك",
+            "english": "Tranquility is not the absence of noise, but the presence of Allah in your heart.",
+            "hindi": "सुकून शोर के खत्म हो जाने का नाम नहीं, बल्कि दिल में अल्लाह की मौजूदगी का नाम है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-32",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "كل يوم يمرّ هو فرصة جديدة لتصلح ما بينك وبين الله",
+            "english": "Every new day is another chance to repair what has weakened between you and Allah.",
+            "hindi": "हर गुजरता दिन एक नया मौका है कि तुम अपने और अल्लाह के बीच कमज़ोर हुई चीज़ों को फिर से ठीक करो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-33",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "القلب الذي يكثر من ذكر الله لا تموت فيه الحياة",
+            "english": "A heart that often remembers Allah never truly loses its life within.",
+            "hindi": "जो दिल अक्सर अल्लाह को याद करता है, उसकी रूहानी जिंदगी कभी नहीं मरती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-34",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "العطاء يوسّع القلب قبل أن يوسّع الرزق",
+            "english": "Giving expands the heart before it ever expands provision.",
+            "hindi": "देना पहले दिल को बड़ा करता है, फिर जिंदगी में बरकत लाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-35",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الطمأنينة في رضا الله لا في تمام ما نريد",
+            "english": "Peace is found not in getting everything we want, but in being content with what Allah chooses for us.",
+            "hindi": "असली सुकून हर चाहत पूरी होने में नहीं, बल्कि अल्लाह के फैसले पर राज़ी रहने में है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-36",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "القلب المؤمن لا يرى كل شيء جميلًا لكنه يؤمن أن وراء كل شيء حكمة",
+            "english": "A believing heart does not find every moment easy, but it trusts that every moment carries wisdom.",
+            "hindi": "ईमान वाला दिल हर चीज़ को आसान या खूबसूरत नहीं पाता, लेकिन वह यकीन रखता है कि हर हाल में कोई हिकमत छुपी होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-37",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الابتلاء ليس دائمًا عقوبة بل قد يكون رفعةً وتطهيرًا",
+            "english": "Not every trial is a punishment. Some are sent to elevate you, cleanse you, and return you to Allah.",
+            "hindi": "हर आज़माइश सज़ा नहीं होती। कुछ मुश्किलें इंसान को ऊँचा उठाने, पाक करने और अल्लाह की तरफ लौटाने के लिए आती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-38",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "نور الإيمان لا يمنع الليل لكنه يمنحك طريقًا فيه",
+            "english": "The light of faith does not always remove the night, but it gives you a way through it.",
+            "hindi": "ईमान की रोशनी हर अंधेरा खत्म नहीं करती, लेकिन उसके बीच चलने का रास्ता ज़रूर दिखा देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-39",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "النية الصادقة قد ترفع العمل الصغير إلى منزلة عظيمة",
+            "english": "A sincere intention can raise even the smallest act to a beautiful rank in the sight of Allah.",
+            "hindi": "सच्ची नीयत छोटे से छोटे काम को भी अल्लाह की नज़र में बहुत ऊँचा बना सकती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-40",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "القرب من القرآن حياة للقلب",
+            "english": "Closeness to the Quran brings life to the heart and light to the soul.",
+            "hindi": "कुरआन के करीब होना दिल को जिंदगी और रूह को रोशनी देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-41",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "أحيانًا لا تحتاج الحياة إلى جوابٍ جديد بل إلى قلبٍ أقرب إلى الله",
+            "english": "Sometimes life does not need a new answer — it needs a heart that is closer to Allah.",
+            "hindi": "कभी-कभी जिंदगी को नए जवाब की नहीं, बल्कि अल्लाह के करीब दिल की ज़रूरत होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-42",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "ليس كل انكسار نهاية بل قد يكون بداية نجاة لا تراها",
+            "english": "Not every breaking is an ending. Some heartbreaks are the beginning of a rescue you cannot yet see.",
+            "hindi": "हर टूटन अंत नहीं होती। कुछ टूटनें ऐसी निजात की शुरुआत होती हैं जिसे इंसान उस वक्त देख नहीं पाता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-43",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "أثقل الأيام قد تكون أقربها إلى رحمة الله إذا صبرت",
+            "english": "The heaviest days may be the nearest to Allah’s mercy, if you endure them with patience.",
+            "hindi": "जिंदगी के सबसे भारी दिन भी अल्लाह की रहमत के सबसे करीब हो सकते हैं, अगर इंसान उन पर सब्र करे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-44",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "ما دام قلبك متعلقًا بالله فلن تضيعك الطرق",
+            "english": "As long as your heart remains attached to Allah, no road can truly make you lost.",
+            "hindi": "जब तक तुम्हारा दिल अल्लाह से जुड़ा है, कोई रास्ता तुम्हें सच में गुमराह नहीं कर सकता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-45",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "الحياة لا تصبح أسهل دائمًا لكنها تصبح أعمق حين تعيشها مع الله",
+            "english": "Life does not always become easier, but it becomes deeper, steadier, and more meaningful when lived with Allah.",
+            "hindi": "जिंदगी हमेशा आसान नहीं होती, लेकिन जब इंसान उसे अल्लाह के साथ जीता है तो वह ज्यादा गहरी, मजबूत और मायने रखने वाली बन जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-46",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "قد تتأخر الطمأنينة لكن من سلك طريق الله وصل إليها",
+            "english": "Peace may arrive late, but the one who walks toward Allah never walks away empty.",
+            "hindi": "सुकून कभी देर से आता है, लेकिन जो अल्लाह की राह पर चलता है वह खाली नहीं लौटता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-47",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "أجمل التحولات تبدأ حين تسلّم قلبك لله بصدق",
+            "english": "The most beautiful transformations begin when you surrender your heart to Allah with sincerity.",
+            "hindi": "जिंदगी की सबसे खूबसूरत तब्दीलियाँ तब शुरू होती हैं जब इंसान सच्चे दिल से अपना दिल अल्लाह के हवाले कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-48",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "كل ما يفوتك في الدنيا قد يعوضه الله بما يحيي قلبك",
+            "english": "What slips away from you in this world can be replaced by Allah with something that revives your heart.",
+            "hindi": "दुनिया में जो चीज़ तुमसे छूट जाती है, अल्लाह उसे किसी ऐसी चीज़ से बदल सकता है जो तुम्हारे दिल को फिर से जिंदा कर दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-49",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "لا تقِس حياتك بما فقدت بل بما أبقاه الله لك من نور",
+            "english": "Do not measure your life only by what you lost, but by the light Allah still left within it.",
+            "hindi": "अपनी जिंदगी को सिर्फ खोई हुई चीज़ों से मत नापो, बल्कि उस नूर से देखो जो अल्लाह ने अब भी उसमें बाकी रखा है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "life-50",
+        "category": "Life",
+        "text":
+        {
+            "arabic": "من عاش لله وجد في أبسط الأيام معنى لا يفهمه الغافلون",
+            "english": "Whoever lives for Allah finds meaning even in the simplest days — a depth the heedless may never understand.",
+            "hindi": "जो अल्लाह के लिए जीता है, वह सबसे साधारण दिनों में भी ऐसा मतलब पा लेता है जिसे ग़फ़लत में जीने वाले समझ नहीं पाते।"
+        },
+        "reference": ""
+    }
+]
