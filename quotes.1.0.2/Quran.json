@@ -1,0 +1,442 @@
+[
+    {
+        "id": "quran-1",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+            "english": "Indeed, with hardship comes ease. Indeed, with hardship comes ease.",
+            "hindi": "बेशक, हर मुश्किल के साथ आसानी है। बेशक, हर मुश्किल के साथ आसानी है।"
+        },
+        "reference": "Quran 94:5-6"
+    },
+    {
+        "id": "quran-2",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ",
+            "english": "Whoever is mindful of Allah, He makes a way out for them and provides for them from where they could never imagine.",
+            "hindi": "जो अल्लाह से डरता है, अल्लाह उसके लिए निकलने का रास्ता बना देता है और उसे वहाँ से रोज़ी देता है जहाँ से वह गुमान भी नहीं कर सकता।"
+        },
+        "reference": "Quran 65:2-3"
+    },
+    {
+        "id": "quran-3",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+            "english": "Indeed, Allah is with those who remain patient.",
+            "hindi": "बेशक, अल्लाह सब्र करने वालों के साथ है।"
+        },
+        "reference": "Quran 2:153"
+    },
+    {
+        "id": "quran-4",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+            "english": "Truly, it is in the remembrance of Allah that hearts find peace.",
+            "hindi": "सुन लो, दिलों को असली सुकून सिर्फ अल्लाह की याद से मिलता है।"
+        },
+        "reference": "Quran 13:28"
+    },
+    {
+        "id": "quran-5",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا",
+            "english": "Do not despair of the mercy of Allah. Surely, Allah forgives all sins.",
+            "hindi": "अल्लाह की रहमत से मायूस मत हो। बेशक, अल्लाह सारे गुनाह माफ कर देता है।"
+        },
+        "reference": "Quran 39:53"
+    },
+    {
+        "id": "quran-6",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+            "english": "Whoever places their trust in Allah, He alone is enough for them.",
+            "hindi": "जो अल्लाह पर भरोसा करता है, उसके लिए वही काफी हो जाता है।"
+        },
+        "reference": "Quran 65:3"
+    },
+    {
+        "id": "quran-7",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ",
+            "english": "My Lord is with me — He will guide me.",
+            "hindi": "मेरा रब मेरे साथ है — वही मुझे राह दिखाएगा।"
+        },
+        "reference": "Quran 26:62"
+    },
+    {
+        "id": "quran-8",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+            "english": "In the heaven is your provision and all that you have been promised.",
+            "hindi": "तुम्हारी रोज़ी आसमान में तय कर दी गई है, और वह सब भी जिसका तुमसे वादा किया गया है।"
+        },
+        "reference": "Quran 51:22"
+    },
+    {
+        "id": "quran-9",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+            "english": "Do not lose heart, and do not grieve — you will rise above if you truly believe.",
+            "hindi": "न हिम्मत हारो और न ग़म करो — अगर तुम मोमिन हो, तो तुम ही सरबलंद रहोगे।"
+        },
+        "reference": "Quran 3:139"
+    },
+    {
+        "id": "quran-10",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً",
+            "english": "Our Lord, do not let our hearts deviate after You have guided us, and grant us mercy from Yourself.",
+            "hindi": "ऐ हमारे रब, हिदायत देने के बाद हमारे दिलों को टेढ़ा न कर और हमें अपनी तरफ से रहमत अता फरमा।"
+        },
+        "reference": "Quran 3:8"
+    },
+    {
+        "id": "quran-11",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+            "english": "Surely, Allah never lets the reward of those who do good go to waste.",
+            "hindi": "बेशक, अल्लाह नेकी करने वालों का अज्र कभी ज़ाया नहीं होने देता।"
+        },
+        "reference": "Quran 12:56"
+    },
+    {
+        "id": "quran-12",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
+            "english": "He is with you wherever you are.",
+            "hindi": "वह तुम्हारे साथ है, जहाँ कहीं भी तुम हो।"
+        },
+        "reference": "Quran 57:4"
+    },
+    {
+        "id": "quran-13",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ",
+            "english": "When My servants ask about Me — indeed, I am near. I answer the call of the one who calls upon Me.",
+            "hindi": "जब मेरे बंदे मेरे बारे में पूछें — तो मैं बहुत करीब हूँ। जो मुझे पुकारता है, मैं उसकी दुआ कबूल करता हूँ।"
+        },
+        "reference": "Quran 2:186"
+    },
+    {
+        "id": "quran-14",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ",
+            "english": "So remain patient. Surely, the promise of Allah is true.",
+            "hindi": "तो सब्र करो। बेशक, अल्लाह का वादा बिल्कुल सच्चा है।"
+        },
+        "reference": "Quran 30:60"
+    },
+    {
+        "id": "quran-15",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ",
+            "english": "Indeed, Allah commands justice and excellence.",
+            "hindi": "बेशक, अल्लाह इंसाफ और एहसान का हुक्म देता है।"
+        },
+        "reference": "Quran 16:90"
+    },
+    {
+        "id": "quran-16",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ",
+            "english": "Those who hold back their anger and pardon people — and Allah loves those who do good.",
+            "hindi": "जो अपने ग़ुस्से को पी जाते हैं और लोगों को माफ कर देते हैं — और अल्लाह नेकी करने वालों से मुहब्बत करता है।"
+        },
+        "reference": "Quran 3:134"
+    },
+    {
+        "id": "quran-17",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+            "english": "My Lord, expand my chest for me and make my task easy.",
+            "hindi": "ऐ मेरे रब, मेरा सीना खोल दे और मेरा काम मेरे लिए आसान कर दे।"
+        },
+        "reference": "Quran 20:25-26"
+    },
+    {
+        "id": "quran-18",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَيَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنِ السَّيِّئَاتِ",
+            "english": "He accepts repentance from His servants and pardons sins.",
+            "hindi": "वह अपने बंदों की तौबा कबूल करता है और गुनाहों को माफ कर देता है।"
+        },
+        "reference": "Quran 42:25"
+    },
+    {
+        "id": "quran-19",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
+            "english": "Never lose hope in the mercy and relief of Allah.",
+            "hindi": "अल्लाह की रहमत और राहत से कभी मायूस मत हो।"
+        },
+        "reference": "Quran 12:87"
+    },
+    {
+        "id": "quran-20",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ",
+            "english": "Rely upon the Ever-Living, the One who never dies.",
+            "hindi": "उस हमेशा ज़िंदा रहने वाले पर भरोसा करो जो कभी नहीं मरता।"
+        },
+        "reference": "Quran 25:58"
+    },
+    {
+        "id": "quran-21",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+            "english": "Allah does not burden any soul beyond what it can bear.",
+            "hindi": "अल्लाह किसी जान पर उसकी ताक़त से बढ़कर बोझ नहीं डालता।"
+        },
+        "reference": "Quran 2:286"
+    },
+    {
+        "id": "quran-22",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+            "english": "If you are grateful, I will surely increase you.",
+            "hindi": "अगर तुम शुक्र करोगे, तो मैं तुम्हें और बढ़ा दूँगा।"
+        },
+        "reference": "Quran 14:7"
+    },
+    {
+        "id": "quran-23",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ",
+            "english": "Indeed, your Lord is vast in forgiveness.",
+            "hindi": "बेशक, तुम्हारा रब बहुत वसीअ मग़फ़िरत वाला है।"
+        },
+        "reference": "Quran 53:32"
+    },
+    {
+        "id": "quran-24",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+            "english": "Surely, Allah knows all that is hidden within hearts.",
+            "hindi": "बेशक, अल्लाह दिलों के अंदर छुपी हर बात को खूब जानता है।"
+        },
+        "reference": "Quran 3:119"
+    },
+    {
+        "id": "quran-25",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ",
+            "english": "Perhaps you dislike something, yet it is good for you; and perhaps you love something, yet it is bad for you.",
+            "hindi": "हो सकता है कि तुम किसी चीज़ को नापसंद करो, लेकिन वही तुम्हारे लिए बेहतर हो; और हो सकता है कि तुम किसी चीज़ को पसंद करो, लेकिन वही तुम्हारे लिए बुरी हो।"
+        },
+        "reference": "Quran 2:216"
+    },
+    {
+        "id": "quran-26",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ",
+            "english": "Indeed, Allah loves those who constantly turn back in repentance.",
+            "hindi": "बेशक, अल्लाह तौबा करके उसकी तरफ लौटने वालों से मुहब्बत करता है।"
+        },
+        "reference": "Quran 2:222"
+    },
+    {
+        "id": "quran-27",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ مَعَ الْمُتَّقِينَ",
+            "english": "Indeed, Allah is with those who are mindful of Him.",
+            "hindi": "बेशक, अल्लाह परहेज़गारों के साथ है।"
+        },
+        "reference": "Quran 2:194"
+    },
+    {
+        "id": "quran-28",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+            "english": "My mercy embraces all things.",
+            "hindi": "मेरी रहमत हर चीज़ को अपने घेरे में लिए हुए है।"
+        },
+        "reference": "Quran 7:156"
+    },
+    {
+        "id": "quran-29",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ لَطِيفٌ بِعِبَادِهِ",
+            "english": "Indeed, Allah is Most Gentle with His servants.",
+            "hindi": "बेशक, अल्लाह अपने बंदों पर बड़ा लतीफ़ और मेहरबान है।"
+        },
+        "reference": "Quran 42:19"
+    },
+    {
+        "id": "quran-30",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+            "english": "Indeed, we belong to Allah, and indeed to Him we will return.",
+            "hindi": "बेशक, हम अल्लाह ही के हैं और उसी की तरफ लौटकर जाने वाले हैं।"
+        },
+        "reference": "Quran 2:156"
+    },
+    {
+        "id": "quran-31",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ",
+            "english": "Indeed, my Lord is Near and ever responsive.",
+            "hindi": "बेशक, मेरा रब बहुत करीब है और दुआ कबूल करने वाला है।"
+        },
+        "reference": "Quran 11:61"
+    },
+    {
+        "id": "quran-32",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ",
+            "english": "Do not let your eyes long for what We have given some people to enjoy.",
+            "hindi": "जो कुछ हमने कुछ लोगों को दिया है, उसकी तरफ अपनी नज़रें लालच से मत बढ़ाओ।"
+        },
+        "reference": "Quran 20:131"
+    },
+    {
+        "id": "quran-33",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوْا وَّالَّذِينَ هُم مُّحْسِنُونَ",
+            "english": "Indeed, Allah is with those who are mindful of Him and those who excel in doing good.",
+            "hindi": "बेशक, अल्लाह उनके साथ है जो उससे डरते हैं और जो नेकी को खूबसूरती से अंजाम देते हैं।"
+        },
+        "reference": "Quran 16:128"
+    },
+    {
+        "id": "quran-34",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ",
+            "english": "My success comes from Allah alone.",
+            "hindi": "मेरी कामयाबी सिर्फ अल्लाह ही की तरफ से है।"
+        },
+        "reference": "Quran 11:88"
+    },
+    {
+        "id": "quran-35",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+            "english": "Remember Me — I will remember you.",
+            "hindi": "तुम मुझे याद करो — मैं तुम्हें याद करूँगा।"
+        },
+        "reference": "Quran 2:152"
+    },
+    {
+        "id": "quran-36",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ",
+            "english": "Be patient — and your patience is only through Allah.",
+            "hindi": "सब्र करो — और तुम्हारा सब्र सिर्फ अल्लाह की मदद से है।"
+        },
+        "reference": "Quran 16:127"
+    },
+    {
+        "id": "quran-37",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ بَالِغُ أَمْرِهِ",
+            "english": "Indeed, Allah will surely accomplish His command.",
+            "hindi": "बेशक, अल्लाह अपना फैसला पूरा करके रहता है।"
+        },
+        "reference": "Quran 65:3"
+    },
+    {
+        "id": "quran-38",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَهُوَ خَيْرُ الرَّازِقِينَ",
+            "english": "He is the Best of providers.",
+            "hindi": "वही सबसे बेहतर रोज़ी देने वाला है।"
+        },
+        "reference": "Quran 62:11"
+    },
+    {
+        "id": "quran-39",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَلَا تَفْسُدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا",
+            "english": "Do not spread corruption on the earth after it has been set right.",
+            "hindi": "धरती की इस्लाह हो जाने के बाद उसमें फसाद मत फैलाओ।"
+        },
+        "reference": "Quran 7:56"
+    },
+    {
+        "id": "quran-40",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَاللَّهُ خَيْرُ الْحَافِظِينَ",
+            "english": "Allah is the Best of protectors.",
+            "hindi": "अल्लाह सबसे बेहतर हिफाज़त करने वाला है।"
+        },
+        "reference": "Quran 12:64"
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "id": "jummah-1",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "يوم الجمعة يوم مبارك، يوم الرحمة والمغفرة وتفريج الكروب",
+            "english": "Jummah Mubarak — a day of mercy and forgiveness. It is a weekly gift from Allah where duas are accepted, sins are forgiven, and hearts reconnect with faith.",
+            "hindi": "जुमा मुबारक — रहमत और मग़फिरत का दिन। यह अल्लाह की तरफ से हफ्ते का खास तोहफा है जिसमें दुआएं कबूल होती हैं, गुनाह माफ होते हैं और दिल ईमान से जुड़ते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-2",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "خير يومٍ أشرقت عليه الشمس يوم الجمعة، فيه فضلٌ عظيم ونفحاتٌ من الرحمة",
+            "english": "Friday is the finest day the sun rises upon — a day filled with divine favor, mercy, and spiritual renewal.",
+            "hindi": "जुमा वह बेहतरीन दिन है जिस पर सूरज उगता है — यह फज़ीलत, रहमत और रूहानी ताजगी से भरा दिन है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-3",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "في يوم الجمعة ساعةٌ لا يُرد فيها الدعاء، فالجأ إلى الله بقلبٍ حاضر",
+            "english": "On Friday there is a blessed hour in which sincere dua is not turned away. Turn to Allah with a present and hopeful heart.",
+            "hindi": "जुमा के दिन एक ऐसा मुबारक वक्त होता है जिसमें सच्ची दुआ ठुकराई नहीं जाती। अल्लाह की तरफ पूरे दिल और उम्मीद के साथ रुजू करो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-4",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "أكثروا من الصلاة على النبي ﷺ يوم الجمعة، فإنها نورٌ للقلب ورفعةٌ للأجر",
+            "english": "Increase your salutations upon the Prophet ﷺ on Friday. It brings light to the heart and elevation in reward.",
+            "hindi": "जुमा के दिन नबी ﷺ पर ज्यादा दरूद भेजो, क्योंकि यह दिल के लिए नूर और अज्र में बढ़ोतरी का ज़रिया है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-5",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "قراءة سورة الكهف يوم الجمعة نورٌ يمتد بين الجمعتين",
+            "english": "Reciting Surah Al-Kahf on Friday becomes a light that stretches between one Friday and the next.",
+            "hindi": "जुमा के दिन सूरह कहफ पढ़ना ऐसा नूर बन जाता है जो एक जुमा से दूसरे जुमा तक साथ रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-6",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "من صدق في توبته يوم الجمعة وجد باب الرحمة مفتوحًا له",
+            "english": "Whoever turns back sincerely on Friday finds the door of mercy open before them.",
+            "hindi": "जो इंसान जुमा के दिन सच्चे दिल से तौबा करता है, उसके लिए रहमत का दरवाज़ा खुला मिलता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-7",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "يوم الجمعة يوقظ القلب من غفلته ويعيده إلى ذكر الله",
+            "english": "Friday awakens the heart from heedlessness and gently returns it to the remembrance of Allah.",
+            "hindi": "जुमा दिल को ग़फ़लत से जगाता है और उसे फिर से अल्लाह के ज़िक्र की तरफ लौटा देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-8",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "في صباح الجمعة تتنزل السكينة على من بدأ يومه بالقرب من الله",
+            "english": "On Friday morning, tranquility descends upon the one who begins the day close to Allah.",
+            "hindi": "जुमा की सुबह उस इंसान पर सुकून उतरता है जो अपने दिन की शुरुआत अल्लाह की क़ुर्बत से करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-9",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "المسجد يوم الجمعة وطنٌ للقلوب التائبة والأنفس المشتاقة إلى الله",
+            "english": "On Friday, the mosque becomes a home for hearts seeking repentance and souls longing for Allah.",
+            "hindi": "जुमा के दिन मस्जिद उन दिलों का घर बन जाती है जो तौबा चाहते हैं और उन रूहों का ठिकाना जो अल्लाह की तरफ खिंचती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-10",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "اجعل يوم الجمعة وقفة صدق مع نفسك قبل أن يكون عادة في أسبوعك",
+            "english": "Let Friday be an honest pause with your soul, not just another habit in your week.",
+            "hindi": "जुमा को सिर्फ हफ्ते की आदत मत बनाओ, बल्कि अपने दिल और हालात के साथ सच्ची ठहराव का दिन बनाओ।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-11",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "في دعاء الجمعة ما يخفف الهمّ ويزرع في القلب يقين الفرج",
+            "english": "There is something in Friday dua that softens grief and plants certainty of relief in the heart.",
+            "hindi": "जुमा की दुआ में ऐसी ताकत होती है जो ग़म को हल्का कर देती है और दिल में राहत का यकीन बो देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-12",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "التهيؤ ليوم الجمعة طهارةٌ للجسد وتوقيرٌ لشعائر الله",
+            "english": "Preparing for Friday is not only cleanliness of the body, but also honor for the symbols of Allah.",
+            "hindi": "जुमा के लिए तैयारी सिर्फ जिस्म की पाकी नहीं, बल्कि अल्लाह की निशानियों की ताज़ीम भी है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-13",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "املأ يوم الجمعة بذكر الله، ففي الذكر حياةٌ للقلوب",
+            "english": "Fill your Friday with the remembrance of Allah, for in dhikr there is life for the heart.",
+            "hindi": "अपने जुमा को अल्लाह के ज़िक्र से भर दो, क्योंकि ज़िक्र में दिलों की असली जिंदगी है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-14",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "من أحسن استقبال الجمعة وجد بركتها في وقته وروحه",
+            "english": "Whoever welcomes Friday well finds its blessings flowing into both time and soul.",
+            "hindi": "जो इंसान जुमा का इस्तक़बाल अच्छे तरीके से करता है, वह उसकी बरकत अपने वक्त और रूह दोनों में पाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-15",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "استقبل يوم الجمعة بقلبٍ نقيّ خالٍ من الضغائن",
+            "english": "Welcome Friday with a pure heart, emptied of grudges and filled with hope.",
+            "hindi": "जुमा का इस्तक़बाल ऐसे साफ दिल से करो जिसमें नफरत न हो और उम्मीद बाकी हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-16",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "ما بين جمعةٍ وجمعة أبوابٌ للمغفرة لا يفتحها إلا من رجع إلى الله",
+            "english": "Between one Friday and the next are doors of forgiveness opened for those who return sincerely to Allah.",
+            "hindi": "एक जुमा से दूसरे जुमा के बीच मग़फिरत के दरवाज़े खुलते हैं, मगर उन्हें वही पाता है जो सच्चे दिल से अल्लाह की तरफ लौटे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-17",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "في يوم الجمعة تظهر نعمة الإسلام حين تجتمع القلوب على طاعةٍ واحدة",
+            "english": "On Friday, the beauty of Islam appears when hearts gather upon one act of worship.",
+            "hindi": "जुमा के दिन इस्लाम की खूबसूरती तब दिखाई देती है जब दिल एक इबादत पर इकट्ठा हो जाते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-18",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "يوم الجمعة ليس للانشغال عن القرآن بل للرجوع إلى نوره",
+            "english": "Friday is not a day to drift away from the Qur’an, but to return to its light.",
+            "hindi": "जुमा क़ुरआन से दूर होने का नहीं, बल्कि उसके नूर की तरफ लौटने का दिन है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-19",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "كل جمعة فرصة لأن تفتح قلبك لله من جديد",
+            "english": "Every Friday is a chance to open your heart to Allah all over again.",
+            "hindi": "हर जुमा एक नया मौका है कि तुम अपना दिल फिर से अल्लाह के लिए खोल दो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-20",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "اللهم اجعل هذه الجمعة فرجًا لكل مهموم وسعادةً لكل قلب",
+            "english": "O Allah, make this Friday a relief for every worried heart and a source of peace for every soul.",
+            "hindi": "ऐ अल्लाह! इस जुमा को हर परेशान दिल के लिए राहत और हर दिल के लिए सुकून का जरिया बना दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-21",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "يوم الجمعة نفحةٌ إيمانية تتجدد فيها الأرواح وتطمئن القلوب بذكر الله",
+            "english": "Friday is a spiritual breeze where souls are renewed and hearts find peace in the remembrance of Allah.",
+            "hindi": "जुमा एक रूहानी हवा की तरह है जिसमें रूह को ताजगी और दिल को ज़िक्र से सुकून मिलता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-22",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "من أحسن استقبال يوم الجمعة بالطاعة وجد أثرها في سائر أيامه",
+            "english": "Whoever honors Friday with devotion finds its blessings flowing into the rest of the week.",
+            "hindi": "जो जुमा को इबादत के साथ बिताता है, उसकी बरकत पूरे हफ्ते में दिखाई देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-23",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "في يوم الجمعة تقترب الأرواح من السماء حين يصدق الدعاء وتخشع القلوب",
+            "english": "On Friday, souls feel closer to the heavens when dua is sincere and hearts are humble.",
+            "hindi": "जुमा के दिन रूहें आसमान के करीब महसूस होती हैं जब दुआ सच्ची हो और दिल झुका हुआ हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-24",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "يوم الجمعة مدرسةٌ للقلب يتعلم فيها الصدق مع الله",
+            "english": "Friday is a school for the heart, teaching it sincerity with Allah.",
+            "hindi": "जुमा दिल के लिए एक ऐसी तालीम है जो इंसान को अल्लाह के साथ सच्चा होना सिखाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-25",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "يوم الجمعة موعدٌ تتجدد فيه العلاقة بين العبد وربه بالإخلاص والدعاء",
+            "english": "Friday is a sacred appointment where the bond between a servant and Allah is renewed through sincerity and dua.",
+            "hindi": "जुमा वह मुकद्दस वक़्त है जब बंदा अल्लाह से अपने रिश्ते को दुआ और इख़लास के साथ फिर से मजबूत करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-26",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "من أكثر من الذكر يوم الجمعة أشرق قلبه نورًا وسكينة",
+            "english": "Whoever increases remembrance on Friday fills their heart with light and tranquility.",
+            "hindi": "जो जुमा के दिन ज्यादा ज़िक्र करता है उसका दिल नूर और सुकून से भर जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-27",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "في كل جمعة دعوة خفية من الله أن تعود إليه مهما ابتعدت",
+            "english": "Every Friday carries a quiet invitation from Allah to return to Him, no matter how far you have drifted.",
+            "hindi": "हर जुमा अल्लाह की तरफ से एक खामोश पुकार है कि तुम उसकी तरफ लौट आओ, चाहे कितने भी दूर चले गए हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-28",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "يوم الجمعة يوم تتقارب فيه القلوب وتتوحد الصفوف في طاعة الله",
+            "english": "Friday is a day when hearts come closer and believers stand united in worship.",
+            "hindi": "जुमा वह दिन है जब दिल करीब आते हैं और लोग इबादत में एक साथ खड़े होते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-29",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "اغتنم يوم الجمعة فإنه تذكير دائم بأن رحمة الله أقرب مما نظن",
+            "english": "Seize Friday, for it is a reminder that Allah’s mercy is always closer than we think.",
+            "hindi": "जुमा को ग़नीमत जानो, क्योंकि यह याद दिलाता है कि अल्लाह की रहमत हमेशा हमारी सोच से ज्यादा करीब होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-30",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "يوم الجمعة بدايةٌ لشفاء القلب إذا صَدَق العبد في رجوعه إلى الله",
+            "english": "Friday can become the beginning of healing for the heart when a servant returns sincerely to Allah.",
+            "hindi": "जुमा दिल के इलाज की शुरुआत बन सकता है, अगर बंदा सच्चे दिल से अल्लाह की तरफ लौट आए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-31",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "في مساء الجمعة تزداد الطمأنينة حين تمتلئ الروح بالدعاء والرجاء",
+            "english": "On Friday evening, tranquility deepens when the soul is filled with dua and hope.",
+            "hindi": "जुमा की शाम सुकून से भर जाती है जब रूह दुआ और उम्मीद से भर जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-32",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "من عرف قدر الجمعة لم يتركها تمرّ كأي يومٍ عابر",
+            "english": "Whoever truly knows the worth of Friday does not let it pass like an ordinary day.",
+            "hindi": "जो इंसान जुमा की क़द्र जान लेता है, वह उसे आम दिनों की तरह गुजरने नहीं देता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-33",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "جمال الجمعة ليس في اسمها فقط بل في أثرها على قلب المؤمن",
+            "english": "The beauty of Friday is not only in its name, but in the effect it leaves on a believer’s heart.",
+            "hindi": "जुमा की खूबसूरती सिर्फ उसके नाम में नहीं, बल्कि उस असर में है जो वह मोमिन के दिल पर छोड़ता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-34",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "ما أجمل الجمعة حين تبدأ بالصلاة وتنتهي بقلبٍ أقرب إلى الله",
+            "english": "How beautiful Friday becomes when it begins with prayer and ends with a heart closer to Allah.",
+            "hindi": "जुमा कितना खूबसूरत हो जाता है जब उसकी शुरुआत नमाज़ से हो और अंत अल्लाह के करीब दिल के साथ हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-35",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "في الجمعة راحةٌ لا يعرفها إلا من جعلها يوم قربٍ من الله",
+            "english": "There is a peace in Friday known only to the one who makes it a day of closeness to Allah.",
+            "hindi": "जुमा में एक ऐसा सुकून होता है जिसे वही महसूस करता है जो इसे अल्लाह की क़ुर्बत का दिन बना लेता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-36",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "إذا أقبلت الجمعة أقبل معها رجاءٌ جديد ورحمةٌ تلامس القلوب",
+            "english": "When Friday arrives, it brings with it fresh hope and a mercy that touches hearts.",
+            "hindi": "जब जुमा आता है, तो उसके साथ नई उम्मीद और ऐसी रहमत आती है जो दिलों को छू जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-37",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "من أحيا الجمعة بالذكر والدعاء أحيا الله قلبه بالنور",
+            "english": "Whoever fills Friday with dhikr and dua finds their heart revived with light.",
+            "hindi": "जो इंसान जुमा को ज़िक्र और दुआ से आबाद करता है, अल्लाह उसके दिल को नूर से जिंदा कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-38",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "في الجمعة سكينةٌ تشبه الرسائل الخفية من رحمة الله",
+            "english": "There is a calm in Friday that feels like a hidden message from the mercy of Allah.",
+            "hindi": "जुमा में एक ऐसा सुकून होता है जो अल्लाह की रहमत का छुपा हुआ पैग़ाम लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-39",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "اجعل من الجمعة يومًا تُصلح فيه ما انكسر بينك وبين الله",
+            "english": "Make Friday the day you begin repairing whatever has broken between you and Allah.",
+            "hindi": "जुमा को वह दिन बनाओ जिसमें तुम अपने और अल्लाह के बीच टूटी हुई चीज़ों को फिर से जोड़ना शुरू करो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "jummah-40",
+        "category": "Jummah",
+        "text":
+        {
+            "arabic": "اللهم اجعل يوم الجمعة نورًا في قلوبنا وبركةً في أعمارنا وسكينةً في أرواحنا",
+            "english": "O Allah, make Friday a light in our hearts, a blessing in our lives, and tranquility in our souls.",
+            "hindi": "ऐ अल्लाह! जुमा को हमारे दिलों का नूर, हमारी जिंदगी की बरकत और हमारी रूहों का सुकून बना दे।"
+        },
+        "reference": ""
+    }
+]

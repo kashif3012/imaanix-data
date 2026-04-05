@@ -1,0 +1,552 @@
+[
+    {
+        "id": "women-1",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "البنت رحمة من الله، وتربيتها بإحسان طريق إلى الجنة",
+            "english": "A daughter in Islam is not a burden but a mercy from Allah. Whoever raises her with love, patience, and righteousness will find in her a path to Jannah.",
+            "hindi": "इस्लाम में बेटी बोझ नहीं बल्कि अल्लाह की रहमत है। जो उसे प्यार, सब्र और नेकी के साथ पालता है, वह उसके लिए जन्नत का रास्ता बन जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-2",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "جمال المرأة المؤمنة في حيائها ونقاء قلبها وقربها من الله",
+            "english": "A believing woman shines not through worldly beauty, but through her modesty, the purity of her heart, and her closeness to Allah.",
+            "hindi": "एक मोमिन औरत दुनिया की सजावट से नहीं, बल्कि अपनी हया, दिल की पाकीज़गी और अल्लाह से अपने रिश्ते की वजह से चमकती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-3",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "من أحسن إلى بناته فقد فتح الله له بابًا من الرحمة لا يُغلق",
+            "english": "Whoever shows kindness and mercy to his daughters opens for himself a door of Allah’s mercy that never closes.",
+            "hindi": "जो अपनी बेटियों के साथ रहम और नेकी से पेश आता है, अल्लाह उसके लिए अपनी रहमत का ऐसा दरवाज़ा खोल देता है जो बंद नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-4",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "كرّم الإسلام المرأة وجعل لها مكانة لا يمنحها الناس بل يهبها الله",
+            "english": "Islam honored the woman with a dignity that does not depend on people’s approval, because her worth was given by Allah before the world could define it.",
+            "hindi": "इस्लाम ने औरत को ऐसी इज़्ज़त दी जो लोगों की मंज़ूरी पर नहीं टिकी, क्योंकि उसकी क़दर अल्लाह ने दुनिया से पहले तय कर दी थी।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-5",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "قوة المرأة ليست في صوتها العالي بل في قلبها الثابت وثقتها بالله",
+            "english": "A woman’s strength is not always loud. Sometimes it lives in her patience, her prayers, and the quiet trust she keeps in Allah while carrying pain.",
+            "hindi": "औरत की ताक़त हमेशा उसकी ऊँची आवाज़ में नहीं होती। कभी-कभी वह उसके सब्र, उसकी नमाज़ और दर्द के बीच अल्लाह पर रखे गए उसके खामोश भरोसे में होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-6",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "إذا اجتمع في المرأة العلم والإيمان صار أثرها نورًا يمتد عبر الأجيال",
+            "english": "When knowledge and faith come together in a woman, her impact becomes a light that reaches far beyond her own life.",
+            "hindi": "जब एक औरत के अंदर इल्म और ईमान साथ आ जाएँ, तो उसका असर उसकी अपनी ज़िंदगी से आगे बढ़कर नस्लों तक नूर बनकर पहुँचता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-7",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة التي تعرف ربها لا تبحث عن قيمتها في عيون الناس",
+            "english": "A woman who knows her Lord does not spend her life searching for worth in the eyes of people.",
+            "hindi": "जो औरत अपने रब को पहचान लेती है, वह अपनी क़दर लोगों की नज़रों में तलाश नहीं करती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-8",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "لا تُهِن المرأة، فقد رفع الإسلام قدرها يوم كانت تُظلم",
+            "english": "Never belittle a woman, for Islam raised her honor in a world that once denied her dignity.",
+            "hindi": "किसी औरत को कभी कमतर न समझो, क्योंकि इस्लाम ने उसे उस दुनिया में इज़्ज़त दी जहाँ कभी उसके वक़ार को कुचला जाता था।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-9",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة التي نشأت على القرآن يشرق في حضورها نور لا يُشترى",
+            "english": "A woman raised with the Qur’an in her heart carries a kind of light the world can never manufacture.",
+            "hindi": "जिस औरत के दिल में क़ुरआन पलता है, उसके वजूद में ऐसा नूर आ जाता है जिसे दुनिया कभी बना नहीं सकती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-10",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "حين تُصان كرامة المرأة يزدهر المجتمع بنور العدل والرحمة",
+            "english": "When the dignity of women is protected, a society begins to breathe with justice, mercy, and balance.",
+            "hindi": "जब औरत की इज़्ज़त महफूज़ रखी जाती है, तब समाज इंसाफ, रहमत और संतुलन के साथ फलने लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-11",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة التي تحفظ قلبها لله لا تخسر نفسها في سبيل رضا الناس",
+            "english": "A woman who protects her heart for Allah does not lose herself trying to please the world.",
+            "hindi": "जो औरत अपने दिल को अल्लाह के लिए संभालकर रखती है, वह दुनिया को खुश करने की कोशिश में खुद को नहीं खोती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-12",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "قيمة المرأة لا تُقاس بما يراه الناس بل بما يراه الله في قلبها",
+            "english": "A woman’s value is not measured by what people notice, but by what Allah sees in her heart.",
+            "hindi": "औरत की असली क़ीमत इस बात से नहीं तय होती कि लोग उसमें क्या देखते हैं, बल्कि इससे होती है कि अल्लाह उसके दिल में क्या देखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-13",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة المؤمنة تجعل رضا الله فوق تصفيق الناس",
+            "english": "A believing woman seeks the pleasure of Allah above the applause of people, because she knows true success lies in His acceptance.",
+            "hindi": "एक मोमिन औरत लोगों की वाहवाही से ऊपर अल्लाह की रज़ा को रखती है, क्योंकि वह जानती है कि असली कामयाबी उसी की क़ुबूलियत में है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-14",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "بعض النساء يحملن من الصبر ما لا يعلمه إلا الله",
+            "english": "Some women carry so much patience in silence that only Allah truly knows how much they have survived.",
+            "hindi": "कुछ औरतें इतनी खामोशी से सब्र उठाती हैं कि असल में उन्होंने कितना सहा है, यह सिर्फ अल्लाह जानता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-15",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "تربية البنت على الإيمان والرحمة تصنع روحًا قوية ونقية",
+            "english": "Raise a girl with faith and mercy, and you nurture a soul that is both strong and gentle.",
+            "hindi": "एक बेटी को ईमान और रहम के साथ पालो, तो उसके अंदर ऐसी रूह बनती है जो मजबूत भी होती है और नर्म भी।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-16",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة الثابتة على دينها قد تتعب لكنها لا تنهزم بسهولة",
+            "english": "A woman firmly rooted in her faith may grow tired, but she is not easily defeated.",
+            "hindi": "जो औरत अपने दीन पर मजबूती से क़ायम हो, वह थक सकती है लेकिन आसानी से हारती नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-17",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "إكرام المرأة خلق من أخلاق الإيمان لا فضل من أحد عليها",
+            "english": "Honoring women is not a favor from society — it is a character trait of faith.",
+            "hindi": "औरतों की इज़्ज़त करना समाज का एहसान नहीं, बल्कि ईमान के अख़लाक़ में से है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-18",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "حياء المرأة ليس ضعفًا بل صورة من صور احترامها لنفسها",
+            "english": "A woman’s modesty is not weakness — it is one of the purest forms of self-respect.",
+            "hindi": "औरत की हया कमजोरी नहीं, बल्कि अपने वजूद की इज़्ज़त करने की सबसे पाक सूरतों में से एक है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-19",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة الواعية بدينها تترك أثرًا طيبًا في كل قلب تمر به",
+            "english": "A woman grounded in faith and wisdom leaves behind goodness in every heart she touches.",
+            "hindi": "जो औरत दीन और समझ के साथ जीती है, वह जिन दिलों से गुज़रती है उनमें भलाई का असर छोड़ जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-20",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة التي تثق بالله لا تكسرها الدنيا كما يظن الناس",
+            "english": "A woman who truly trusts Allah is often stronger than the world assumes, even when her heart has known pain.",
+            "hindi": "जो औरत सच में अल्लाह पर भरोसा रखती है, वह दुनिया के गुमान से कहीं ज्यादा मजबूत होती है, चाहे उसका दिल दर्द से गुज़रा हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-21",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "الأم الصالحة تبني بصبرها وإيمانها ما لا تبنيه الكلمات",
+            "english": "A righteous mother builds with her patience and faith what words alone could never build.",
+            "hindi": "एक नेक माँ अपने सब्र और ईमान से वह कुछ बना देती है जो सिर्फ लफ़्ज़ कभी नहीं बना सकते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-22",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "حين تعرف المرأة قدر نفسها عند الله لا تعود تنكسر من كلام الناس",
+            "english": "When a woman knows her worth before Allah, people’s words no longer break her the same way.",
+            "hindi": "जब औरत अल्लाह के सामने अपनी असली क़दर पहचान लेती है, तो लोगों की बातें उसे पहले की तरह नहीं तोड़ पातीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-23",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة التي تعرف قيمتها في الإسلام لا تطلب من الدنيا تعريفها",
+            "english": "A woman who knows her value in Islam no longer asks the world to define her.",
+            "hindi": "जो औरत इस्लाम में अपनी क़दर पहचान लेती है, वह फिर दुनिया से अपनी पहचान तय करवाना बंद कर देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-24",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "الرفق بالمرأة يزرع في قلبها أمانًا ينعكس نورًا على حياتها كلها",
+            "english": "Gentleness toward a woman plants a safety in her heart that can brighten her faith, her confidence, and her whole life.",
+            "hindi": "औरत के साथ नरमी उसके दिल में ऐसा सुकून और अमान भर देती है जिसका नूर उसकी पूरी ज़िंदगी पर दिखाई देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-25",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة الصالحة نور لا يلفت الأنظار فقط بل يطمئن القلوب",
+            "english": "A righteous woman is not only someone who is noticed — she is someone whose presence brings calm to hearts.",
+            "hindi": "एक नेक औरत सिर्फ नज़र आने वाली नहीं होती, बल्कि उसकी मौजूदगी दिलों को सुकून देने वाली होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-26",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "ليست كل قوة تُرى، فبعض النساء قويات لأنهن بقين قريبات من الله رغم كل ما مرّ بهن",
+            "english": "Not all strength is visible. Some women are powerful simply because they stayed close to Allah through everything they survived.",
+            "hindi": "हर ताक़त दिखाई नहीं देती। कुछ औरतें सिर्फ इसलिए बहुत मजबूत होती हैं क्योंकि जो कुछ उन्होंने सहा उसके बावजूद वे अल्लाह के करीब बनी रहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-27",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "جمال المرأة الحقيقي يبدأ حين لا تحتاج أن تُشبه أحدًا لتشعر بقيمتها",
+            "english": "A woman’s real beauty begins when she no longer feels the need to resemble anyone else in order to feel worthy.",
+            "hindi": "औरत की असली खूबसूरती तब शुरू होती है जब उसे अपनी क़ीमत महसूस करने के लिए किसी और जैसा बनने की ज़रूरत नहीं रहती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-28",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة القريبة من الله لا تُغريها المقاييس التي تصنعها الدنيا",
+            "english": "A woman close to Allah is not easily impressed by the standards this world keeps inventing.",
+            "hindi": "जो औरत अल्लाह के करीब होती है, वह दुनिया के बनाए हुए पैमानों से आसानी से प्रभावित नहीं होती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-29",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "دعاء المرأة الصادقة قد يكون سببًا لنجاة بيت كامل",
+            "english": "The sincere dua of a woman can become the reason an entire home is protected, softened, and guided.",
+            "hindi": "एक सच्ची औरत की दुआ कभी-कभी पूरे घर की हिफाज़त, नरमी और हिदायत का ज़रिया बन जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-30",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "رضا المرأة بما قسمه الله لها يحرر قلبها من مقارنة لا تنتهي",
+            "english": "A woman’s contentment with Allah’s decree frees her heart from endless comparison.",
+            "hindi": "औरत का अल्लाह की तक़सीम पर राज़ी होना उसके दिल को कभी खत्म न होने वाली तुलना से आज़ाद कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-31",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة المؤمنة إذا دخلت بيتًا دخل معه السكون",
+            "english": "When a believing woman enters a home with sincerity and faith, she often brings a calm that cannot be bought.",
+            "hindi": "जब एक मोमिन औरत सच्चाई और ईमान के साथ किसी घर में आती है, तो अक्सर उसके साथ ऐसा सुकून भी आता है जिसे खरीदा नहीं जा सकता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-32",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "حكمة المرأة ليست في كثرة كلامها بل في نور بصيرتها",
+            "english": "A woman’s wisdom is not in saying more, but in seeing deeper with a heart lit by insight.",
+            "hindi": "औरत की हिकमत उसके ज़्यादा बोलने में नहीं, बल्कि उस गहराई में होती है जिससे वह दिल की रोशनी से देखती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-33",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "تقوى المرأة تمنحها من الهيبة ما لا تصنعه المظاهر",
+            "english": "The taqwa of a woman gives her a kind of honor and presence that appearances alone can never create.",
+            "hindi": "औरत का तक़वा उसे ऐसी हैबत और वक़ार देता है जिसे सिर्फ बाहरी सजावट कभी पैदा नहीं कर सकती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-34",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "رحمة المرأة ليست ضعفًا بل قدرة عظيمة على تضميد ما انكسر",
+            "english": "A woman’s mercy is not weakness — it is a quiet power to heal what has been broken.",
+            "hindi": "औरत की रहमत कमजोरी नहीं, बल्कि टूटी हुई चीज़ों को जोड़ देने वाली एक खामोश ताक़त है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-35",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "شكر المرأة لما عندها يجعل روحها أغنى من كثير من المظاهر",
+            "english": "A grateful woman often carries more richness in her soul than many who appear to have everything.",
+            "hindi": "शुक्र करने वाली औरत की रूह में अक्सर उन लोगों से ज़्यादा अमीरी होती है जो देखने में सब कुछ रखते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-36",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "عفة المرأة ليست قيدًا بل حماية لقلبها وكرامتها",
+            "english": "A woman’s chastity is not a cage — it is a protection for her heart, her dignity, and her peace.",
+            "hindi": "औरत की पाकदामनी कोई कैद नहीं, बल्कि उसके दिल, उसकी इज़्ज़त और उसके सुकून की हिफाज़त है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-37",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "بعض النساء ينشرن السلام لا لأن حياتهن سهلة بل لأن قلوبهن متصلة بالله",
+            "english": "Some women spread peace not because life has been easy on them, but because their hearts stayed connected to Allah.",
+            "hindi": "कुछ औरतें सुकून इसलिए नहीं बाँटतीं कि उनकी जिंदगी आसान रही, बल्कि इसलिए कि उनके दिल अल्लाह से जुड़े रहे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-38",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "ثبات المرأة على الحق جمال لا تملكه كل النفوس",
+            "english": "There is a rare beauty in a woman who remains firm upon truth even when it costs her comfort.",
+            "hindi": "उस औरत में एक दुर्लभ खूबसूरती होती है जो आराम छिन जाने पर भी सच पर क़ायम रहती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-39",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "ذكر المرأة لله يملأ قلبها سكينةً لا يقدر الناس على منحها",
+            "english": "A woman who remembers Allah carries a tranquility in her heart that people can never give her.",
+            "hindi": "जो औरत अल्लाह को याद करती है, उसके दिल में ऐसा सुकून उतरता है जो लोग उसे कभी नहीं दे सकते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-40",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة الصالحة ليست مجرد زينة للحياة بل سكينة ورحمة وبركة",
+            "english": "A righteous woman is not merely a beautiful part of life — she can be a source of sakinah, mercy, and barakah.",
+            "hindi": "एक नेक औरत सिर्फ जिंदगी की सजावट नहीं होती, बल्कि वह सुकून, रहमत और बरकत का ज़रिया बन सकती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-41",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "كم من امرأة أصلحت بيتًا بدعائها قبل أن تصلحه بكلامها",
+            "english": "How many homes have been healed first by a woman’s dua before they were ever healed by words.",
+            "hindi": "कितने ही घर पहले एक औरत की दुआ से सँभले हैं, उसके लफ़्ज़ों से भी पहले।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-42",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة التي تحفظ نفسها لله يرزقها الله نورًا لا يُطفأ بسهولة",
+            "english": "A woman who guards herself for Allah is often given a light that this world cannot easily dim.",
+            "hindi": "जो औरत खुद को अल्लाह के लिए महफूज़ रखती है, अल्लाह उसे ऐसा नूर देता है जिसे दुनिया आसानी से बुझा नहीं सकती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-43",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "في قلب المرأة المؤمنة من اللطف ما يداوي، ومن الإيمان ما يثبت",
+            "english": "In the heart of a believing woman lives a gentleness that heals and a faith that keeps others steady.",
+            "hindi": "एक मोमिन औरत के दिल में ऐसी नरमी होती है जो मरहम बनती है, और ऐसा ईमान होता है जो दूसरों को भी संभाल लेता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-44",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "ليست المرأة الصالحة من لا تتعب، بل من تعود إلى الله كلما تعبت",
+            "english": "A righteous woman is not one who never gets tired, but one who keeps returning to Allah whenever she does.",
+            "hindi": "नेक औरत वह नहीं जो कभी थकती नहीं, बल्कि वह है जो हर थकान में फिर अल्लाह की तरफ लौट आती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-45",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "حين تُحسن المرأة الظن بربها يزهر في قلبها أمل لا ينطفئ",
+            "english": "When a woman places beautiful trust in her Lord, a hope begins to bloom in her heart that refuses to die.",
+            "hindi": "जब औरत अपने रब के बारे में अच्छा गुमान रखती है, तो उसके दिल में ऐसी उम्मीद खिलती है जो बुझती नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-46",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "بعض النساء لا يسمع العالم صبرهن، لكن السماء تشهد له",
+            "english": "Some women carry a patience the world never notices, but the heavens have already witnessed it.",
+            "hindi": "कुछ औरतों का सब्र दुनिया कभी देख नहीं पाती, लेकिन आसमान उसकी गवाही पहले ही दे चुका होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-47",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "قرب المرأة من القرآن يكسو روحها وقارًا لا تمنحه الدنيا",
+            "english": "When a woman stays close to the Qur’an, her soul is clothed in a dignity this world can never grant.",
+            "hindi": "जब औरत क़ुरआन के करीब रहती है, तो उसकी रूह को ऐसा वक़ार मिल जाता है जो दुनिया कभी नहीं दे सकती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-48",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة التي تعرف أن الله معها لا تخاف وحدتها كما كانت من قبل",
+            "english": "A woman who knows Allah is with her no longer fears loneliness the way she once did.",
+            "hindi": "जो औरत यह जान लेती है कि अल्लाह उसके साथ है, वह फिर तन्हाई से पहले की तरह नहीं डरती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-49",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "المرأة النقية لا تحتاج أن تثبت جمالها، يكفي أن ينعكس نور قلبها في حضورها",
+            "english": "A pure-hearted woman does not need to prove her beauty — the light of her heart speaks for her presence.",
+            "hindi": "पाक दिल औरत को अपनी खूबसूरती साबित करने की ज़रूरत नहीं होती, उसके दिल का नूर ही उसकी मौजूदगी बयान कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "women-50",
+        "category": "Women",
+        "text":
+        {
+            "arabic": "حين تصلح المرأة ما بينها وبين الله يصلح الله في قلبها ما أتعبها طويلًا",
+            "english": "When a woman mends what is between her and Allah, Allah begins to heal within her what had exhausted her for years.",
+            "hindi": "जब औरत अपने और अल्लाह के बीच के रिश्ते को सँवार लेती है, तो अल्लाह उसके दिल की उन थकानों को भी ठीक करना शुरू कर देता है जो बरसों से उसे तोड़ रही थीं।"
+        },
+        "reference": ""
+    }
+]

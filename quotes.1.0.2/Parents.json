@@ -1,0 +1,277 @@
+[
+    {
+        "id": "parents-1",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "رضا الله يبدأ من لحظة تبرّ فيها والديك بصدق",
+            "english": "The pleasure of Allah begins in the moments you sincerely honor your parents.",
+            "hindi": "अल्लाह की रज़ा उस वक़्त से शुरू होती है जब तुम सच्चे दिल से अपने वालिदैन की ख़िदमत करते हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-2",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "من بركة والديك أن دعاءهما يفتح لك أبوابًا لم تكن تراها",
+            "english": "One of the blessings of your parents is that their duas can open doors for you that you never even saw.",
+            "hindi": "तुम्हारे वालिदैन की बरकतों में से एक यह है कि उनकी दुआएँ तुम्हारे लिए ऐसे दरवाज़े खोल देती हैं जिन्हें तुम देख भी नहीं पाते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-3",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "الدعاء لوالديك بعد كل صلاة صدقة لا تنقطع أبدًا",
+            "english": "A dua for your parents after every prayer is a charity that never ends.",
+            "hindi": "हर नमाज़ के बाद वालिदैन के लिए की गई दुआ एक ऐसी सदक़ा है जो कभी खत्म नहीं होती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-4",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "برّ الوالدين ليس واجبًا ثقيلًا بل باب رحمة فتحه الله لك",
+            "english": "Honoring your parents is not a burden — it is a door of mercy Allah opened for you.",
+            "hindi": "वालिदैन की ख़िदमत कोई बोझ नहीं, बल्कि अल्लाह की तरफ से रहमत का एक दरवाज़ा है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-5",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "برّ والديك في شبابك نور ستحتاجه كثيرًا حين تكبر",
+            "english": "Kindness to your parents in your youth is a light you will deeply need when you grow older.",
+            "hindi": "जवानी में वालिदैन की ख़िदमत वह नूर है जिसकी तुम्हें उम्र बढ़ने पर बहुत ज़रूरत पड़ेगी।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-6",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "لا ترفع صوتك على من تعب صوته يومًا ليعلّمك كيف تتكلم",
+            "english": "Do not raise your voice over the one who once strained theirs to teach you how to speak.",
+            "hindi": "उन पर अपनी आवाज़ ऊँची मत करो जिन्होंने कभी तुम्हें बोलना सिखाने के लिए अपनी आवाज़ थका दी थी।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-7",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "رضا والديك طريق قصير إلى رضا الله فلا تطل الطريق عليك",
+            "english": "The pleasure of your parents is a short path to the pleasure of Allah — do not make that path longer for yourself.",
+            "hindi": "वालिदैन की रज़ामंदी अल्लाह की रज़ा तक पहुँचने का आसान रास्ता है — इसे अपने लिए मुश्किल मत बनाओ।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-8",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "حين تكبر ستفهم كم أخفى والداك تعبهم ليجعلوا حياتك أسهل",
+            "english": "As you grow older, you will realize how much your parents hid their struggles just to make your life easier.",
+            "hindi": "जब तुम बड़े हो जाओगे, तब समझोगे कि तुम्हारे वालिदैन ने कितनी तकलीफें छुपाईं ताकि तुम्हारी जिंदगी आसान हो सके।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-9",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "برّ الوالدين لا يحتاج مالًا بل يحتاج قلبًا يعرف قيمتهما",
+            "english": "Honoring your parents does not require wealth — it requires a heart that knows their worth.",
+            "hindi": "वालिदैन की ख़िदमत के लिए दौलत नहीं, बल्कि ऐसा दिल चाहिए जो उनकी क़ीमत समझे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-10",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "أجمل الدعوات تلك التي تخرج من قلب والديك لك دون أن تطلبها",
+            "english": "The most beautiful duas are the ones your parents make for you without you even asking.",
+            "hindi": "सबसे खूबसूरत दुआएँ वह होती हैं जो तुम्हारे वालिदैन तुम्हारे लिए बिना माँगे करते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-11",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "لا تؤجل كلمة طيبة لوالديك فقد يأتي يوم تتمنى أن تسمعك أرواحهم",
+            "english": "Do not delay kind words for your parents — a day may come when you wish their souls could hear you.",
+            "hindi": "अपने वालिदैन से अच्छी बात कहने में देर मत करो — एक दिन ऐसा आ सकता है जब तुम चाहोगे कि वह तुम्हें सुन पाते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-12",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "من أعظم التوفيق أن يجعل الله قلبك لينًا مع والديك مهما اشتدت عليك الحياة",
+            "english": "One of the greatest blessings is when Allah keeps your heart gentle toward your parents no matter how hard life becomes.",
+            "hindi": "सबसे बड़ी तौफ़ीक़ों में से एक यह है कि जिंदगी कितनी भी सख्त हो जाए, अल्लाह तुम्हारा दिल वालिदैन के लिए नरम रखे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-13",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "كل تعب تحمله والداك من أجلك سيبقى دينًا لا يُقضى إلا بالبرّ",
+            "english": "Every hardship your parents endured for you is a debt that can only be repaid through kindness.",
+            "hindi": "तुम्हारे लिए वालिदैन ने जो तकलीफें उठाईं, वह ऐसा कर्ज़ है जो सिर्फ उनकी ख़िदमत से ही अदा हो सकता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-14",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "البرّ ليس في الأفعال الكبيرة فقط بل في التفاصيل الصغيرة التي تفرح قلوبهم",
+            "english": "Kindness to parents is not only in grand actions, but in the small things that make their hearts happy.",
+            "hindi": "वालिदैन की ख़िदमत सिर्फ बड़े कामों में नहीं, बल्कि उन छोटी-छोटी बातों में होती है जो उनके दिल को खुश कर देती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-15",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "حين تدعو لوالديك فأنت تبني جسرًا من الرحمة يصل إليهما حتى بعد رحيلهما",
+            "english": "When you pray for your parents, you build a bridge of mercy that reaches them even after they are gone.",
+            "hindi": "जब तुम अपने वालिदैन के लिए दुआ करते हो, तो तुम रहमत का एक पुल बनाते हो जो उनके पास उनके जाने के बाद भी पहुँचता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-16",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "كم من مرة ضحى والداك براحتهم ليمنحوك حياة لم يستطيعوا أن يعيشوها",
+            "english": "How many times did your parents sacrifice their comfort just to give you a life they never had?",
+            "hindi": "कितनी ही बार तुम्हारे वालिदैन ने अपनी आराम को कुर्बान किया ताकि तुम्हें वह जिंदगी दे सकें जो उन्हें न मिल सकी।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-17",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "حين تخدم والديك بصبر فأنت تتعلم شكل الرحمة كما يحبها الله",
+            "english": "When you serve your parents with patience, you learn the kind of mercy that Allah loves.",
+            "hindi": "जब तुम सब्र के साथ वालिदैन की ख़िदमत करते हो, तो तुम उस रहमत को सीखते हो जिसे अल्लाह पसंद करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-18",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "لا تجعل انشغالك بالحياة ينسيك من كانوا سببًا في حياتك",
+            "english": "Do not let the busyness of life make you forget those who were the reason for your life.",
+            "hindi": "ज़िंदगी की भाग-दौड़ तुम्हें उन लोगों को भूलने न दे जो तुम्हारी जिंदगी का कारण बने।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-19",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "الابتسامة في وجه والديك قد تكون عند الله أعظم من أعمال كثيرة",
+            "english": "A smile for your parents may be greater in the sight of Allah than many big deeds.",
+            "hindi": "वालिदैन के सामने मुस्कुराना अल्लाह के नज़दीक कई बड़े अमलों से भी बेहतर हो सकता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-20",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "من أجمل أبواب الجنة أن يجعل الله لك والدين ترضيهما فيرضى عنك",
+            "english": "One of the most beautiful doors to Jannah is when Allah gives you parents to please, and through them becomes pleased with you.",
+            "hindi": "जन्नत के सबसे खूबसूरत दरवाज़ों में से एक यह है कि अल्लाह तुम्हें ऐसे वालिदैन दे जिनको राज़ी करके तुम उसका क़ुर्ब हासिल करो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-21",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "ليس كل البرّ كلمات بل أحيانًا يكفي أن يشعر والداك أنك حاضر لهما بقلبك",
+            "english": "Not all kindness is in words — sometimes it is enough for your parents to simply feel that you are truly present for them.",
+            "hindi": "हर ख़िदमत सिर्फ अल्फ़ाज़ में नहीं होती — कभी-कभी इतना काफी होता है कि वालिदैन महसूस करें कि तुम दिल से उनके साथ मौजूद हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-22",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "حين تغضب من والديك تذكر كم مرة صبروا عليك وأنت لا تدرك",
+            "english": "When you feel anger toward your parents, remember how many times they were patient with you without you even realizing.",
+            "hindi": "जब तुम्हें अपने वालिदैन पर गुस्सा आए, तो याद करो कि उन्होंने कितनी बार तुम्हारे साथ सब्र किया जब तुम समझ भी नहीं पाते थे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-23",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "برّ الوالدين لا ينتهي بموتهما بل يبدأ باب آخر من الدعاء والصدقة عنهما",
+            "english": "Honoring your parents does not end with their death — it opens another door through dua and charity for them.",
+            "hindi": "वालिदैन की ख़िदमत उनके जाने के बाद खत्म नहीं होती, बल्कि दुआ और सदक़ा के ज़रिए एक नया दरवाज़ा खुलता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-24",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "أبسط ما تقدمه لوالديك هو وقتك واهتمامك وهو عند الله عظيم",
+            "english": "The simplest thing you can give your parents is your time and attention — and in the sight of Allah, that is immense.",
+            "hindi": "वालिदैन को देने के लिए सबसे आसान चीज़ तुम्हारा वक़्त और तवज्जोह है — और अल्लाह के नज़दीक यह बहुत अज़ीम है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "parents-25",
+        "category": "Parents",
+        "text":
+        {
+            "arabic": "حين تدعو لوالديك بصدق تشعر أن قلبك أقرب إلى الله دون أن تدري",
+            "english": "When you sincerely pray for your parents, you feel your heart closer to Allah without even realizing it.",
+            "hindi": "जब तुम सच्चे दिल से वालिदैन के लिए दुआ करते हो, तो तुम्हारा दिल खुद-ब-खुद अल्लाह के करीब महसूस करता है।"
+        },
+        "reference": ""
+    }
+]

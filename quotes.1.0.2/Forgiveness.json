@@ -1,0 +1,277 @@
+[
+    {
+        "id": "forgiveness-1",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "باب الله لا يُغلق في وجه من عاد إليه صادقًا ولو عاد مثقلًا بالذنوب",
+            "english": "The door of Allah never closes for the one who returns sincerely, even if they return carrying the weight of many sins.",
+            "hindi": "अल्लाह का दरवाज़ा उस बंदे पर कभी बंद नहीं होता जो सच्चे दिल से उसकी तरफ लौटे, चाहे वह कितने ही गुनाहों का बोझ लेकर क्यों न आए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-2",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "إذا كسرك ذنبك فلا تنظر إلى ضعفك فقط بل انظر إلى ربٍّ يحب التوابين",
+            "english": "If your sin has broken you, do not only look at your weakness — look at the Lord who loves those who return in repentance.",
+            "hindi": "अगर तुम्हारा गुनाह तुम्हें तोड़ चुका है, तो सिर्फ अपनी कमजोरी मत देखो — उस रब को भी देखो जो तौबा करने वालों से मुहब्बत करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-3",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "كم من قلبٍ أفسدته المعصية ثم أصلحته توبة صادقة بينه وبين الله",
+            "english": "How many hearts were damaged by sin, then healed by a sincere repentance made quietly before Allah.",
+            "hindi": "कितने ही दिल गुनाहों से बिगड़ गए, फिर अल्लाह के सामने की गई सच्ची तौबा ने उन्हें दोबारा सँवार दिया।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-4",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "إذا ندمت فقد طرق قلبك باب الرحمة فلا تبتعد بعد أن اقتربت",
+            "english": "If you feel regret, then mercy has already knocked on your heart — do not walk away after coming this close.",
+            "hindi": "अगर तुम्हारे दिल में नदामत आई है, तो समझ लो रहमत ने तुम्हारे दिल का दरवाज़ा खटखटाया है — अब पास आकर दूर मत हो जाओ।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-5",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "أجمل ما في التوبة أن الله يعلم ضعفك ومع ذلك يفتح لك الطريق إليه",
+            "english": "The beauty of repentance is that Allah knows your weakness, yet still opens a way for you back to Him.",
+            "hindi": "तौबा की सबसे खूबसूरत बात यह है कि अल्लाह तुम्हारी कमजोरी जानता है, फिर भी वह अपनी तरफ लौटने का रास्ता खोल देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-6",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "لا تخف من كثرة ما بينك وبين الله من أخطاء إذا كان بينك وبينه باب اسمه التوبة",
+            "english": "Do not fear the many mistakes between you and Allah if there still remains a door between you and Him called repentance.",
+            "hindi": "तुम्हारे और अल्लाह के बीच कितनी ही गलतियाँ क्यों न हों, उनसे मत डरो — जब तक तुम्हारे और उसके बीच तौबा का दरवाज़ा खुला है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-7",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "التوبة ليست لمن لم يخطئ بل لمن تعب من البعد واشتاق إلى القرب",
+            "english": "Repentance is not for the one who never sinned, but for the one who grew tired of distance and longed to come close again.",
+            "hindi": "तौबा उस इंसान के लिए नहीं जो कभी गलती न करे, बल्कि उसके लिए है जो दूरी से थक जाए और फिर से करीब आना चाहे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-8",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "قد تبكيك ذنوبك يومًا لتقودك دموعك إلى باب المغفرة",
+            "english": "One day your sins may make you cry, only so your tears can lead you to the door of forgiveness.",
+            "hindi": "कभी तुम्हारे गुनाह तुम्हें रुलाएँगे, ताकि तुम्हारे आँसू तुम्हें मग़फ़िरत के दर तक पहुँचा दें।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-9",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "من عاد إلى الله بقلب منكسر عاد إليه الله برحمة تجبر كل ما انكسر",
+            "english": "Whoever returns to Allah with a broken heart is met by a mercy that mends everything broken within them.",
+            "hindi": "जो बंदा टूटे हुए दिल के साथ अल्लाह की तरफ लौटता है, अल्लाह उसे ऐसी रहमत से नवाज़ता है जो उसके अंदर की हर टूटन को जोड़ देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-10",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "لا تجعل الشيطان يقنعك أن كثرة الذنوب تمنعك من التوبة فالله أعظم من كل ذنب",
+            "english": "Do not let Shaytan convince you that too many sins can keep you from repentance — Allah is greater than every sin.",
+            "hindi": "शैतान को यह यक़ीन मत दिलाने दो कि गुनाहों की ज़्यादती तुम्हें तौबा से रोक सकती है — अल्लाह हर गुनाह से बड़ा है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-11",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "بعض القلوب لا تعود نقية إلا بعد أن تتعب من المعصية وتذوق حلاوة الرجوع",
+            "english": "Some hearts only become pure again after growing weary of sin and tasting the sweetness of returning to Allah.",
+            "hindi": "कुछ दिल उस वक़्त तक पाक नहीं होते जब तक वे गुनाहों से थक न जाएँ और अल्लाह की तरफ लौटने की मिठास न चख लें।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-12",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "إذا ستر الله ذنبك فاشكره بالتوبة لا بالعودة إلى نفس الطريق",
+            "english": "If Allah has concealed your sin, thank Him through repentance — not by returning to the same path again.",
+            "hindi": "अगर अल्लाह ने तुम्हारे गुनाह पर पर्दा डाल दिया है, तो उसका शुक्र तौबा से अदा करो — उसी रास्ते पर लौटकर नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-13",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "أقسى ما في الذنب ليس وقوعه بل أن يعتاد القلب عليه دون أن يشتاق إلى التوبة",
+            "english": "The hardest part of sin is not falling into it, but when the heart grows used to it and no longer longs to repent.",
+            "hindi": "गुनाह की सबसे सख्त बात उसका हो जाना नहीं, बल्कि यह है कि दिल उसका आदी हो जाए और तौबा की चाह ही खत्म हो जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-14",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "من أجمل رحمة الله أن القلب إذا صدق في الرجوع وجد الطريق إليه مفتوحًا دائمًا",
+            "english": "One of the most beautiful mercies of Allah is that when the heart truly wants to return, it always finds the road back open.",
+            "hindi": "अल्लाह की सबसे खूबसूरत रहमतों में से एक यह है कि जब दिल सच्चे दिल से लौटना चाहे, तो उसकी तरफ जाने वाला रास्ता हमेशा खुला मिलता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-15",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "الندم بداية جميلة إذا قادك إلى سجدة صادقة لا إلى يأس طويل",
+            "english": "Regret is a beautiful beginning when it leads you to a sincere سجدة, not to a long season of despair.",
+            "hindi": "नदामत एक खूबसूरत शुरुआत है, अगर वह तुम्हें एक सच्चे सज्दे तक ले जाए — लंबी मायूसी तक नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-16",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "ليس كل سقوط نهاية فبعض السقوط يوقظ القلب ليعود إلى الله أنقى من قبل",
+            "english": "Not every fall is the end; some falls wake the heart and bring it back to Allah purer than before.",
+            "hindi": "हर गिरना अंजाम नहीं होता, कुछ गिरावटें दिल को जगा देती हैं और उसे पहले से ज्यादा पाक बनाकर अल्लाह की तरफ लौटा देती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-17",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "إذا أغلقت الدنيا في وجهك فافتح بينك وبين الله باب الاستغفار",
+            "english": "When the world closes in on you, open between yourself and Allah the door of istighfar.",
+            "hindi": "जब दुनिया तुम्हारे लिए तंग हो जाए, तो अपने और अल्लाह के बीच इस्तिग़फ़ार का दरवाज़ा खोल दो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-18",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "ما دمت تشعر بالحاجة إلى الله بعد ذنبك فأنت لم تُحرم بعد من رحمته",
+            "english": "As long as your sin still leaves you needing Allah, you have not yet been deprived of His mercy.",
+            "hindi": "जब तक तुम्हारे गुनाह के बाद तुम्हें अल्लाह की ज़रूरत महसूस होती है, तब तक तुम उसकी रहमत से महरूम नहीं हुए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-19",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "الاستغفار لا يغير الماضي لكنه يطهر القلب الذي تألم بسببه",
+            "english": "Istighfar may not change the past, but it purifies the heart that was wounded by it.",
+            "hindi": "इस्तिग़फ़ार माज़ी को नहीं बदलता, लेकिन उस दिल को ज़रूर साफ़ कर देता है जो उसकी वजह से तकलीफ़ में था।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-20",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "إذا كنت تخجل من ذنبك أمام الله فهذه بداية نور لا نهاية ظلام",
+            "english": "If your sin still makes you feel ashamed before Allah, that is the beginning of light — not the end of you.",
+            "hindi": "अगर तुम्हें अपने गुनाह पर अल्लाह के सामने शर्म महसूस होती है, तो समझ लो यह अंधेरे का अंजाम नहीं बल्कि नूर की शुरुआत है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-21",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "كم من عبد ظن أن الله لن يغفر له ثم غمرته رحمته حين صدق في الرجوع",
+            "english": "How many servants thought Allah would never forgive them, only to be overwhelmed by His mercy when they truly returned.",
+            "hindi": "कितने ही बंदों ने समझा कि अल्लाह उन्हें माफ़ नहीं करेगा, फिर जब वे सच्चे दिल से लौटे तो उसकी रहमत ने उन्हें ढक लिया।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-22",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "أجمل الرجوع أن تأتي إلى الله كما أنت فيطهرك بلطفه لا بقسوتك على نفسك",
+            "english": "The most beautiful return is coming to Allah as you are, and letting His gentleness cleanse you instead of crushing yourself with shame.",
+            "hindi": "सबसे खूबसूरत लौटना यह है कि तुम जैसे हो वैसे ही अल्लाह के पास आ जाओ, और उसकी नर्मी तुम्हें पाक करे — अपनी शर्म से खुद को कुचलने के बजाय।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-23",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "ربما كان تأنيب قلبك رحمة لأن القلب الميت لا يتألم من الذنب",
+            "english": "Perhaps the ache in your heart is mercy itself, for a dead heart does not feel pain after sin.",
+            "hindi": "हो सकता है तुम्हारे दिल की चुभन ही रहमत हो, क्योंकि मुर्दा दिल गुनाह के बाद दर्द महसूस नहीं करता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-24",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "قد تتعثر كثيرًا لكن النجاة أن يبقى فيك قلب كلما ابتعد عاد إلى الله",
+            "english": "You may stumble many times, but salvation is in having a heart that returns to Allah every time it drifts away.",
+            "hindi": "हो सकता है तुम कई बार फिसलो, लेकिन नजात इस बात में है कि तुम्हारे अंदर ऐसा दिल बाकी रहे जो हर बार दूर होकर फिर अल्लाह की तरफ लौट आए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "forgiveness-25",
+        "category": "Forgiveness",
+        "text":
+        {
+            "arabic": "حين يغفر الله لك لا يمحو ذنبك فقط بل يعيد إلى روحك الحياة التي فقدتها",
+            "english": "When Allah forgives you, He does not only erase the sin — He returns life to the part of your soul that had gone numb.",
+            "hindi": "जब अल्लाह तुम्हें माफ़ करता है, तो वह सिर्फ गुनाह नहीं मिटाता — वह तुम्हारी रूह के उस हिस्से में फिर से जान डाल देता है जो सुन्न हो गया था।"
+        },
+        "reference": ""
+    }
+]
