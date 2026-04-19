@@ -1,7 +1,7 @@
 {
-    "version": "1.0.2",
-    "folder": "quotes-1.0.2",
-    "updatedAt": "2026-04-05",
+    "version": "1.0.3",
+    "folder": "quotes-1.0.3",
+    "updatedAt": "2026-04-18",
     "files":
     [
         {
@@ -79,6 +79,10 @@
         {
             "file": "Akhirah.json",
             "category": "Akhirah"
+        },
+        {
+            "file": "Namaz.json",
+            "category": "Namaz"
         }
     ]
 }

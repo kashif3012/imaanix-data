@@ -1,0 +1,552 @@
+[
+    {
+        "id": "hadith-01",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "إنما الأعمال بالنيات وإنما لكل امرئ ما نوى",
+            "english": "Actions are judged by intentions, and every person will be rewarded according to what they intended.",
+            "hindi": "अमल का दारोमदार नियत पर है, और हर इंसान को वही मिलेगा जिसकी उसने नियत की।"
+        },
+        "reference": "Sahih al-Bukhari 1; Sahih Muslim 1907"
+    },
+    {
+        "id": "hadith-02",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "إن الدين يسر ولن يشاد الدين أحد إلا غلبه",
+            "english": "Religion is ease, and no one makes it hard upon himself except that it overwhelms him.",
+            "hindi": "दीन आसान है, और जो इसे अपने ऊपर कठिन बनाता है वह खुद ही हार जाता है।"
+        },
+        "reference": "Sahih al-Bukhari 39"
+    },
+    {
+        "id": "hadith-03",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "اتق الله حيثما كنت وأتبع السيئة الحسنة تمحها وخالق الناس بخلق حسن",
+            "english": "Fear Allah wherever you are. Follow a bad deed with a good one — it will erase it.",
+            "hindi": "जहाँ भी रहो अल्लाह से डरो। बुराई के बाद भलाई करो — वह उसे मिटा देगी।"
+        },
+        "reference": "Jami at-Tirmidhi 1987 (Hasan Sahih)"
+    },
+    {
+        "id": "hadith-04",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من كان يؤمن بالله واليوم الآخر فليقل خيرًا أو ليصمت",
+            "english": "Whoever believes in Allah and the Last Day should speak good or remain silent.",
+            "hindi": "जो अल्लाह और आख़िरत पर ईमान रखता है, उसे अच्छी बात कहनी चाहिए या खामोश रहना चाहिए।"
+        },
+        "reference": "Sahih al-Bukhari 6018; Sahih Muslim 47"
+    },
+    {
+        "id": "hadith-05",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه",
+            "english": "None of you truly believes until he loves for his brother what he loves for himself.",
+            "hindi": "तुम में से कोई सच्चा मोमिन नहीं हो सकता जब तक वह अपने भाई के लिए वही पसंद न करे जो अपने लिए करता है।"
+        },
+        "reference": "Sahih al-Bukhari 13; Sahih Muslim 45"
+    },
+    {
+        "id": "hadith-06",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "المسلم من سلم المسلمون من لسانه ويده",
+            "english": "A true Muslim is the one from whose tongue and hand others are safe.",
+            "hindi": "सच्चा मुसलमान वह है जिसके हाथ और ज़बान से दूसरे लोग सुरक्षित रहें।"
+        },
+        "reference": "Sahih al-Bukhari 10; Sahih Muslim 40"
+    },
+    {
+        "id": "hadith-07",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "الراحمون يرحمهم الرحمن",
+            "english": "Those who show mercy will be shown mercy by the Most Merciful.",
+            "hindi": "रहम करने वालों पर रहमान रहम करता है।"
+        },
+        "reference": "Jami at-Tirmidhi 1924 (Hasan Sahih)"
+    },
+    {
+        "id": "hadith-08",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "تبسمك في وجه أخيك صدقة",
+            "english": "Your smile to your brother is charity.",
+            "hindi": "अपने भाई के सामने मुस्कुराना भी सदका है।"
+        },
+        "reference": "Jami at-Tirmidhi 1956 (Hasan Sahih)"
+    },
+    {
+        "id": "hadith-09",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "الكلمة الطيبة صدقة",
+            "english": "A good word is charity.",
+            "hindi": "अच्छी बात कहना भी सदका है।"
+        },
+        "reference": "Sahih al-Bukhari 6021; Sahih Muslim 1009"
+    },
+    {
+        "id": "hadith-10",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "لا تحقرن من المعروف شيئا ولو أن تلقى أخاك بوجه طلق",
+            "english": "Do not belittle any act of kindness, even if it is meeting your brother with a cheerful face.",
+            "hindi": "किसी भी नेकी को छोटा मत समझो, चाहे वह अपने भाई से मुस्कुराकर मिलना ही क्यों न हो।"
+        },
+        "reference": "Sahih Muslim 2626"
+    },
+    {
+        "id": "hadith-11",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من لا يرحم الناس لا يرحمه الله",
+            "english": "Whoever does not show mercy to people, Allah will not show mercy to him.",
+            "hindi": "जो लोगों पर रहम नहीं करता, अल्लाह उस पर रहम नहीं करता।"
+        },
+        "reference": "Sahih al-Bukhari 6013; Sahih Muslim 2319"
+    },
+    {
+        "id": "hadith-12",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "إن الله جميل يحب الجمال",
+            "english": "Allah is Beautiful and loves beauty.",
+            "hindi": "निस्संदेह अल्लाह सुंदर है और सुंदरता को पसंद करता है।"
+        },
+        "reference": "Sahih Muslim 91"
+    },
+    {
+        "id": "hadith-13",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "الطهور شطر الإيمان",
+            "english": "Purity is half of faith.",
+            "hindi": "पाकीज़गी ईमान का आधा हिस्सा है।"
+        },
+        "reference": "Sahih Muslim 223"
+    },
+    {
+        "id": "hadith-14",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "أحب الأعمال إلى الله أدومها وإن قل",
+            "english": "The most beloved deeds to Allah are those that are consistent, even if small.",
+            "hindi": "अल्लाह को सबसे ज्यादा पसंद वह अमल है जो लगातार किया जाए, चाहे वह कम ही क्यों न हो।"
+        },
+        "reference": "Sahih al-Bukhari 6464; Sahih Muslim 783"
+    },
+    {
+        "id": "hadith-15",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من صام رمضان إيمانًا واحتسابًا غفر له ما تقدم من ذنبه",
+            "english": "Whoever fasts Ramadan with faith and seeking reward will have his past sins forgiven.",
+            "hindi": "जो रमज़ान के रोज़े ईमान और सवाब की नीयत से रखे, उसके पिछले गुनाह माफ कर दिए जाते हैं।"
+        },
+        "reference": "Sahih al-Bukhari 38; Sahih Muslim 760"
+    },
+    {
+        "id": "hadith-16",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من قام رمضان إيمانًا واحتسابًا غفر له ما تقدم من ذنبه",
+            "english": "Whoever stands in prayer during Ramadan with faith and seeking reward will have his past sins forgiven.",
+            "hindi": "जो रमज़ान में ईमान और सवाब की नीयत से क़ियाम करता है, उसके पिछले गुनाह माफ कर दिए जाते हैं।"
+        },
+        "reference": "Sahih al-Bukhari 37; Sahih Muslim 759"
+    },
+    {
+        "id": "hadith-17",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من حج لله فلم يرفث ولم يفسق رجع كيوم ولدته أمه",
+            "english": "Whoever performs Hajj for Allah and avoids wrongdoing returns like the day he was born.",
+            "hindi": "जो अल्लाह के लिए हज करता है और गुनाह से बचता है, वह ऐसे लौटता है जैसे आज ही पैदा हुआ हो।"
+        },
+        "reference": "Sahih al-Bukhari 1521; Sahih Muslim 1350"
+    },
+    {
+        "id": "hadith-18",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "اليد العليا خير من اليد السفلى",
+            "english": "The giving hand is better than the receiving one.",
+            "hindi": "देने वाला हाथ लेने वाले हाथ से बेहतर है।"
+        },
+        "reference": "Sahih al-Bukhari 1429; Sahih Muslim 1033"
+    },
+    {
+        "id": "hadith-19",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من يرد الله به خيرًا يفقهه في الدين",
+            "english": "When Allah wishes good for someone, He grants him understanding of the religion.",
+            "hindi": "अल्लाह जब किसी के लिए भलाई चाहता है तो उसे दीन की समझ देता है।"
+        },
+        "reference": "Sahih al-Bukhari 71; Sahih Muslim 1037"
+    },
+    {
+        "id": "hadith-20",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "لا يدخل الجنة من كان في قلبه مثقال ذرة من كبر",
+            "english": "No one who has even an atom's weight of arrogance will enter Paradise.",
+            "hindi": "जिसके दिल में राई के दाने जितना भी घमंड होगा वह जन्नत में दाखिल नहीं होगा।"
+        },
+        "reference": "Sahih Muslim 91"
+    },
+    {
+        "id": "hadith-21",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "المؤمن القوي خير وأحب إلى الله من المؤمن الضعيف وفي كل خير",
+            "english": "The strong believer is better and more beloved to Allah than the weak believer, though there is good in both.",
+            "hindi": "मजबूत मोमिन कमजोर मोमिन से बेहतर और अल्लाह को ज्यादा पसंद है, हालांकि दोनों में भलाई है।"
+        },
+        "reference": "Sahih Muslim 2664"
+    },
+    {
+        "id": "hadith-22",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من ستر مسلمًا ستره الله يوم القيامة",
+            "english": "Whoever conceals the faults of a Muslim, Allah will conceal his faults on the Day of Judgment.",
+            "hindi": "जो किसी मुसलमान की कमी छुपाता है, अल्लाह क़ियामत के दिन उसकी कमी छुपाएगा।"
+        },
+        "reference": "Sahih Muslim 2699"
+    },
+    {
+        "id": "hadith-23",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "إن ربكم حي كريم",
+            "english": "Your Lord is Generous — He does not return a raised hand empty.",
+            "hindi": "तुम्हारा रब बहुत सख़ी है — वह उठे हुए हाथ खाली नहीं लौटाता।"
+        },
+        "reference": "Abu Dawud 1488; Tirmidhi 3556"
+    },
+    {
+        "id": "hadith-24",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من نفس عن مؤمن كربة من كرب الدنيا نفس الله عنه كربة من كرب يوم القيامة",
+            "english": "Whoever relieves a believer’s hardship in this world, Allah will relieve his hardship on the Day of Judgment.",
+            "hindi": "जो किसी मोमिन की दुनिया की परेशानी दूर करता है, अल्लाह क़ियामत के दिन उसकी परेशानी दूर करेगा।"
+        },
+        "reference": "Sahih Muslim 2699"
+    },
+    {
+        "id": "hadith-25",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من دل على خير فله مثل أجر فاعله",
+            "english": "Whoever guides to good will have a reward like the one who does it.",
+            "hindi": "जो भलाई की राह दिखाता है, उसे भी उतना ही सवाब मिलता है जितना करने वाले को।"
+        },
+        "reference": "Sahih Muslim 1893"
+    },
+    {
+        "id": "hadith-26",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "خيركم من تعلم القرآن وعلمه",
+            "english": "The best of you are those who learn the Qur’an and teach it.",
+            "hindi": "तुम में सबसे बेहतर वह है जो क़ुरआन सीखता है और सिखाता है।"
+        },
+        "reference": "Sahih al-Bukhari 5027"
+    },
+    {
+        "id": "hadith-27",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "الدنيا سجن المؤمن وجنة الكافر",
+            "english": "The world is a prison for the believer and a paradise for the disbeliever.",
+            "hindi": "यह दुनिया मोमिन के लिए कैदखाना और काफ़िर के लिए जन्नत है।"
+        },
+        "reference": "Sahih Muslim 2956"
+    },
+    {
+        "id": "hadith-28",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "كن في الدنيا كأنك غريب أو عابر سبيل",
+            "english": "Be in this world as though you were a stranger or a traveler.",
+            "hindi": "दुनिया में ऐसे रहो जैसे तुम एक अजनबी या मुसाफ़िर हो।"
+        },
+        "reference": "Sahih al-Bukhari 6416"
+    },
+    {
+        "id": "hadith-29",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "إذا مات الإنسان انقطع عمله إلا من ثلاث صدقة جارية أو علم ينتفع به أو ولد صالح يدعو له",
+            "english": "When a person dies, his deeds end except for three: ongoing charity, beneficial knowledge, or a righteous child who prays for him.",
+            "hindi": "जब इंसान मर जाता है तो उसके अमल बंद हो जाते हैं सिवाय तीन चीजों के: सदका-ए-जारीया, लाभदायक ज्ञान, या नेक औलाद जो उसके लिए दुआ करे।"
+        },
+        "reference": "Sahih Muslim 1631"
+    },
+    {
+        "id": "hadith-30",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "إن الله لا ينظر إلى صوركم ولكن إلى قلوبكم",
+            "english": "Allah does not look at your appearance — He looks at your heart.",
+            "hindi": "अल्लाह तुम्हारी शक्ल नहीं देखता — वह तुम्हारे दिल को देखता है।"
+        },
+        "reference": "Sahih Muslim 2564"
+    },
+    {
+        "id": "hadith-31",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "أقرب ما يكون العبد من ربه وهو ساجد فأكثروا الدعاء",
+            "english": "The closest a servant comes to his Lord is while he is in prostration, so increase your supplication in that state.",
+            "hindi": "बंदा अपने रब के सबसे करीब सज्दे की हालत में होता है, इसलिए उस हालत में खूब दुआ किया करो।"
+        },
+        "reference": "Sahih Muslim 482"
+    },
+    {
+        "id": "hadith-32",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "الدعاء هو العبادة",
+            "english": "Supplication is worship.",
+            "hindi": "दुआ ही इबादत है।"
+        },
+        "reference": "Sunan Abi Dawud 1479; Jami at-Tirmidhi 2969 (Hasan Sahih)"
+    },
+    {
+        "id": "hadith-33",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من لا يشكر الناس لا يشكر الله",
+            "english": "Whoever does not thank people has not truly thanked Allah.",
+            "hindi": "जो लोगों का शुक्रिया अदा नहीं करता, वह अल्लाह का भी सही मायनों में शुक्र अदा नहीं करता।"
+        },
+        "reference": "Jami at-Tirmidhi 1954; Sunan Abi Dawud 4811 (Sahih)"
+    },
+    {
+        "id": "hadith-34",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "يسروا ولا تعسروا وبشروا ولا تنفروا",
+            "english": "Make things easy and do not make them difficult. Give glad tidings and do not drive people away.",
+            "hindi": "आसानी पैदा करो, मुश्किल मत बनाओ। खुशखबरी दो, और लोगों को दीन से दूर मत करो।"
+        },
+        "reference": "Sahih al-Bukhari 69; Sahih Muslim 1734"
+    },
+    {
+        "id": "hadith-35",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "ليس الشديد بالصرعة إنما الشديد الذي يملك نفسه عند الغضب",
+            "english": "The strong person is not the one who overpowers others, but the one who controls himself when angry.",
+            "hindi": "ताक़तवर वह नहीं जो दूसरों को पछाड़ दे, बल्कि वह है जो ग़ुस्से के वक्त खुद पर काबू रखे।"
+        },
+        "reference": "Sahih al-Bukhari 6114; Sahih Muslim 2609"
+    },
+    {
+        "id": "hadith-36",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من سلك طريقًا يلتمس فيه علمًا سهل الله له به طريقًا إلى الجنة",
+            "english": "Whoever follows a path in search of knowledge, Allah will make a path to Paradise easy for him.",
+            "hindi": "जो इल्म की तलाश में कोई रास्ता अपनाता है, अल्लाह उसके लिए जन्नत का रास्ता आसान कर देता है।"
+        },
+        "reference": "Sahih Muslim 2699"
+    },
+    {
+        "id": "hadith-37",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "الحياء لا يأتي إلا بخير",
+            "english": "Modesty brings nothing but goodness.",
+            "hindi": "हया हमेशा भलाई ही लाती है।"
+        },
+        "reference": "Sahih al-Bukhari 6117; Sahih Muslim 37"
+    },
+    {
+        "id": "hadith-38",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "إن الله كتب الإحسان على كل شيء",
+            "english": "Excellence is required in everything you do.",
+            "hindi": "हर काम में बेहतरीन अंदाज़ अपनाना ज़रूरी है।"
+        },
+        "reference": "Sahih Muslim 1955"
+    },
+    {
+        "id": "hadith-39",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "أحب البلاد إلى الله مساجدها وأبغض البلاد إلى الله أسواقها",
+            "english": "The most beloved places to Allah are the mosques, and the most disliked places to Allah are the marketplaces.",
+            "hindi": "अल्लाह को सबसे प्यारी जगहें मस्जिदें हैं, और सबसे नापसंद जगहें बाज़ार हैं।"
+        },
+        "reference": "Sahih Muslim 671"
+    },
+    {
+        "id": "hadith-40",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "احرص على ما ينفعك واستعن بالله ولا تعجز",
+            "english": "Be keen on what benefits you, seek Allah’s help, and do not give up.",
+            "hindi": "जो चीज़ तुम्हारे लिए फ़ायदेमंद हो उस पर लगे रहो, अल्लाह से मदद माँगो, और हिम्मत मत हारो।"
+        },
+        "reference": "Sahih Muslim 2664"
+    },
+    {
+        "id": "hadith-41",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "ما نقصت صدقة من مال",
+            "english": "Charity does not decrease wealth.",
+            "hindi": "सदका देने से माल कम नहीं होता।"
+        },
+        "reference": "Sahih Muslim 2588"
+    },
+    {
+        "id": "hadith-42",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "المرء مع من أحب",
+            "english": "A person will be with those whom he loves.",
+            "hindi": "इंसान उसी के साथ होगा जिससे वह मोहब्बत करता है।"
+        },
+        "reference": "Sahih al-Bukhari 6169; Sahih Muslim 2640"
+    },
+    {
+        "id": "hadith-43",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "إن الله لا يمل حتى تملوا",
+            "english": "Allah does not tire of giving reward until you tire of doing good deeds.",
+            "hindi": "अल्लाह सवाब देने से नहीं थकता, जब तक तुम खुद अमल करते-करते न थक जाओ।"
+        },
+        "reference": "Sahih al-Bukhari 43; Sahih Muslim 782"
+    },
+    {
+        "id": "hadith-44",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "من كان في حاجة أخيه كان الله في حاجته",
+            "english": "Whoever fulfills the need of his brother, Allah will fulfill his need.",
+            "hindi": "जो अपने भाई की ज़रूरत पूरी करता है, अल्लाह उसकी ज़रूरत पूरी करता है।"
+        },
+        "reference": "Sahih al-Bukhari 2442; Sahih Muslim 2580"
+    },
+    {
+        "id": "hadith-45",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "إن من أحبكم إلي وأقربكم مني مجلسًا يوم القيامة أحاسنكم أخلاقًا",
+            "english": "Among the most beloved of you to me and the closest to me on the Day of Judgment are those with the best character.",
+            "hindi": "तुम में से मुझे सबसे ज्यादा प्यारे और क़ियामत के दिन मेरे सबसे करीब वही होंगे जिनका अख़लाक़ सबसे अच्छा होगा।"
+        },
+        "reference": "Jami at-Tirmidhi 2018 (Hasan)"
+    },
+    {
+        "id": "hadith-46",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "الدين النصيحة",
+            "english": "Religion is sincerity.",
+            "hindi": "दीन का आधार खालिस नसीहत और सच्चाई है।"
+        },
+        "reference": "Sahih Muslim 55"
+    },
+    {
+        "id": "hadith-47",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "اتقوا النار ولو بشق تمرة",
+            "english": "Protect yourself from Hellfire — even with half a date.",
+            "hindi": "जहन्नम से बचो — चाहे आधी खजूर देकर ही क्यों न हो।"
+        },
+        "reference": "Sahih al-Bukhari 1417; Muslim 1016"
+    },
+    {
+        "id": "hadith-48",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "أفشوا السلام بينكم",
+            "english": "Spread peace among yourselves.",
+            "hindi": "आपस में सलाम को फैलाओ।"
+        },
+        "reference": "Sahih Muslim 54"
+    },
+    {
+        "id": "hadith-49",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "المؤمن مرآة المؤمن",
+            "english": "A believer is a mirror to another believer.",
+            "hindi": "एक मोमिन दूसरे मोमिन का आईना होता है।"
+        },
+        "reference": "Abu Dawud 4918 (Hasan)"
+    },
+    {
+        "id": "hadith-50",
+        "category": "Hadith",
+        "text":
+        {
+            "arabic": "خير الناس أنفعهم للناس",
+            "english": "The best people are those who benefit others the most.",
+            "hindi": "सबसे बेहतर इंसान वह है जो लोगों के लिए सबसे ज्यादा फायदेमंद हो।"
+        },
+        "reference": "Hasan (reported in al-Mu'jam al-Awsat and others)"
+    }
+]
