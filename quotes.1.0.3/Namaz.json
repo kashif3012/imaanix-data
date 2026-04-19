@@ -1,0 +1,202 @@
+[
+  {
+    "id": "namaz-1",
+    "category": "Namaz",
+    "text": {
+      "arabic": "في الصلاة تجد قلبك حيث لا يصل إليه شيء من الدنيا",
+      "english": "In prayer, your heart reaches a place the world can never touch.",
+      "hindi": "नमाज़ में इंसान अपने दिल को ऐसी जगह पाता है जहाँ दुनिया कभी पहुँच ही नहीं सकती।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-2",
+    "category": "Namaz",
+    "text": {
+      "arabic": "الصلاة ليست عبئًا بل راحة لمن أثقلته الحياة",
+      "english": "Prayer is not a burden — it is relief for a soul made heavy by life.",
+      "hindi": "नमाज़ बोझ नहीं, बल्कि उस दिल के लिए राहत है जो ज़िंदगी के बोझ से दब गया हो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-3",
+    "category": "Namaz",
+    "text": {
+      "arabic": "كل سجدة ترفع عنك شيئًا لا تراه",
+      "english": "Every سجدة lifts a weight from you that you cannot even see.",
+      "hindi": "हर सज्दा तुमसे वह भार हटा देता है जिसे तुम देख भी नहीं पाते।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-4",
+    "category": "Namaz",
+    "text": {
+      "arabic": "الصلاة لقاء بينك وبين الله فلا تسرع فيه",
+      "english": "Prayer is a meeting between you and Allah — do not rush it.",
+      "hindi": "नमाज़ तुम्हारे और अल्लाह के बीच एक मुलाकात है, इसे जल्दबाज़ी में खत्म मत करो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-5",
+    "category": "Namaz",
+    "text": {
+      "arabic": "حين تضيق بك الدنيا وسّعها بسجدة",
+      "english": "When the world closes in on you, open it with a سجدة.",
+      "hindi": "जब दुनिया तंग लगने लगे, एक सज्दे से उसे खुला कर लो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-6",
+    "category": "Namaz",
+    "text": {
+      "arabic": "الصلاة تعيد ترتيب قلبك حين تختلط عليك الأمور",
+      "english": "Prayer brings your heart back into place when everything feels scattered.",
+      "hindi": "जब सब कुछ उलझ जाए, नमाज़ दिल को फिर से संभाल देती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-7",
+    "category": "Namaz",
+    "text": {
+      "arabic": "في كل صلاة فرصة جديدة لتبدأ من جديد",
+      "english": "Every prayer is a quiet chance to begin again.",
+      "hindi": "हर नमाज़ एक खामोश मौका होती है फिर से शुरुआत करने का।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-8",
+    "category": "Namaz",
+    "text": {
+      "arabic": "الصلاة لا تغيّر ظروفك دائمًا لكنها تغيّر قلبك",
+      "english": "Prayer may not always change your situation, but it always changes your heart.",
+      "hindi": "नमाज़ हमेशा हालात नहीं बदलती, लेकिन दिल को जरूर बदल देती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-9",
+    "category": "Namaz",
+    "text": {
+      "arabic": "أقرب ما تكون من الله وأنت ساجد",
+      "english": "You are closest to Allah when you are in سجدة.",
+      "hindi": "इंसान अल्लाह के सबसे करीब सज्दे में होता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-10",
+    "category": "Namaz",
+    "text": {
+      "arabic": "من حافظ على صلاته حفظه الله في كل شيء",
+      "english": "Whoever guards their prayer, Allah guards them in everything.",
+      "hindi": "जो अपनी नमाज़ की हिफाज़त करता है, अल्लाह उसकी हर चीज़ में हिफाज़त करता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-11",
+    "category": "Namaz",
+    "text": {
+      "arabic": "الصلاة نور في قلب من أقبل عليها بصدق",
+      "english": "Prayer becomes a light in the heart of the one who turns to it sincerely.",
+      "hindi": "जो सच्चाई से नमाज़ की तरफ आता है, उसके दिल में यह नूर बन जाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-12",
+    "category": "Namaz",
+    "text": {
+      "arabic": "إذا أردت أن تسمعك السماء فابدأ بالصلاة",
+      "english": "If you want to be heard by the heavens, begin with prayer.",
+      "hindi": "अगर तुम चाहते हो कि तुम्हारी आवाज़ आसमान तक पहुँचे, तो नमाज़ से शुरुआत करो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-13",
+    "category": "Namaz",
+    "text": {
+      "arabic": "الصلاة لا تُثقل من يحب الله بل تُخفف عنه",
+      "english": "For the one who loves Allah, prayer does not weigh down — it lightens.",
+      "hindi": "जो अल्लाह से मोहब्बत करता है, उसके लिए नमाज़ बोझ नहीं, बल्कि हल्कापन बन जाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-14",
+    "category": "Namaz",
+    "text": {
+      "arabic": "في السجود تنكسر كبرياؤك ويُصلح قلبك",
+      "english": "In سجدة, your pride breaks and your heart begins to heal.",
+      "hindi": "सज्दे में इंसान का घमंड टूटता है और दिल संभलने लगता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-15",
+    "category": "Namaz",
+    "text": {
+      "arabic": "الصلاة حبل بينك وبين الله فلا تقطعه",
+      "english": "Prayer is a rope between you and Allah — do not let it break.",
+      "hindi": "नमाज़ तुम्हारे और अल्लाह के बीच एक मज़बूत डोर है, इसे टूटने मत दो।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-16",
+    "category": "Namaz",
+    "text": {
+      "arabic": "حين تقف في الصلاة تقف أمام من يعلم كل ما في قلبك",
+      "english": "When you stand in prayer, you stand before the One who knows everything in your heart.",
+      "hindi": "जब तुम नमाज़ में खड़े होते हो, तो उस रब के सामने होते हो जो तुम्हारे दिल की हर बात जानता है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-17",
+    "category": "Namaz",
+    "text": {
+      "arabic": "الصلاة ليست كلمات بل حضور قلب",
+      "english": "Prayer is not just words — it is the presence of your heart.",
+      "hindi": "नमाज़ सिर्फ लफ़्ज़ नहीं, बल्कि दिल की हाज़िरी है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-18",
+    "category": "Namaz",
+    "text": {
+      "arabic": "كل صلاة تذكرك أن الله أقرب إليك مما تظن",
+      "english": "Every prayer reminds you that Allah is closer than you think.",
+      "hindi": "हर नमाज़ तुम्हें याद दिलाती है कि अल्लाह तुमसे तुम्हारे गुमान से भी ज्यादा करीब है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-19",
+    "category": "Namaz",
+    "text": {
+      "arabic": "من وجد لذة الصلاة لم يعد يراها واجبًا بل نعمة",
+      "english": "Whoever tastes the sweetness of prayer no longer sees it as an obligation, but as a blessing.",
+      "hindi": "जिसने नमाज़ का सुकून चख लिया, उसके लिए यह फर्ज़ नहीं, बल्कि नेमत बन जाती है।"
+    },
+    "reference": ""
+  },
+  {
+    "id": "namaz-20",
+    "category": "Namaz",
+    "text": {
+      "arabic": "الصلاة باب مفتوح مهما ابتعدت فلا تتردد في الرجوع",
+      "english": "Prayer is an open door — no matter how far you’ve gone, you can always return.",
+      "hindi": "नमाज़ एक खुला दरवाज़ा है, चाहे तुम कितने भी दूर चले जाओ, वापस आ सकते हो।"
+    },
+    "reference": ""
+  }
+]
