@@ -1,0 +1,552 @@
+[
+    {
+        "id": "family-1",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "ليست كلُّ النِّعَم تُرى، وبعضُها يُعاش في دفء الأسرة دون أن نشعر",
+            "english": "Not every blessing is seen — some are quietly lived within the warmth of a family you don’t realize you need until it holds you.",
+            "hindi": "हर नेमत दिखाई नहीं देती, कुछ बस परिवार की उस गर्माहट में जी जाती हैं जिसका एहसास तब होता है जब वही तुम्हें संभालता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-2",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "مهما كبرتَ يبقى دعاء والديك من أكثر الأشياء التي تحملك في الحياة",
+            "english": "No matter how old you become, the prayers of your parents still carry you through life.",
+            "hindi": "इंसान चाहे कितना भी बड़ा हो जाए, माँ-बाप की दुआएँ उसे जिंदगी भर संभालती रहती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-3",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "خيركم خيركم لأهله",
+            "english": "The best among you are those who are best to their families. True character is shown in how we treat those closest to us.",
+            "hindi": "तुम में सबसे बेहतर वह है जो अपने परिवार के लिए बेहतर हो। असली अच्छाई घर में दिखाई देती है।"
+        },
+        "reference": "Hadith"
+    },
+    {
+        "id": "family-4",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "حين تغيب الرحمة من بين الزوجين، يفقد البيت روحه وإن بقي قائمًا",
+            "english": "When mercy disappears between spouses, the home loses its soul — even if everything else remains.",
+            "hindi": "जब शौहर और बीवी के बीच रहमत खत्म हो जाए, तो घर खड़ा रहते हुए भी अपनी रूह खो देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-5",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الأبناء لا يتعلمون الحب من الكلام بل من الرحمة التي يعيشونها في البيت",
+            "english": "Children do not learn love from words — they learn it from the mercy they grow up around at home.",
+            "hindi": "औलाद मोहब्बत लफ़्ज़ों से नहीं सीखती, बल्कि उस रहमत से सीखती है जिसमें वह घर के अंदर पलती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-6",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "بعض صلة الرحم تعيد لقلبك حياةً لم تكن تعلم أنك فقدتها",
+            "english": "Some family connections bring life back to parts of your heart you did not realize had gone silent.",
+            "hindi": "कुछ रिश्तेदारियाँ दिल के उन हिस्सों में फिर जान लौटा देती हैं जिनके ख़ामोश हो जाने का एहसास भी नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-7",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "أجمل ما تتركه لأهلك دعواتٌ تحفظهم بعدك",
+            "english": "One of the most beautiful things you leave for your family is a lifetime of prayers that continue protecting them.",
+            "hindi": "अपने घरवालों के लिए सबसे खूबसूरत चीज़ों में से एक वह दुआएँ हैं जो तुम्हारे बाद भी उनकी हिफाज़त करती रहें।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-8",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيوت لا تقوى بجدرانها، بل بالاحترام الذي يسكن بين أهلها",
+            "english": "Homes are not strengthened by walls, but by the respect that lives between those inside them.",
+            "hindi": "घर दीवारों से नहीं, बल्कि उसमें रहने वालों के बीच की इज़्ज़त से मजबूत होते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-9",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "ليست الجنة مكانًا فقط، أحيانًا تبدأ بشعور الأمان في بيتك",
+            "english": "Paradise is not only a place — sometimes it begins with the feeling of safety inside your own home.",
+            "hindi": "जन्नत सिर्फ एक जगह नहीं, कभी-कभी वह अपने ही घर में महसूस होने वाले सुकून से शुरू होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-10",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "بعض البيوت لا تبقى متماسكة إلا لأن فيها من يصبر بصمت",
+            "english": "Some homes stay together only because someone inside keeps choosing patience in silence.",
+            "hindi": "कुछ घर सिर्फ इसलिए जुड़े रहते हैं क्योंकि उनमें कोई खामोशी से सब्र करता रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-11",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "أحيانًا تكون الابتسامة لأهلك اعتذارًا لا يحتاج كلمات",
+            "english": "Sometimes a smile toward your family becomes an apology that needs no words.",
+            "hindi": "कभी-कभी घरवालों के लिए एक मुस्कुराहट ऐसा माफ़ीनामा बन जाती है जिसे लफ़्ज़ों की ज़रूरत नहीं होती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-12",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الإخوة الذين يفهمون صمتك نعمة لا تتكرر كثيرًا",
+            "english": "Siblings who understand your silence are a blessing few people ever truly experience.",
+            "hindi": "वे भाई-बहन जो तुम्हारी खामोशी समझ जाएँ, ऐसी नेमत हर किसी को नहीं मिलती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-13",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "العدل بين الأبناء يزرع الطمأنينة في القلوب",
+            "english": "Justice between children plants peace in their hearts. Fairness in the home nurtures trust, security, and love that lasts for years.",
+            "hindi": "बच्चों के बीच इंसाफ उनके दिलों में सुकून बो देता है। घर में बराबरी और अद्ल भरोसा, अपनापन और लंबे समय तक रहने वाली मोहब्बत पैदा करते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-14",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الأسرة التي تساندك في ضعفك نعمة لا تُقدَّر",
+            "english": "A family that stands by you in your weakest moments is a blessing beyond measure. Their support becomes strength when the heart feels tired.",
+            "hindi": "वह परिवार जो आपकी कमजोरी और टूटन के वक़्त भी आपके साथ खड़ा रहे, एक अनमोल नेमत है। उनका सहारा उस समय ताकत बन जाता है जब दिल थक चुका हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-15",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيت الذي يذكر فيه الله تحفه الملائكة",
+            "english": "A home in which Allah is remembered is surrounded by angels and filled with tranquility.",
+            "hindi": "जिस घर में अल्लाह का ज़िक्र होता है वहाँ फरिश्ते और सुकून होता है।"
+        },
+        "reference": "Hadith"
+    },
+    {
+        "id": "family-16",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "أعظم التعب ذلك الذي تتحمله لأجل من تحب دون أن تشتكي",
+            "english": "The most beautiful exhaustion is the one you quietly endure for the people you love.",
+            "hindi": "सबसे खूबसूरत थकान वह होती है जो इंसान अपने अपनों के लिए बिना शिकायत उठाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-17",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "القلوب في البيت لا تحتاج كثيرًا، لكنها تزهر بالرحمة إذا وُجدت",
+            "english": "Hearts at home don’t need much — but they bloom when treated with mercy.",
+            "hindi": "घर के दिलों को बहुत कुछ नहीं चाहिए, लेकिन रहमत मिले तो वे खिल उठते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-18",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "كم من بيت أصلحته دعوة صادقة في آخر الليل",
+            "english": "How many homes were healed by a sincere prayer whispered late at night?",
+            "hindi": "न जाने कितने घर रात की तन्हाई में की गई एक सच्ची दुआ से सँवर गए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-19",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "إذا صلح البيت خفَّت قسوة الدنيا على القلب",
+            "english": "When peace lives inside the home, the world feels far less heavy on the heart.",
+            "hindi": "जब घर के अंदर सुकून हो, तो दुनिया की सख्ती भी दिल पर कम लगती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-20",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "أجمل ما تورثه لأبنائك قلبٌ يعرف الله",
+            "english": "The greatest thing you can leave your children is a heart that knows Allah.",
+            "hindi": "अपनी औलाद को देने वाली सबसे बड़ी विरासत वह दिल है जो अल्लाह को पहचानता हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-21",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "بداية صلاح البيت ليست في كماله، بل في نية إصلاحه كل يوم",
+            "english": "A good home does not begin with perfection — it begins with the intention to make it better every day.",
+            "hindi": "अच्छा घर बेदाग होने से नहीं बनता, बल्कि हर दिन उसे बेहतर बनाने की नीयत से बनता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-22",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيوت التي يكثر فيها الامتنان يقل فيها التعب",
+            "english": "Homes filled with appreciation carry far less emotional exhaustion.",
+            "hindi": "जिन घरों में एक-दूसरे की क़दर ज्यादा होती है, वहाँ दिलों की थकान कम हो जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-23",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيت الذي يُبنى على التقوى قد يتعب، لكنه لا ينهار",
+            "english": "A home built on faith may struggle at times — but it does not collapse.",
+            "hindi": "तक़वा पर बना घर कभी-कभी थक सकता है, लेकिन टूटता नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-24",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "المودة لا تُقاس بالكلام، بل بالسكينة التي تشعر بها وأنت بينهم",
+            "english": "Love in a marriage is not measured by words, but by the peace you feel in each other’s presence.",
+            "hindi": "शादी में मोहब्बत लफ़्ज़ों से नहीं, बल्कि उस सुकून से पहचानी जाती है जो एक-दूसरे के साथ होने पर महसूस होता है।"
+        },
+        "reference": "Quran 30:21"
+    },
+    {
+        "id": "family-25",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "بعض الكنوز لا تُحفظ في الصناديق، بل في قلوب أهلٍ يعرفون قيمتك",
+            "english": "Some treasures are not kept in vaults — they live in the hearts of family who truly value you.",
+            "hindi": "कुछ खज़ाने तिजोरियों में नहीं, बल्कि उन घरवालों के दिलों में होते हैं जो आपकी क़दर करते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-26",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الكلمة اللطيفة داخل البيت قد تشفي تعب يومٍ كامل",
+            "english": "A gentle word at home can heal the exhaustion of an entire day.",
+            "hindi": "घर के अंदर बोला गया एक नरम लफ़्ज़ पूरे दिन की थकान मिटा सकता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-27",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيت الذي تُحفظ فيه القلوب يدوم أكثر من البيت الذي تُحفظ فيه المظاهر",
+            "english": "Homes last longer when hearts are protected more than appearances.",
+            "hindi": "वे घर ज्यादा टिकते हैं जहाँ दिखावे से ज्यादा दिलों को संभाला जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-28",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "بعض العائلات لا تبقى قوية إلا لأنها تعرف كيف تسامح بعد الألم",
+            "english": "Some families remain strong only because they learn how to forgive after pain.",
+            "hindi": "कुछ परिवार सिर्फ इसलिए मजबूत बने रहते हैं क्योंकि वे दर्द के बाद माफ़ करना जानते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-29",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الاهتمام الصادق بالأهل يشعرهم بالأمان أكثر من أي كلام",
+            "english": "Sincere care for your family makes them feel safe in ways words never can.",
+            "hindi": "घरवालों की सच्ची परवाह उन्हें वह सुकून देती है जो सिर्फ लफ़्ज़ नहीं दे सकते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-30",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "حين تتصافى القلوب داخل البيت يصبح أبسط شيء مصدرًا للسعادة",
+            "english": "When hearts are at peace inside a home, even the simplest moments become beautiful.",
+            "hindi": "जब घर के दिल साफ़ हों, तो छोटी-छोटी बातें भी खुशी बन जाती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-31",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيت الهادئ لا يخلو من المشاكل، لكنه يمتلئ بالحكمة في التعامل",
+            "english": "A peaceful home is not one without problems, but one filled with wisdom in dealing with them. Understanding keeps hearts together when emotions run high.",
+            "hindi": "सुकून भरा घर वह नहीं जिसमें कभी समस्या न हो, बल्कि वह है जहाँ मसलों को हिकमत और समझदारी से संभाला जाए। यही बात दिलों को जोड़े रखती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-32",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "أجمل العطاء ما كان داخل الأسرة بلا منٍّ ولا انتظار",
+            "english": "The most beautiful giving is the one done within the family without reminding or expecting anything in return. Pure giving keeps love alive.",
+            "hindi": "सबसे खूबसूरत देना वह है जो परिवार के अंदर बिना एहसान जताए और बिना किसी उम्मीद के किया जाए। ऐसा एहसास मोहब्बत को ज़िंदा रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-33",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "حين تنصت لأهلك بمحبة، فأنت تطمئن قلوبًا لا تتكلم كثيرًا",
+            "english": "When you listen to your family with love, you comfort hearts that often remain silent. Presence and attention are among the deepest forms of care.",
+            "hindi": "जब आप अपने घरवालों की बात मोहब्बत से सुनते हैं, तो आप उन दिलों को सुकून देते हैं जो अक्सर अपनी तकलीफ़ें कह नहीं पाते। मौजूद रहना भी मोहब्बत की एक गहरी शक्ल है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-34",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "النية الصادقة في إصلاح البيت يبارك الله بها القلوب والعلاقات",
+            "english": "A sincere intention to heal the home invites Allah’s blessing into hearts and relationships. Many broken things begin to mend when the intention is pure.",
+            "hindi": "घर को सुधारने की सच्ची नीयत दिलों और रिश्तों में अल्लाह की बरकत ले आती है। बहुत सी टूटी हुई चीज़ें सिर्फ नीयत की सच्चाई से सँवरने लगती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-35",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "حين يحمل كلُّ فردٍ همَّ الآخر، تصبح الأسرة أقوى من كل الظروف",
+            "english": "When each member carries the weight of the other, a family becomes stronger than any circumstance.",
+            "hindi": "जब परिवार का हर सदस्य दूसरे का बोझ उठाता है, तो वह परिवार हर हालात से ज्यादा मजबूत हो जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-36",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "أخلاقك مع أهلك تكشف حقيقتك أكثر مما تفعله كلماتك",
+            "english": "Your character at home reveals more truth about you than your words ever will.",
+            "hindi": "इंसान का असली अख़लाक उसके घर में दिखाई देता है, सिर्फ बातों में नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-37",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيوت التي يغلب فيها الحب تتجاوز الخلاف قبل أن يكسرها",
+            "english": "Homes where love remains stronger than ego survive disagreements before they become destruction.",
+            "hindi": "जिन घरों में मोहब्बत अहंकार से बड़ी होती है, वहाँ झगड़े टूटन बनने से पहले खत्म हो जाते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-38",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "دعاؤك لأهلك حبٌّ يصل إليهم حتى حين لا تكون بقربهم",
+            "english": "Your prayers for your family reach them as love even when you are far away.",
+            "hindi": "अपनों के लिए की गई दुआ दूर रहने पर भी मोहब्बत बनकर उन तक पहुँचती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-39",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الرحمة داخل الأسرة تطفئ كثيرًا من الجروح قبل أن تكبر",
+            "english": "Mercy inside a family heals many wounds before they ever grow deeper.",
+            "hindi": "घर के अंदर की रहमत कई ज़ख्मों को गहरा होने से पहले ही भर देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-40",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "حين يعود قلبك مرتاحًا إلى البيت فهذه من أعظم نعم الله",
+            "english": "One of Allah’s greatest blessings is returning home with a heart that can finally rest.",
+            "hindi": "अल्लाह की सबसे बड़ी नेमतों में से एक यह है कि इंसान घर लौटे और उसका दिल सुकून पा ले।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-41",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "بعضُ حبِّ الأهل لا يُقال، لكنه يُرى في التفاصيل",
+            "english": "Some of the deepest love in a family is never spoken, but quietly seen in the little things. Care often hides itself in simple daily sacrifices.",
+            "hindi": "परिवार का कुछ सबसे गहरा प्यार कभी लफ़्ज़ों में नहीं कहा जाता, बल्कि छोटी-छोटी बातों में दिखाई देता है। अक्सर परवाह रोज़मर्रा की मामूली कुर्बानियों में छुपी होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-42",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيت الذي يجد فيه القلب أمانه هو من أعظم نعم الله",
+            "english": "A home where the heart feels safe is among Allah’s greatest blessings. Not every shelter is a home, but every true home gives peace.",
+            "hindi": "वह घर जहाँ दिल को अमन और सुकून मिले, अल्लाह की सबसे बड़ी नेमतों में से है। हर छत घर नहीं होती, लेकिन असली घर हमेशा सुकून देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-43",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "من بركة الأهل أن يبقى دعاؤهم معك أينما كنت",
+            "english": "One of the greatest blessings of family is that their duas stay with you wherever you go. Love does not always travel with words — sometimes it travels with prayer.",
+            "hindi": "परिवार की सबसे बड़ी बरकतों में से एक यह है कि उनकी दुआएँ इंसान के साथ हर जगह रहती हैं। मोहब्बत हमेशा लफ़्ज़ों में साथ नहीं चलती, कभी-कभी वह दुआ बनकर चलती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-44",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الأهل الصالحون يخففون عنك أثقال الحياة دون أن تشعر",
+            "english": "Righteous family lightens the burdens of life in ways you do not always notice. Their presence itself becomes a form of mercy.",
+            "hindi": "नेक और अच्छे घरवाले इंसान की जिंदगी के बोझ को कई बार बिना एहसास दिलाए हल्का कर देते हैं। उनका साथ खुद एक रहमत बन जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-45",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "حين يكثر اللطف في البيت، يكبر الحب في القلوب",
+            "english": "When gentleness increases inside the home, love grows naturally in every heart. Softness builds what harshness can never sustain.",
+            "hindi": "जब घर के अंदर नरमी और लुत्फ़ बढ़ता है, तो दिलों में मोहब्बत अपने आप बढ़ने लगती है। नरमी वह चीज़ बनाती है जिसे सख्ती कभी कायम नहीं रख सकती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-46",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "من أجمل الوفاء أن تحفظ لأهلك فضلهم وإن قصَّروا أحيانًا",
+            "english": "One of the most beautiful forms of loyalty is remembering your family’s goodness even when they fall short at times. Love matures when it learns to see beyond flaws.",
+            "hindi": "वफ़ादारी की सबसे खूबसूरत शक्लों में से एक यह है कि इंसान अपने परिवार की अच्छाइयों को याद रखे, चाहे कभी-कभी उनसे कमी भी हो जाए। मोहब्बत तब परिपक्व होती है जब वह कमियों से आगे देखना सीखती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-47",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الأسرة الصادقة لا تعني الكمال، بل تعني البقاء رغم النقص",
+            "english": "A sincere family does not mean a perfect one; it means staying together despite imperfections. Real love knows how to remain, not just how to feel.",
+            "hindi": "सच्चा परिवार वह नहीं जो बिल्कुल बेदाग हो, बल्कि वह है जो कमियों के बावजूद साथ बना रहे। असली मोहब्बत सिर्फ महसूस करना नहीं, बल्कि निभाना भी जानती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-48",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "ما يبنيه الصبر داخل الأسرة، لا تهدمه لحظات الغضب بسهولة",
+            "english": "What patience builds inside a family cannot be easily destroyed by moments of anger. Lasting homes are protected by restraint and mercy.",
+            "hindi": "परिवार के अंदर सब्र जो कुछ बनाता है, उसे गुस्से के कुछ लम्हे आसानी से नहीं तोड़ सकते। लंबे समय तक टिके रहने वाले घर सब्र और रहमत से ही बचते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-49",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "الأهل الذين يدفعونك إلى الله هم من أعظم أرزاق العمر",
+            "english": "Family members who draw you closer to Allah are among the greatest provisions of life. Some people protect your dunya, but rare ones protect your akhirah too.",
+            "hindi": "वे घरवाले जो इंसान को अल्लाह के करीब ले जाएँ, उम्र की सबसे बड़ी नेमतों में से हैं। कुछ लोग सिर्फ दुनिया सँवारते हैं, लेकिन कुछ ऐसे भी होते हैं जो आखिरत भी सँवारने में मदद करते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "family-50",
+        "category": "Family",
+        "text":
+        {
+            "arabic": "البيت الذي يُصلح فيه كلُّ فردٍ نفسه، تكثر فيه الطمأنينة ولو كان بسيطًا",
+            "english": "A home where each person works on improving themselves becomes filled with peace, even if it is simple. Inner growth is one of the greatest foundations of family harmony.",
+            "hindi": "वह घर जहाँ हर इंसान खुद को बेहतर बनाने की कोशिश करता है, सुकून से भर जाता है चाहे वह कितना ही साधारण क्यों न हो। अंदरूनी सुधार ही पारिवारिक सुकून की सबसे बड़ी बुनियादों में से है।"
+        },
+        "reference": ""
+    }
+]

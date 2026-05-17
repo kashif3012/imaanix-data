@@ -1,0 +1,222 @@
+[
+    {
+        "id": "hajj-1",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "في الحج تترك الدنيا خلفك لتتعلّم كيف يكون القلب لله وحده",
+            "english": "In Hajj, you leave the world behind to learn what it means for the heart to belong only to Allah.",
+            "hindi": "हज इंसान को दुनिया पीछे छोड़कर यह सिखाता है कि दिल सिर्फ अल्लाह का कैसे बनता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-2",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "ليست الكعبة هي التي تحتاج خطواتك بل قلبك هو الذي يحتاج الرجوع",
+            "english": "It is not the Kaaba that needs your steps — it is your heart that needs the return.",
+            "hindi": "काबा को तुम्हारे कदमों की जरूरत नहीं, तुम्हारे दिल को लौटने की जरूरत है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-3",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "في التلبية يذوب صوت الدنيا ويبقى نداء العبد لربه",
+            "english": "In the talbiyah, the noise of the world fades and only the servant’s call to Allah remains.",
+            "hindi": "तलबिया में दुनिया का शोर मिट जाता है और सिर्फ बंदे की पुकार बाकी रहती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-4",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "الحج رحلةٌ يعود منها الجسد متعبًا لكن الروح أخفّ من قبل",
+            "english": "Hajj is a journey where the body returns tired, but the soul returns lighter than before.",
+            "hindi": "हज ऐसी सफर है जिसमें जिस्म थककर लौटता है लेकिन रूह पहले से हल्की हो जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-5",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "عند الكعبة تدرك أن أقرب الطرق إلى الله هو الانكسار بين يديه",
+            "english": "Near the Kaaba, you realize the closest path to Allah is a humbled heart before Him.",
+            "hindi": "काबा के पास इंसान समझता है कि अल्लाह तक पहुंचने का सबसे करीब रास्ता टूटे हुए दिल से गुजरता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-6",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "في عرفات تبكي الأرواح وكأنها وجدت الطريق بعد ضياعٍ طويل",
+            "english": "On Arafah, souls weep as if they have finally found the way after being lost for so long.",
+            "hindi": "अरफा में रूहें ऐसे रोती हैं जैसे लंबी गुमराही के बाद रास्ता मिल गया हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-7",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "الإحرام يذكّرك أن كل ما تملكه في الدنيا سيُترك يومًا",
+            "english": "Ihram reminds you that everything you own in this world will one day be left behind.",
+            "hindi": "एहराम इंसान को याद दिलाता है कि दुनिया की हर चीज़ एक दिन पीछे छूट जाएगी।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-8",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "ما أجمل الحج حين يصبح القلب أخفّ من ذنوبه",
+            "english": "How beautiful Hajj becomes when the heart grows lighter than its sins.",
+            "hindi": "हज कितना खूबसूरत हो जाता है जब दिल अपने गुनाहों से भी हल्का हो जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-9",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "في الطواف تشعر أن روحك تدور حول الله لا حول الدنيا",
+            "english": "In tawaf, it feels as though your soul revolves around Allah instead of the world.",
+            "hindi": "तवाफ में ऐसा महसूस होता है जैसे रूह दुनिया नहीं बल्कि अल्लाह के इर्द-गिर्द घूम रही हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-10",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "الحج ليس انتقالًا إلى مكان بل عودةٌ إلى الله",
+            "english": "Hajj is not a journey to a place — it is a return to Allah.",
+            "hindi": "हज किसी जगह तक पहुंचने का नाम नहीं, बल्कि अल्लाह की तरफ लौटने का सफर है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-11",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "في مكة تشعر أن السماء أقرب إلى دموعك من أي مكانٍ آخر",
+            "english": "In Makkah, even your tears feel closer to the heavens.",
+            "hindi": "मक्का में इंसान को अपनी आंसू भी आसमान के सबसे करीब महसूस होते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-12",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "الحج رحلةٌ تغيّر ما لا تستطيع الأيام تغييره",
+            "english": "Hajj changes what years of ordinary life could never change.",
+            "hindi": "हज इंसान के अंदर वह बदल देता है जिसे सालों की जिंदगी भी नहीं बदल पाती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-13",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "الحج يعلّمك أن أعظم الرحلات هي التي تغيّر قلبك",
+            "english": "Hajj teaches that the greatest journeys are the ones that transform the heart.",
+            "hindi": "हज इंसान को सिखाता है कि सबसे बड़ी यात्राएं वही होती हैं जो दिल बदल दें।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-14",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "في زمزم تشرب الروح قبل الجسد",
+            "english": "At Zamzam, the soul drinks before the body does.",
+            "hindi": "ज़मज़म पर जिस्म से पहले रूह सुकून पीती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-15",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "الحج يكسرك أمام الله ليعيد بناءك من جديد",
+            "english": "Hajj breaks you before Allah only to rebuild you again with mercy.",
+            "hindi": "हज इंसान को अल्लाह के सामने तोड़ता है ताकि रहमत के साथ उसे फिर से बना सके।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-16",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "في الإحرام تسقط الفوارق ويبقى العبد بقلبه فقط",
+            "english": "In ihram, all differences fall away and only the heart remains.",
+            "hindi": "एहराम में सारे फर्क मिट जाते हैं और सिर्फ इंसान का दिल बाकी रह जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-17",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "عند رؤية الكعبة تسقط ضوضاء الدنيا من القلب فجأة",
+            "english": "At the sight of the Kaaba, the noise of the world suddenly falls from the heart.",
+            "hindi": "काबा को देखते ही दुनिया का शोर अचानक दिल से उतर जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-18",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "في عرفات تشعر الأرواح أن رحمة الله أوسع من كل ذنب",
+            "english": "On Arafah, the soul feels that Allah’s mercy is greater than every sin.",
+            "hindi": "अरफा में रूह महसूस करती है कि अल्लाह की रहमत हर गुनाह से बड़ी है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-19",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "الطواف يعلّم القلب أن يعود إلى الله مهما ابتعد",
+            "english": "Tawaf teaches the heart to keep returning to Allah no matter how far it drifts.",
+            "hindi": "तवाफ दिल को सिखाता है कि चाहे जितना दूर चला जाए, लौटना अल्लाह की तरफ ही है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "hajj-20",
+        "category": "Hajj",
+        "text":
+        {
+            "arabic": "أجمل ما في الحج أن العبد يعود بقلبٍ يعرف الله أكثر من الدنيا",
+            "english": "The most beautiful part of Hajj is returning with a heart that knows Allah more than the world.",
+            "hindi": "हज की सबसे खूबसूरत बात यह है कि इंसान ऐसा दिल लेकर लौटता है जो दुनिया से ज्यादा अल्लाह को पहचानता है।"
+        },
+        "reference": ""
+    }
+]

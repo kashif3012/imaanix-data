@@ -1,7 +1,7 @@
 {
-    "version": "1.0.3",
-    "folder": "quotes-1.0.3",
-    "updatedAt": "2026-04-18",
+    "version": "1.0.4",
+    "folder": "quotes-1.0.4",
+    "updatedAt": "2026-05-17",
     "files":
     [
         {
@@ -15,6 +15,14 @@
         {
             "file": "Hadith.json",
             "category": "Hadith"
+        },
+        {
+            "file": "Eid al-Adha.json",
+            "category": "Eid al-Adha"
+        },
+        {
+            "file": "Hajj.json",
+            "category": "Hajj"
         },
         {
             "file": "Dua.json",
