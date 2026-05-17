@@ -1,0 +1,442 @@
+[
+    {
+        "id": "akhirah-1",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "ما ينفعك في الآخرة يستحق أن تتعب له اليوم ولو لم يره أحد",
+            "english": "What will benefit you in the Hereafter is worth striving for today, even if no one sees it.",
+            "hindi": "जो चीज़ तुम्हें आख़िरत में फायदा देगी, उसके लिए आज मेहनत करना क़ीमती है — चाहे दुनिया उसे देखे या नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-2",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "ليس الذكي من عرف كيف يعيش الدنيا بل من عرف كيف ينجو منها",
+            "english": "The truly wise one is not the one who mastered this world, but the one who learned how to be saved from it.",
+            "hindi": "असली समझदार वह नहीं जो दुनिया जीना जानता है, बल्कि वह है जो इससे नजात पाना जानता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-3",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "كل خطوة إلى الله في الدنيا ستراها نورًا يوم يشتد الظلام",
+            "english": "Every step you take toward Allah in this world will appear as light on the day darkness grows intense.",
+            "hindi": "दुनिया में अल्लाह की तरफ उठाया गया हर कदम उस दिन नूर बनकर सामने आएगा जब अंधेरा बहुत गहरा होगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-4",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "الدنيا تمتحنك بما تحب والآخرة تكافئك بما صبرت عنه لله",
+            "english": "This world tests you through what you love, and the Hereafter rewards you for what you gave up for Allah.",
+            "hindi": "दुनिया तुम्हें उन्हीं चीज़ों से आज़माती है जिन्हें तुम पसंद करते हो, और आख़िरत तुम्हें उसी का बदला देती है जो तुमने अल्लाह के लिए छोड़ा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-5",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "إذا امتلأ قلبك بالآخرة لم تعد تنكسر لكل ما يفوتك من الدنيا",
+            "english": "When your heart is filled with the Hereafter, it no longer breaks over everything it misses in this world.",
+            "hindi": "जब दिल आख़िरत से भर जाता है, तो दुनिया की हर छूटी हुई चीज़ पर टूटना बंद हो जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-6",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "ما بينك وبين الآخرة ليس بعيدًا كما تظن بل أقرب من غدٍ لا تملكه",
+            "english": "The Hereafter is not as far from you as you imagine — it is closer than a tomorrow you do not even own.",
+            "hindi": "आख़िरत तुमसे उतनी दूर नहीं जितनी तुम समझते हो — वह उस कल से भी ज़्यादा करीब है जो तुम्हारे क़ब्ज़े में भी नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-7",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "لا تجعل كل همك أن ترتاح في الدنيا واغفل عن الراحة التي لا تنقطع في الآخرة",
+            "english": "Do not spend all your life chasing comfort in this world while forgetting the comfort that never ends in the Hereafter.",
+            "hindi": "अपनी सारी जिंदगी दुनिया की आरामतलबी में मत गुज़ार दो, उस आराम को भूलकर जो आख़िरत में कभी खत्म नहीं होगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-8",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "لا تجعل آخر ما يبقى منك في الدنيا ذنبًا لم تتب منه",
+            "english": "Do not let the last thing you leave behind be a sin you never repented from.",
+            "hindi": "इस दुनिया में अपने पीछे आख़िरी निशानी ऐसा गुनाह न छोड़ो जिससे तुमने तौबा न की हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-9",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "سيأتي يوم ترى فيه أن كل ما أبكاك في الدنيا كان أصغر مما كنت تظن",
+            "english": "A day will come when every pain of this world will seem smaller than you once believed.",
+            "hindi": "एक दिन ऐसा आएगा जब दुनिया का हर ग़म तुम्हें उससे छोटा लगेगा जितना तुम समझते थे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-10",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "إذا ضاق صدرك فتذكر أن النهاية ليست هنا بل هناك",
+            "english": "When your heart feels tight, remember — the ending is not here, but there.",
+            "hindi": "जब दिल घुटने लगे, तो याद रखो — अंजाम यहाँ नहीं, बल्कि वहाँ है जहाँ सुकून है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-11",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "ليس كل ما يلمع في الدنيا يستحق أن تحمل وزره إلى الآخرة",
+            "english": "Not everything that shines in this world is worth carrying into the Hereafter.",
+            "hindi": "दुनिया की हर चमक ऐसी नहीं होती जिसे इंसान आख़िरत तक अपने साथ लेकर जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-12",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "في الآخرة لن يسألك الله كم أبهرت الناس بل كم أخلصت له في الخفاء",
+            "english": "In the Hereafter, Allah will not ask how much you impressed people, but how sincerely you were His in private.",
+            "hindi": "आख़िरत में अल्लाह यह नहीं पूछेगा कि तुमने लोगों को कितना प्रभावित किया, बल्कि यह कि तुमने तन्हाई में उसके लिए कितना खालिस अमल किया।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-13",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "من خاف الوقوف بين يدي الله أصلح سريرته قبل أن يصلح صورته",
+            "english": "The one who fears standing before Allah works on the state of the soul before the appearance of the self.",
+            "hindi": "जो इंसान अल्लाह के सामने खड़े होने से डरता है, वह अपनी सूरत से पहले अपनी सीरत को ठीक करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-14",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "من عاش للآخرة رأى الدنيا أصغر من أن تكسر قلبه",
+            "english": "The one who lives for the Hereafter sees this world too small to break the heart.",
+            "hindi": "जो इंसान आख़िरत के लिए जीता है, उसके लिए दुनिया इतनी छोटी हो जाती है कि वह उसका दिल नहीं तोड़ पाती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-15",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "من أجمل الطمأنينة أن تتعب اليوم وأنت تعلم أن راحتك الحقيقية ليست هنا",
+            "english": "One of the most beautiful forms of peace is to endure hardship today while knowing your true rest is not here.",
+            "hindi": "सबसे खूबसूरत सुकून यह है कि इंसान आज की थकान सह ले, यह जानते हुए कि उसकी असली राहत यहाँ नहीं है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-16",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "إذا خُيّرت بين ما يرضي نفسك وما ينفعك في آخرتك فاختر ما يبقى",
+            "english": "If you must choose between what pleases your nafs and what benefits your Hereafter, choose what remains.",
+            "hindi": "अगर तुम्हें अपनी नफ़्स की खुशी और अपनी आख़िरत के फ़ायदे में से चुनना पड़े, तो उस चीज़ को चुनो जो बाकी रहने वाली है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-17",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "كم من حزن في الدنيا سيبدو يوم القيامة صغيرًا إذا نجا قلبك عند الله",
+            "english": "How many sorrows of this world will seem small on the Day of Judgment if your heart is safe with Allah.",
+            "hindi": "दुनिया के कितने ही ग़म क़यामत के दिन छोटे लगेंगे, अगर तुम्हारा दिल अल्लाह के यहाँ सलामत निकला।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-18",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "الدنيا سوق والناس فيها يبيعون أعمارهم فاختر لمن تبيع أيامك",
+            "english": "This world is a marketplace, and people are selling their lives in it — choose carefully to whom you sell your days.",
+            "hindi": "यह दुनिया एक बाज़ार है और लोग इसमें अपनी उम्र बेच रहे हैं — सोच-समझकर तय करो कि अपने दिन किसके लिए खर्च कर रहे हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-19",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "إذا أصلحت ما بينك وبين الله وجدت في الآخرة ما لا تستطيع الدنيا أن تعطيه",
+            "english": "If you make right what is between you and Allah, you will find in the Hereafter what this world could never give you.",
+            "hindi": "अगर तुम अपने और अल्लाह के बीच के रिश्ते को ठीक कर लो, तो आख़िरत में वह पाओगे जो दुनिया कभी नहीं दे सकती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-20",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "لا تحزن إن ضاق عليك رزق الدنيا ما دام الله قد وسع لك باب الآخرة",
+            "english": "Do not grieve if the provision of this world feels narrow, as long as Allah has opened wide for you the door of the Hereafter.",
+            "hindi": "अगर दुनिया की रोज़ी तुम्हारे लिए तंग हो गई हो, तो ग़म न करो — जब तक अल्लाह ने तुम्हारे लिए आख़िरत का दरवाज़ा खुला रखा है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-21",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "أعظم الخسارة أن تربح الدنيا كلها ثم تقف يوم القيامة بقلب فارغ",
+            "english": "The greatest loss is to gain the whole world and stand on the Day of Judgment with an empty heart.",
+            "hindi": "सबसे बड़ी हार यह है कि इंसान पूरी दुनिया पा ले, लेकिन क़यामत के दिन खाली दिल के साथ खड़ा हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-22",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "الفقر الحقيقي أن تصل إلى الآخرة بقلب خالٍ من العمل الصالح",
+            "english": "True poverty is arriving in the Hereafter with a heart empty of righteous deeds.",
+            "hindi": "असली मुफ़लिसी यह है कि इंसान आख़िरत में नेक अमलों से खाली दिल लेकर पहुँचे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-23",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "سيكون أقرب الناس إليك يوم القيامة عملك لا من أحببت",
+            "english": "On the Day of Judgment, your closest companion will be your deeds — not those you loved.",
+            "hindi": "क़यामत के दिन तुम्हारा सबसे करीब तुम्हारे अमल होंगे, न कि वे लोग जिन्हें तुमने चाहा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-24",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "كم من لحظة غفلة ستتمنى لو أنك عشتها بذكر",
+            "english": "You will wish that many moments of heedlessness had been filled with remembrance.",
+            "hindi": "कितने ही ग़फ़लत के लम्हों पर तुम चाहोगे कि काश उन्हें ज़िक्र में गुज़ारा होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-25",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "كل تعب لله سيبدو يوم القيامة أخف مما كنت تخشى",
+            "english": "Every hardship endured for Allah will feel lighter on the Day of Judgment than you once feared.",
+            "hindi": "अल्लाह के लिए उठाई गई हर मुश्किल क़यामत के दिन तुम्हें उससे हल्की लगेगी जितना तुम डरते थे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-26",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "في القبر لا ينفعك صوتك بين الناس بل أثرك بينك وبين الله",
+            "english": "In the grave, your voice among people will not matter — only what remains between you and Allah will.",
+            "hindi": "कब्र में लोगों के बीच तुम्हारी आवाज़ काम नहीं आएगी, बल्कि तुम्हारा वह अमल काम आएगा जो अल्लाह के साथ था।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-27",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "حين ترى الحقيقة لن ينفعك أنك كنت تعرفها بل أنك عملت بها",
+            "english": "When truth is revealed, knowing it will not benefit you — only acting upon it will.",
+            "hindi": "जब हक़ीक़त सामने आएगी, तो सिर्फ जानना काम नहीं आएगा — उस पर अमल करना काम आएगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-28",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "الندم الحقيقي ليس على ما فات من الدنيا بل على ما ضاع من الآخرة",
+            "english": "True regret will not be over what you missed in this world, but over what you lost in the Hereafter.",
+            "hindi": "असली पछतावा दुनिया की छूटी चीज़ों पर नहीं, बल्कि आख़िरत की खोई हुई नेमतों पर होगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-29",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "كل لحظة تمر تقربك من لقاء الله فاختر كيف تريد أن تلقاه",
+            "english": "Every passing moment brings you closer to meeting Allah — choose how you wish to meet Him.",
+            "hindi": "हर गुजरता लम्हा तुम्हें अल्लाह से मुलाक़ात के करीब ला रहा है — तय करो तुम उससे कैसे मिलना चाहते हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-30",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "أثقل ما في الميزان ليس كثرة العمل بل صدقه",
+            "english": "What weighs heaviest on the scale is not the number of deeds, but the sincerity behind them.",
+            "hindi": "तराज़ू में सबसे भारी चीज़ अमलों की तादाद नहीं, बल्कि उनका ख़ुलूस और सच्चाई होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-31",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "ستُكشف السرائر يوم لا ينفع فيه إتقان الظاهر",
+            "english": "Secrets will be laid bare on a day when perfect appearances will no longer benefit.",
+            "hindi": "एक दिन ऐसा आएगा जब दिलों के राज़ खुल जाएंगे, और बाहरी खूबसूरती किसी काम नहीं आएगी।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-32",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "رب عمل خفي أنقذك يوم لم ينفعك فيه أحد",
+            "english": "A hidden deed may one day save you when nothing else can.",
+            "hindi": "हो सकता है कोई छुपा हुआ अमल तुम्हें उस दिन बचा ले, जब कोई और सहारा न होगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-33",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "أول ليلة في القبر ستعلمك أن كل ما كنت تؤجله كان أهم مما كنت تظن",
+            "english": "The first night in the grave will teach you that what you kept delaying mattered far more than you thought.",
+            "hindi": "कब्र की पहली रात तुम्हें एहसास दिलाएगी कि जिसे तुम टालते रहे, वही सबसे ज़्यादा अहम था।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-34",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "حين يبدأ الحساب لن تتمنى المزيد من الوقت بل ستتمنى أن عملت بما كان لديك",
+            "english": "When the reckoning begins, you will not wish for more time — you will wish you had done more with what you had.",
+            "hindi": "जब हिसाब शुरू होगा, तुम और वक्त नहीं चाहोगे — बल्कि यह चाहोगे कि जो मिला था, उसमें बेहतर अमल किया होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-35",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "أخطر ما يسرقه منك طول الأمل أنه يجعلك تؤجل ما لا تضمن الوصول إليه",
+            "english": "The danger of false hopes is that they make you delay what you may never live long enough to reach.",
+            "hindi": "लंबी उम्मीदों का सबसे बड़ा नुकसान यह है कि इंसान उस चीज़ को टालता रहता है जिसकी मोहलत भी पक्की नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-36",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "رب نظرة إلى الحرام حرمت قلبًا لذة الطاعة سنوات",
+            "english": "One glance at the forbidden may deprive the heart of the sweetness of worship for years.",
+            "hindi": "कभी एक हराम नज़र इंसान के दिल से सालों की इबादत का सुकून छीन लेती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-37",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "حين ينتهي كل شيء لن يبقى معك إلا ما كان لله",
+            "english": "When everything ends, only what was done for Allah will remain with you.",
+            "hindi": "जब सब कुछ खत्म हो जाएगा, तब सिर्फ वही अमल तुम्हारे साथ रहेगा जो अल्लाह के लिए था।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-38",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "كم من شخص نام مطمئنًا ولم يعلم أن صحيفته أثقلته بما نسيه الناس",
+            "english": "Many sleep peacefully unaware that their record still carries what people already forgot.",
+            "hindi": "कितने लोग बेफिक्र सो जाते हैं, जबकि उनके आमालनामे में वह सब बाकी होता है जिसे दुनिया भूल चुकी होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-39",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "أشد الندم يوم القيامة أن ترى أبواب الخير التي استطعت دخولها ثم تركتها",
+            "english": "The deepest regret on the Day of Judgment will be seeing the doors of goodness you could have entered but walked away from.",
+            "hindi": "क़यामत के दिन सबसे बड़ा पछतावा उन नेकियों के दरवाज़ों पर होगा जिनमें दाखिल हुआ जा सकता था मगर इंसान मुड़ गया।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "akhirah-40",
+        "category": "Akhirah",
+        "text":
+        {
+            "arabic": "كلما تذكرت سرعة مرور الدنيا هان عليك ترك ما لا ينفعك",
+            "english": "The more you remember how quickly this world passes, the easier it becomes to leave what does not benefit you.",
+            "hindi": "जब इंसान दुनिया के जल्दी गुजर जाने को याद रखता है, तो बेफ़ायदा चीज़ों को छोड़ना आसान हो जाता है।"
+        },
+        "reference": ""
+    }
+]

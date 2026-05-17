@@ -1,0 +1,552 @@
+[
+    {
+        "id": "faith-1",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان ليس كلامًا يقال بل يقينٌ يثبتك حين تتزلزل كل الأشياء",
+            "english": "Faith is not what you say — it is what holds you steady when everything else begins to shake.",
+            "hindi": "ईमान सिर्फ कहने की चीज़ नहीं, बल्कि वह यकीन है जो हर चीज़ हिलने पर भी तुम्हें संभालकर रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-2",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "كلما ضاقت بك الدنيا اتسع قلبك بالله",
+            "english": "The tighter the world becomes around you, the wider faith makes your heart with Allah.",
+            "hindi": "जितनी दुनिया तंग होती जाती है, उतना ईमान दिल को अल्लाह के साथ बड़ा कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-3",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان نورٌ يبقى معك حين تنطفئ كل الأشياء",
+            "english": "Faith is the light that stays when everything else goes dark.",
+            "hindi": "जब हर चीज़ अंधेरे में खो जाए, तब ईमान ही दिल की रौशनी बनकर बाकी रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-4",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "حين يضعف كل شيء فيك يبقى الإيمان يقاتل بصمت",
+            "english": "When everything within you weakens, faith is what continues to fight quietly.",
+            "hindi": "जब तुम्हारे अंदर सब कुछ कमजोर पड़ जाए, तब ईमान खामोशी से लड़ता रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-5",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يهدئ قلبك حتى قبل أن تتغير ظروفك",
+            "english": "Faith calms your heart even before your circumstances begin to change.",
+            "hindi": "हालात बदलने से पहले भी ईमान दिल को सुकून देना शुरू कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-6",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان لا يمنع السقوط لكنه يعلمك كيف تقوم",
+            "english": "Faith does not stop you from falling — it teaches you how to rise again.",
+            "hindi": "ईमान गिरने से नहीं रोकता, बल्कि हर बार उठना सिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-7",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "حين يتعب قلبك من الدنيا يعيده الإيمان إلى الله",
+            "english": "When the world exhausts your heart, faith carries it back to Allah.",
+            "hindi": "जब दुनिया दिल को थका देती है, तब ईमान उसे फिर अल्लाह की तरफ लौटा देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-8",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان لا يجعل الدموع ضعفًا بل طريقًا إلى الله",
+            "english": "Faith does not see tears as weakness, but as a road leading back to Allah.",
+            "hindi": "ईमान आँसुओं को कमजोरी नहीं समझता, बल्कि अल्लाह तक पहुँचने का रास्ता बना देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-9",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "حتى بعد كل أخطائك يبقى باب الله مفتوحًا لك",
+            "english": "Even after all your mistakes, Allah’s door remains open for you.",
+            "hindi": "तुम्हारी तमाम गलतियों के बाद भी अल्लाह का दरवाज़ा तुम्हारे लिए खुला रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-10",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "رب عملٍ صغير عظّمه الإخلاص حتى بلغ السماء",
+            "english": "A small deed can rise to the heavens when sincerity carries it.",
+            "hindi": "कभी छोटी सी नेकी भी इख़लास की वजह से आसमान तक पहुँच जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-11",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "كلما ازداد يقينك بالله قلّ اعتمادك على كل شيء سواه",
+            "english": "The stronger your faith in Allah becomes, the less you rely on everything else.",
+            "hindi": "जितना अल्लाह पर यकीन बढ़ता है, उतना ही इंसान बाकी सब पर कम निर्भर होने लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-12",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "حين تعجز عن حمل ما في قلبك يحمله الدعاء عنك",
+            "english": "When your heart can no longer carry its burden, dua carries it for you.",
+            "hindi": "जब दिल अपने बोझ को उठाने से थक जाए, तब दुआ उसे संभाल लेती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-13",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "أخطر ما يطفئ الإيمان أن يعتاد القلب البعد عن الله",
+            "english": "The most dangerous thing for faith is when the heart becomes comfortable being distant from Allah.",
+            "hindi": "ईमान के लिए सबसे खतरनाक बात यह है कि दिल अल्लाह से दूर रहने का आदी हो जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-14",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الرضا لا يعني أن الطريق سهل بل أن قلبك راضٍ بمن يقودك",
+            "english": "Contentment does not mean the path is easy — it means your heart trusts the One leading it.",
+            "hindi": "रज़ा का मतलब यह नहीं कि रास्ता आसान है, बल्कि यह कि दिल उस पर भरोसा करता है जो उसे चला रहा है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-15",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان الحق يظهر في لين القلب وحسن الخلق",
+            "english": "True faith reveals itself in the softness of the heart and the beauty of character. Real belief is not only spoken — it is seen in how you treat others.",
+            "hindi": "सच्चा ईमान दिल की नरमी और अच्छे अख़लाक में दिखाई देता है। असली यकीन सिर्फ बातों में नहीं, बल्कि लोगों के साथ हमारे बर्ताव में नज़र आता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-16",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "التوبة ليست نهاية السقوط بل بداية الرجوع إلى الله",
+            "english": "Repentance is not the end of falling — it is the beginning of returning to Allah.",
+            "hindi": "तौबा गिरने का अंत नहीं, बल्कि अल्लाह की तरफ लौटने की शुरुआत है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-17",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان الحقيقي يجعلك تخاف أن تخسر قرب الله أكثر من أي شيء آخر",
+            "english": "True faith is fearing the loss of Allah’s closeness more than the loss of anything else.",
+            "hindi": "सच्चा ईमान यह है कि इंसान हर चीज़ से ज्यादा अल्लाह की नज़दीकी खोने से डरे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-18",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يرفع نظرك من الدنيا إلى ما عند الله",
+            "english": "Faith lifts your gaze beyond this world and draws your heart toward what is with Allah. It reminds you that not everything valuable is seen here.",
+            "hindi": "ईमान इंसान की नज़र को सिर्फ दुनिया तक सीमित नहीं रखता, बल्कि उसे अल्लाह के पास की नेमतों की तरफ उठाता है। यह याद दिलाता है कि हर कीमती चीज़ दुनिया में नज़र नहीं आती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-19",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "إذا عمر الإيمان القلب أثمر عملًا صالحًا",
+            "english": "When faith truly fills the heart, righteous deeds begin to grow naturally. Good actions are often the quiet proof of a living iman.",
+            "hindi": "जब ईमान सच में दिल को भर देता है, तो नेक अमल अपने आप पैदा होने लगते हैं। अच्छे काम अक्सर ज़िंदा ईमान की खामोश निशानी होते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-20",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يمنح القلب قوةً لا يفهمها إلا من نجا بالله",
+            "english": "Faith gives the heart a strength understood only by those saved through Allah.",
+            "hindi": "ईमान दिल को ऐसी ताकत देता है जिसे वही समझता है जिसे अल्लाह ने संभाल लिया हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-21",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "ألا بذكر الله تطمئن القلوب",
+            "english": "In the remembrance of Allah, hearts find peace. Anxiety fades when worries are handed to the One who controls every outcome.",
+            "hindi": "निश्चय ही, अल्लाह के ज़िक्र में दिलों को सुकून मिलता है। जब इंसान अपनी चिंताओं को अल्लाह के हवाले कर देता है तो दिल को राहत मिलती है।"
+        },
+        "reference": "Quran 13:28"
+    },
+    {
+        "id": "faith-22",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الله يعلم ما في قلبك",
+            "english": "Allah knows the pain hidden within your chest. Speak to Him even when words fail.",
+            "hindi": "अल्लाह तुम्हारे दिल के हाल को जानता है। जब शब्द साथ न दें तब भी उससे बात करो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-23",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان لا يزيل الطريق الصعب، لكنه يمنحك نورًا تمشي به",
+            "english": "Faith does not always remove the hard road, but it gives you light to walk through it. With Allah, even difficult paths become walkable.",
+            "hindi": "ईमान हमेशा मुश्किल रास्ता खत्म नहीं करता, लेकिन उस पर चलने के लिए रोशनी ज़रूर देता है। अल्लाह के साथ कठिन रास्ते भी आसान लगने लगते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-24",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "كل تأخير يحمل رحمة",
+            "english": "Every delay carries mercy. What feels like rejection may actually be protection.",
+            "hindi": "हर देरी में अल्लाह की रहमत होती है। जो हमें इंकार लगता है, वही कभी-कभी हमारी हिफाज़त भी होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-25",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الدعاء يهدئ القلب",
+            "english": "Dua calms the heart. Tears raised toward heaven never fall unnoticed.",
+            "hindi": "दुआ दिल को सुकून देती है। आसमान की तरफ उठे आँसू कभी बेकार नहीं जाते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-26",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "مع العسر يسرا",
+            "english": "With hardship comes ease. Every difficulty has already been paired with relief by Allah.",
+            "hindi": "हर मुश्किल के साथ आसानी है। अल्लाह हर परेशानी के साथ राहत भी रखता है।"
+        },
+        "reference": "Quran 94:5"
+    },
+    {
+        "id": "faith-27",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الله لا ينسى عباده",
+            "english": "Allah never forgets His servants. Even silence in life is part of His planning.",
+            "hindi": "अल्लाह अपने बंदों को कभी नहीं भूलता। जिंदगी की खामोशी में भी उसकी हिकमत काम कर रही होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-28",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يرد القلب إلى الله كلما أرهقته الدنيا",
+            "english": "Faith brings the heart back to Allah whenever the world exhausts it. In every heaviness, it reminds you where true refuge is found.",
+            "hindi": "जब दुनिया दिल को थका देती है, तो ईमान उसे फिर अल्लाह की तरफ लौटा देता है। हर बोझ के बीच यह याद दिलाता है कि असली पनाह कहाँ है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-29",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "ما أصابك لم يكن ليخطئك",
+            "english": "What reaches you was never meant to miss you. Destiny carries wisdom beyond understanding.",
+            "hindi": "जो तुम्हें मिला है वह कभी तुमसे चूक नहीं सकता था। तकदीर में ऐसी हिकमत होती है जिसे इंसान तुरंत समझ नहीं पाता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-30",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "حين تفقد السيطرة يذكرك الإيمان أن الله لم يفقدها",
+            "english": "When you lose control, faith reminds you that Allah never does.",
+            "hindi": "जब तुम्हें लगे कि सब कुछ हाथ से निकल गया, तब ईमान याद दिलाता है कि अल्लाह के हाथ से कुछ नहीं निकलता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-31",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "في أشد لحظاتك ضعفًا قد يكون إيمانك أقرب ما يكون إلى الله",
+            "english": "In your weakest moments, your faith may actually be closest to Allah.",
+            "hindi": "हो सकता है तुम्हारी सबसे कमजोर घड़ी में तुम्हारा ईमान अल्लाह के सबसे करीब हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-32",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "حين يصبح الله كافيًا لك تهدأ الأشياء التي كانت ترعبك",
+            "english": "When Allah becomes enough for you, the things that once terrified you begin to lose their power.",
+            "hindi": "जब अल्लाह तुम्हारे लिए काफी हो जाता है, तब बड़े से बड़ा डर भी असर खोने लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-33",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يعلم القلب كيف ينهض بعد الانكسار",
+            "english": "Faith teaches the heart how to rise again after being broken. Even after pain, belief helps the soul stand with quiet strength.",
+            "hindi": "ईमान दिल को यह सिखाता है कि टूटने के बाद फिर कैसे खड़ा हुआ जाए। दर्द के बाद भी यही यकीन रूह को खामोश ताकत देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-34",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان الصادق يجعل العبد قريبًا من معية الله",
+            "english": "Sincere faith draws a servant closer to Allah’s support and nearness. The more honest the heart is with Him, the more strength it receives.",
+            "hindi": "सच्चा ईमान इंसान को अल्लाह की मदद और उसकी नज़दीकी के करीब ले आता है। दिल जितना उसके साथ सच्चा होता है, उतनी ही ताकत पाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-35",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن ترى الأمل حتى حين لا ترى الطريق",
+            "english": "Faith is seeing hope even when you cannot see the path ahead.",
+            "hindi": "ईमान यह है कि रास्ता न दिखे तब भी उम्मीद दिखाई दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-36",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "القلوب التي عرفت الله لا تبقى تائهة طويلًا",
+            "english": "Hearts that truly know Allah never remain lost for long.",
+            "hindi": "जो दिल सच में अल्लाह को पहचान लेते हैं, वे ज्यादा देर भटके नहीं रहते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-37",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يبقي في القلب نورًا حتى في أشد الليالي ظلمة",
+            "english": "Faith keeps a light alive in the heart even through the darkest nights. It reminds you that darkness is never the end of the story.",
+            "hindi": "ईमान सबसे अंधेरी रातों में भी दिल के अंदर एक रोशनी ज़िंदा रखता है। यह याद दिलाता है कि अंधेरा कभी कहानी का आख़िरी हिस्सा नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-38",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "ليس كل ما يؤلمك يضرك، أحيانًا الإيمان يكشف لك الحكمة لاحقًا",
+            "english": "Not everything that hurts you harms you — sometimes faith reveals its wisdom later.",
+            "hindi": "हर दर्द नुकसान नहीं होता, कभी-कभी ईमान बाद में उसकी हिकमत दिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-39",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان يجعلك ترى قدرة الله فوق حدود الواقع",
+            "english": "Faith teaches you to see Allah’s power beyond the limits of what seems possible. What appears impossible to you is never beyond Him.",
+            "hindi": "ईमान इंसान को यह देखने की नज़र देता है कि अल्लाह की कुदरत हमारी समझी हुई हदों से कहीं ऊपर है। जो हमें नामुमकिन लगता है, वह उसके लिए कभी मुश्किल नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-40",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "قوة الإيمان لا تجعل الحياة بلا ابتلاء، لكنها تجعل القلب أقوى من الانكسار",
+            "english": "Strong faith does not remove every test from life, but it makes the heart stronger than what tries to break it.",
+            "hindi": "मजबूत ईमान जिंदगी से हर इम्तिहान को खत्म नहीं करता, लेकिन दिल को इतना मजबूत बना देता है कि मुश्किलें उसे तोड़ नहीं पातीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-41",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن تثق بحكمة الله حتى فيما لا تفهمه",
+            "english": "Faith is trusting Allah’s wisdom even in what you cannot understand. Not every answer is meant to be seen, but every plan carries purpose.",
+            "hindi": "ईमान यह है कि इंसान अल्लाह की हिकमत पर भरोसा रखे, चाहे वह समझ में न आए। हर चीज़ समझना जरूरी नहीं, हर फैसला एक मकसद लेकर आता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-42",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن تمشي خطوةً رغم أنك لا ترى إلا الظلام",
+            "english": "Faith is taking the next step even when all you see is darkness.",
+            "hindi": "ईमान यह है कि अंधेरा होने पर भी इंसान अगला कदम बढ़ाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-43",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن ترى لطف الله في تفاصيل لم يلاحظها أحد",
+            "english": "Faith is seeing Allah’s gentleness in moments no one else notices. It is recognizing mercy hidden in the smallest details.",
+            "hindi": "ईमान यह है कि इंसान उन लम्हों में भी अल्लाह की रहमत देखे जिन्हें कोई और नहीं देख पाता। छोटी-छोटी बातों में छुपी नेमत को पहचानना ही सच्चा यकीन है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-44",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن تصبر وقلبك يعلم أن الله لن يتركك",
+            "english": "Faith is patience with the quiet certainty that Allah will never abandon you. Even in silence, He is taking care of your affairs.",
+            "hindi": "ईमान यह है कि इंसान सब्र करे और दिल में यकीन रखे कि अल्लाह उसे कभी नहीं छोड़ेगा। खामोशी में भी वह इंसान के हालात संभाल रहा होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-45",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن تواصل الطريق رغم أنك لا ترى النهاية",
+            "english": "Faith is continuing the journey even when you cannot see the end. It is walking forward with trust instead of certainty.",
+            "hindi": "ईमान यह है कि इंसान रास्ता जारी रखे, भले ही उसे मंज़िल दिखाई न दे। यकीन के साथ आगे बढ़ना ही असली भरोसा है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-46",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن قلبك مطمئن لأن الله يدبر كل شيء",
+            "english": "Faith is a calm heart that knows Allah is managing everything perfectly. Nothing is random when it is written by Him.",
+            "hindi": "ईमान वह सुकून है जो दिल को यह यकीन दिलाता है कि हर चीज़ अल्लाह के इंतज़ाम में है। उसके फैसले में कुछ भी बेवजह नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-47",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن ترى الاختبار طريقًا لا عقوبة",
+            "english": "Faith is seeing trials as a path, not a punishment. What tests you is often shaping you for something greater.",
+            "hindi": "ईमान यह सिखाता है कि इंसान परीक्षा को सज़ा नहीं बल्कि रास्ता समझे। जो आज मुश्किल है वही कल इंसान को बेहतर बना सकता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-48",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن تعود إلى الله كلما ضل قلبك",
+            "english": "Faith is returning to Allah every time your heart feels lost. No matter how far you drift, the way back is always open.",
+            "hindi": "ईमान यह है कि जब भी दिल भटक जाए, इंसान अल्लाह की तरफ लौट आए। चाहे कितना भी दूर चला जाए, लौटने का रास्ता हमेशा खुला रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-49",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن ترى الخير فيما اختاره الله لك",
+            "english": "Faith is seeing goodness in what Allah chooses for you. Even when it differs from your plans, it carries hidden goodness.",
+            "hindi": "ईमान यह है कि इंसान अल्लाह के फैसले में भलाई देखे। भले ही वह उसकी अपनी चाहत से अलग हो, उसमें छुपी हुई भलाई होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "faith-50",
+        "category": "Faith",
+        "text":
+        {
+            "arabic": "الإيمان أن يكون الله كافيًا لك في كل حال",
+            "english": "Faith is when Allah becomes enough for you in every situation. When He is sufficient, nothing else truly matters.",
+            "hindi": "ईमान यह है कि इंसान हर हाल में अल्लाह को अपने लिए काफी समझे। जब वह काफी हो जाए तो बाकी सब मायने नहीं रखता।"
+        },
+        "reference": ""
+    }
+]

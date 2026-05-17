@@ -1,0 +1,475 @@
+[
+    {
+        "id": "halal-rizq-1",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "الرزق الحلال بركة لا تزول",
+            "english": "Halal provision carries lasting blessings. Even if it appears small, it nourishes the heart with peace and keeps life free from hidden burdens.",
+            "hindi": "हलाल रिज़्क में ऐसी बरकत होती है जो कभी खत्म नहीं होती। चाहे वह कम दिखाई दे, लेकिन दिल को सुकून देती है और जिंदगी को अनदेखे बोझों से बचाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-2",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "ما كتبه الله لك لن يفوتك فاطلب الرزق الحلال بالصبر والتوكل",
+            "english": "What Allah has prepared for you will never miss you. Seek halal earnings with patience and trust rather than shortcuts.",
+            "hindi": "अल्लाह ने जो तुम्हारे लिए लिखा है वह तुम्हें कभी नहीं चूकेगा। इसलिए हलाल कमाई सब्र और तवक्कुल के साथ तलाश करो, शॉर्टकट के पीछे नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-3",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "قليلٌ من الحلال يكفيك خيرًا من كثيرٍ يُتعب روحك",
+            "english": "A little earned lawfully is enough to bless your life more than abundance that exhausts the soul.",
+            "hindi": "थोड़ा सा हलाल भी जिंदगी के लिए काफी होता है, और वह उस बहुत से बेहतर है जो रूह को बेचैन कर दे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-4",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "رزقك لن يأخذه غيرك فلا تلوّث طريقه بالحرام",
+            "english": "No one can steal the provision written for you, so do not stain your path with what is unlawful.",
+            "hindi": "तुम्हारा लिखा हुआ रिज़्क कोई तुमसे छीन नहीं सकता, इसलिए उसे पाने के रास्ते को हराम से गंदा मत करो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-5",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "أطهرُ التعب ما كان في طلب الحلال",
+            "english": "The purest exhaustion is the one endured while earning halal.",
+            "hindi": "सबसे पाक थकान वह है जो हलाल रिज़्क कमाने में महसूस हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-6",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "ما تركتَ حرامًا لله إلا فتح لك بابًا أطيب منه",
+            "english": "Whenever you leave haram for Allah, He opens a cleaner and more blessed door for you.",
+            "hindi": "जब भी तुम अल्लाह के लिए हराम छोड़ते हो, वह तुम्हारे लिए उससे बेहतर और ज्यादा पाक दरवाज़ा खोल देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-7",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "ليس الغنى بكثرة المال بل بطمأنينة ما يدخل بيتك",
+            "english": "Wealth is not measured by how much enters your hands, but by the peace carried into your home.",
+            "hindi": "असली अमीरी इस बात में नहीं कि कितना पैसा हाथ में आता है, बल्कि इस बात में है कि घर में कितना सुकून आता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-8",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "إذا صدقتَ مع الله في السعي جاءك الرزق من حيث لا تحتسب",
+            "english": "When you are sincere with Allah in your effort, provision arrives from places you never expected.",
+            "hindi": "जब तुम अपनी कोशिश में अल्लाह के साथ सच्चे होते हो, तो रिज़्क वहां से आता है जहाँ से तुमने सोचा भी नहीं होता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-9",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "المال الحرام قد يملأ الجيب لكنه يفرغ القلب",
+            "english": "Haram wealth may fill the pocket, but it leaves the heart empty.",
+            "hindi": "हराम कमाई जेब तो भर सकती है, लेकिन दिल को खाली और बेचैन कर देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-10",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "اسعَ في رزقك كأن الأبواب تُفتح بالدعاء والعمل معًا",
+            "english": "Pursue your provision as if doors open through dua and effort together.",
+            "hindi": "अपने रिज़्क के लिए ऐसे कोशिश करो जैसे दरवाज़े दुआ और मेहनत दोनों से खुलते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-11",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "اطلب الحلال ولو كان قليلاً فإن الطيب يورث السكينة",
+            "english": "Seek halal earnings even if small, for what is pure brings ease you cannot measure.",
+            "hindi": "हलाल कमाई तलाश करो चाहे वह कम ही क्यों न हो, क्योंकि पाक कमाई दिल में सुकून और जिंदगी में बरकत छोड़ती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-12",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "ليست البركة في كثرة ما تملك بل في راحة قلبك معه",
+            "english": "Barakah is not in how much you own, but in the peace your heart feels with it.",
+            "hindi": "बरकत इस बात में नहीं कि तुम्हारे पास कितना है, बल्कि इस बात में है कि उसके साथ दिल कितना सुकून महसूस करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-13",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "الصدق في الكسب طريق للبركة",
+            "english": "Honesty in earning is a path to barakah. Truthfulness brings unseen rewards into your life.",
+            "hindi": "कमाई में सच्चाई बरकत का रास्ता है। ईमानदारी से कमाया हुआ रिज़्क जिंदगी में अनदेखी नेमतें लाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-14",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "من رضي بما أحلّ الله عاش غنيَّ القلب ولو قلّ ما بيده",
+            "english": "Whoever is content with what Allah made lawful lives rich at heart, even with little in hand.",
+            "hindi": "जो इंसान अल्लाह के दिए हुए हलाल पर राज़ी रहता है, वह कम होने के बावजूद दिल से अमीर रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-15",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "الرزق الحلال ينام معك دون قلق",
+            "english": "Halal provision lets the heart sleep without fear.",
+            "hindi": "हलाल रिज़्क इंसान को बेखौफ और सुकून के साथ सोने देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-16",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "اجعل نيتك في الكسب طيبة",
+            "english": "Keep your intention pure when earning. A sincere heart turns work into worship.",
+            "hindi": "कमाई करते समय अपनी नीयत पाक रखो। सच्ची नीयत इंसान के काम को इबादत बना देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-17",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "القناعة في الرزق تحفظ القلب من ذلّ الطمع",
+            "english": "Contentment in provision protects the heart from the humiliation of greed.",
+            "hindi": "रिज़्क में क़नाअत इंसान के दिल को लालच की जिल्लत से बचाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-18",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "المال الطيب يرافقك نفعه في دنياك وآخرتك",
+            "english": "Pure wealth stays beneficial for both your dunya and your akhirah.",
+            "hindi": "पाक कमाई का फायदा सिर्फ दुनिया तक नहीं रहता, बल्कि आख़िरत तक साथ देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-19",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "ما بُني على الحلال دام أثره",
+            "english": "What is built upon halal leaves a goodness that lasts.",
+            "hindi": "जो चीज़ हलाल पर बनाई जाती है, उसकी भलाई लंबे समय तक बाकी रहती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-20",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "اتق الله في كسبك يبارك لك فيه",
+            "english": "Be mindful of Allah in your earnings, and He will place barakah in what you have.",
+            "hindi": "अपनी कमाई में अल्लाह का खौफ और एहसास रखो, वह उसमें बरकत डाल देगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-21",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "لقمةٌ من حلال قد تبني بيتًا من السكينة",
+            "english": "A single morsel of halal can build a home filled with peace.",
+            "hindi": "हलाल का एक निवाला भी ऐसे घर की बुनियाद बन सकता है जो सुकून से भरा हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-22",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "من راقب الله في رزقه حفظه الله من ذلّ الحاجة",
+            "english": "Whoever remains mindful of Allah in their earnings is protected by Him from the disgrace of need.",
+            "hindi": "जो अपनी कमाई में अल्लाह को याद रखता है, अल्लाह उसे मोहताजी की जिल्लत से बचा लेता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-23",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "الرزق الحلال لا يثقل الصدر ولو كان يسيرًا",
+            "english": "Halal provision never weighs down the chest, even when it is modest.",
+            "hindi": "हलाल रिज़्क चाहे थोड़ा हो, लेकिन वह सीने पर बोझ नहीं बनता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-24",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "ليس كل بابٍ مفتوحٍ خيرًا لك فبعض الأرزاق اختبار",
+            "english": "Not every open door is good for you. Some forms of wealth are only a test.",
+            "hindi": "हर खुला हुआ दरवाज़ा तुम्हारे लिए अच्छा नहीं होता। कुछ कमाइयाँ सिर्फ इम्तिहान होती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-25",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "أجمل الرزق ما دخل يدك ولم يُفسد قلبك",
+            "english": "The most beautiful provision is what enters your hand without corrupting your heart.",
+            "hindi": "सबसे खूबसूरत रिज़्क वही है जो हाथ में आए लेकिन दिल को खराब न करे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-26",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "إذا طاب الكسب طابت الدعوات التي تخرج من بيتك",
+            "english": "When your earnings are pure, even the prayers rising from your home feel lighter and more hopeful.",
+            "hindi": "जब कमाई पाक होती है, तो घर से निकलने वाली दुआओं में भी एक अलग नूर और उम्मीद होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-27",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "من صبر على ضيق الحلال نجّاه الله من اتساع الحرام",
+            "english": "Whoever remains patient through the narrowness of halal is saved by Allah from the ruin hidden in haram ease.",
+            "hindi": "जो इंसान हलाल की तंगी पर सब्र करता है, अल्लाह उसे हराम की आसान मगर तबाह करने वाली राह से बचा लेता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-28",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "الرزق الذي يأتيك بعد صبرٍ أطهرُ وأبقى",
+            "english": "Provision that arrives after patience is often purer, deeper, and more lasting.",
+            "hindi": "जो रिज़्क सब्र के बाद मिलता है, वह अक्सर ज्यादा पाक, गहरा और टिकाऊ होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-29",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "احفظ قلبك من الحسد يفتح الله لك أبواب رزقك",
+            "english": "Protect your heart from envy, and Allah will open doors meant for your own provision.",
+            "hindi": "अपने दिल को हसद से बचाओ, अल्लाह तुम्हारे लिए तुम्हारे हिस्से के रिज़्क के दरवाज़े खोल देगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-30",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "أشرفُ الكسب ما كان نظيفَ الطريق طيّبَ الأثر",
+            "english": "The noblest earning is that which comes through a clean path and leaves behind a beautiful impact.",
+            "hindi": "सबसे इज़्ज़त वाली कमाई वही है जिसका रास्ता साफ हो और जिसका असर भी अच्छा हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-31",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "ليس كل تأخيرٍ في الرزق حرمانًا بل قد يكون حفظًا لقلبك من طريقٍ لا يليق بك",
+            "english": "Not every delay in provision is deprivation — sometimes it is protection from a path not meant for you.",
+            "hindi": "हर रिज़्क की देरी महरूमी नहीं होती, कभी-कभी वह उस रास्ते से बचाव होती है जो तुम्हारे लिए बेहतर नहीं था।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-32",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "إذا صفا قلبك في طلب الرزق صفّى الله لك نتائجه ولو تأخرت",
+            "english": "When your heart stays pure in seeking provision, Allah purifies its outcome — even if it comes late.",
+            "hindi": "जब तुम रिज़्क की तलाश में दिल को पाक रखते हो, तो अल्लाह उसके नतीजों को भी पाक कर देता है, चाहे वह देर से आए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-33",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "بعض الرزق يأتيك بعد أن تتعلم كيف لا تتعلق إلا بالله",
+            "english": "Some provision only comes after you learn to rely on nothing but Allah.",
+            "hindi": "कुछ रिज़्क तब मिलता है जब इंसान सीख लेता है कि उसे सिर्फ अल्लाह पर ही भरोसा करना है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-34",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "القلق على الرزق لا يقدّمه لكن السعي الصادق يباركه الله",
+            "english": "Worrying about provision does not bring it closer, but sincere effort is what Allah blesses.",
+            "hindi": "रिज़्क की चिंता उसे जल्दी नहीं लाती, लेकिन सच्ची मेहनत में अल्लाह बरकत देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-35",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "من حفظ نفسه عن الحرام حفظ الله له رزقًا لا يخذله يومًا",
+            "english": "Whoever protects themselves from haram is granted a provision that will never betray them.",
+            "hindi": "जो इंसान खुद को हराम से बचाता है, अल्लाह उसे ऐसा रिज़्क देता है जो उसे कभी निराश नहीं करता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-36",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "الرزق الذي يُرضي الله لا يُتعب قلبك",
+            "english": "Provision that pleases Allah never exhausts the heart.",
+            "hindi": "वह रिज़्क जो अल्लाह को राज़ी करे, दिल को कभी बेचैन नहीं करता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-37",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "بعض البركة لا تُرى لكنها تُشعر القلب بالأمان",
+            "english": "Some blessings are unseen, yet the heart feels their safety.",
+            "hindi": "कुछ बरकतें दिखाई नहीं देतीं, लेकिन दिल उनके सुकून को महसूस करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-38",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "ما جاءك بالحلال جاءك ومعه الطمأنينة",
+            "english": "What reaches you through halal arrives with peace beside it.",
+            "hindi": "जो रिज़्क हलाल तरीके से आता है, वह अपने साथ सुकून भी लाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-39",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "الرزق المبارك لا يكثر الضجيج في قلبك",
+            "english": "Blessed provision does not fill the heart with noise.",
+            "hindi": "बरकत वाला रिज़्क दिल के अंदर बेचैनी और शोर पैदा नहीं करता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-40",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "إذا كان رزقك حلالًا نامت روحك مطمئنة",
+            "english": "When your provision is halal, even your soul rests peacefully.",
+            "hindi": "जब रिज़्क हलाल होता है, तो रूह भी सुकून के साथ आराम करती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-41",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "اليد المتعبة من الحلال أحبّ إلى الله من يدٍ امتلأت بالحرام",
+            "english": "A tired hand from halal work is more beloved than hands filled through haram.",
+            "hindi": "हलाल मेहनत से थका हुआ हाथ, हराम से भरे हाथों से बेहतर है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-42",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "ليس الفقر في قلة المال بل في فقدان البركة",
+            "english": "Poverty is not having little — it is living without barakah.",
+            "hindi": "गरीबी कम माल में नहीं, बल्कि बरकत के खत्म हो जाने में होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "halal-rizq-43",
+        "category": "Halal Rizq",
+        "text":
+        {
+            "arabic": "ما حُفظ بالدعاء لا تُفسده قسوة الدنيا",
+            "english": "What is protected by dua cannot be ruined by the harshness of life.",
+            "hindi": "जिस रिज़्क की हिफाज़त दुआ करती है, उसे दुनिया की सख्ती भी नुकसान नहीं पहुंचा सकती।"
+        },
+        "reference": ""
+    }
+]
