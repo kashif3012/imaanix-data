@@ -1,0 +1,552 @@
+[
+    {
+        "id": "random-1",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "التقوى أن تجعله يراك حيث أمرك ويفتقدك حيث نهاك",
+            "english": "Taqwa is to be found where Allah commanded you, and absent where He forbade you.",
+            "hindi": "तक़वा यह है कि अल्लाह तुम्हें वहाँ पाए जहाँ उसने बुलाया है, और वहाँ न पाए जहाँ उसने रोका है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-2",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الدنيا تمرّ فلا تجعلها تمرّ من قلبك",
+            "english": "This world will pass — do not let it pass through your heart.",
+            "hindi": "दुनिया गुजर जाएगी, उसे अपने दिल में जगह मत दे दो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-3",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الصدق لا يريح الموقف دائمًا لكنه يريح القلب دائمًا",
+            "english": "Truth may not always ease the moment, but it always eases the heart.",
+            "hindi": "सच हर हालात को आसान नहीं बनाता, लेकिन दिल को हमेशा सुकून देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-4",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "العلم الذي يقربك من الله هو الذي ينفعك",
+            "english": "The knowledge that brings you closer to Allah is the knowledge that benefits you.",
+            "hindi": "वही इल्म फायदेमंद है जो तुम्हें अल्लाह के करीब ले जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-5",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "ارحم من في الأرض يرحمك من في السماء",
+            "english": "Show mercy on earth, and you will be shown mercy from above.",
+            "hindi": "ज़मीन वालों पर रहम करो, आसमान वाला तुम पर रहम करेगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-6",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "كل يوم يمضي يقرّبك من الآخرة",
+            "english": "Every passing day brings you closer to the Hereafter.",
+            "hindi": "हर गुज़रता दिन तुम्हें आख़िरत के और करीब कर रहा है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-7",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "ما تواضع قلب لله إلا رفعه",
+            "english": "No heart humbles itself for Allah except that He elevates it.",
+            "hindi": "जो दिल अल्लाह के लिए झुकता है, अल्लाह उसे ऊँचा कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-8",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "بالنية الصادقة تتحول العادة إلى عبادة",
+            "english": "A sincere intention turns habits into worship.",
+            "hindi": "सच्ची नीयत आदतों को भी इबादत बना देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-9",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "في القرآن حياة للقلوب",
+            "english": "In the Qur’an, hearts find life.",
+            "hindi": "क़ुरआन में दिलों की जिंदगी है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-10",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "لحظة غضب قد تهدم أعوامًا من المودة",
+            "english": "One moment of anger can destroy years of love.",
+            "hindi": "गुस्से का एक लम्हा सालों की मोहब्बत तोड़ सकता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-11",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "من ستره الله فليشكر نعمته",
+            "english": "Whoever Allah has covered should be grateful for His concealment.",
+            "hindi": "जिसे अल्लाह ने छुपा लिया, उसे उसकी इस नेमत का शुक्र अदा करना चाहिए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-12",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "اللسان أمانة فاحفظه",
+            "english": "The tongue is a trust, so guard it well. Words can heal hearts or wound them deeply, and both are written.",
+            "hindi": "जुबान एक अमानत है, इसलिए उसकी हिफाज़त करो। अल्फाज़ दिलों को जोड़ भी सकते हैं और गहरा ज़ख्म भी दे सकते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-13",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "أفضل الزاد تقوى القلوب",
+            "english": "The best provision is the piety of the heart. It stays with a believer beyond this world and becomes light in the Hereafter.",
+            "hindi": "सबसे अच्छा ज़ाद दिल का तक़वा है। यह दुनिया के बाद भी साथ रहता है और आख़िरत में रोशनी बनता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-14",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الخير البسيط عند الله عظيم",
+            "english": "Even the smallest act of goodness is great in the sight of Allah. Never underestimate a sincere deed.",
+            "hindi": "छोटी से छोटी नेकी भी अल्लाह के यहाँ बहुत बड़ी होती है। किसी भी सच्चे अच्छे काम को कभी छोटा मत समझो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-15",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "باب التوبة لا يغلق حتى آخر نفس",
+            "english": "The door of repentance remains open until the final breath.",
+            "hindi": "तौबा का दरवाज़ा आख़िरी सांस तक खुला रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-16",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الإخلاص يصنع أثرًا لا تصنعه الضوضاء",
+            "english": "Sincerity creates impact that noise never can.",
+            "hindi": "इख़लास वह असर पैदा करता है जो शोर कभी नहीं कर सकता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-17",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الإحسان يبقى أثره ولو نُسي صاحبه",
+            "english": "Goodness leaves traces even when its giver is forgotten.",
+            "hindi": "इहसान का असर रह जाता है, चाहे करने वाला भुला दिया जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-18",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "أقرب الطرق إلى الله قلب صادق",
+            "english": "The closest path to Allah is a sincere heart. Purity within attracts mercy from above.",
+            "hindi": "अल्लाह तक पहुंचने का सबसे करीब रास्ता सच्चा दिल है। दिल की सफाई ऊपर से रहमत को खींचती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-19",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الدعاء يقرب العبد من ربه",
+            "english": "Supplication brings a servant closer to their Lord. In moments of weakness, turning to Allah restores strength to the soul.",
+            "hindi": "दुआ इंसान को अपने रब के करीब लाती है। कमजोरी के लम्हों में अल्लाह की तरफ रुख करना रूह को फिर ताकत देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-20",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "القلب إذا قسا أظلمت عليه الدنيا",
+            "english": "When the heart hardens, the world begins to darken.",
+            "hindi": "जब दिल सख्त हो जाए, दुनिया भी अंधेरी लगने लगती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-21",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الحياء يحفظ جمال الروح",
+            "english": "Modesty protects the beauty of the soul.",
+            "hindi": "हया रूह की खूबसूरती की हिफाज़त करती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-22",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "العدل راحة للقلب قبل أن يكون حقًا للناس",
+            "english": "Justice brings peace to the heart before it reaches people.",
+            "hindi": "इंसाफ पहले दिल को सुकून देता है, फिर लोगों को उनका हक़।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-23",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "محبة الله أعظم نعمة",
+            "english": "The love of Allah is the greatest blessing. A heart filled with His love finds true peace and lasting success.",
+            "hindi": "अल्लाह की मोहब्बत सबसे बड़ी नेमत है। जो दिल उसकी मोहब्बत से भर जाए, उसे असली सुकून और हमेशा की कामयाबी मिलती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-24",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "من عرف الله صغرت الدنيا في عينه",
+            "english": "Whoever truly knows Allah sees this world as small.",
+            "hindi": "जो अल्लाह को पहचान ले, उसकी नजर में दुनिया छोटी हो जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-25",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "من أصلح قلبه أصلح الله حاله",
+            "english": "Whoever reforms their heart, Allah rectifies their condition. Inner sincerity leads to outer ease and unseen blessings.",
+            "hindi": "जो अपने दिल को सुधार लेता है, अल्लाह उसकी हालत भी सुधार देता है। दिल की सच्चाई बाहरी जिंदगी में आसानी और अनदेखी बरकतें लाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-26",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "لا يضيع الله دمعة صادقة",
+            "english": "Allah never lets a sincere tear go to waste. Every silent pain and hidden supplication is known to Him and answered in the best way.",
+            "hindi": "अल्लाह किसी सच्चे आँसू को कभी बेकार नहीं जाने देता। हर छुपा दर्द और हर दुआ उसके पास पहुंचती है और वह बेहतरीन तरीके से जवाब देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-27",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الخير الذي تزرعه يعود إليك",
+            "english": "The goodness you plant will return to you. Every act of kindness, no matter how small, grows into blessings in ways you may never expect.",
+            "hindi": "जो नेकी तुम बोते हो, वही तुम्हारे पास लौटती है। हर छोटा अच्छा काम भी ऐसी बरकत बन जाता है जिसकी तुमने उम्मीद नहीं की होती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-28",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الذنوب تثقل القلب والطاعة تضيئه",
+            "english": "Sins weigh heavily on the heart, while obedience illuminates it. The more a person turns back to Allah, the lighter and brighter the heart becomes.",
+            "hindi": "गुनाह दिल को भारी कर देते हैं और इताअत उसे रोशन करती है। जितना इंसान अल्लाह की तरफ लौटता है, उतना उसका दिल हल्का और चमकदार हो जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-29",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "صلاح الباطن بداية لتغير كل شيء",
+            "english": "Inner reform is the beginning of every real change.",
+            "hindi": "अंदर की इस्लाह हर असली बदलाव की शुरुआत होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-30",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الدنيا تمتحن صدق قلبك",
+            "english": "This world tests the sincerity of your heart.",
+            "hindi": "दुनिया तुम्हारे दिल की सच्चाई को परखती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-31",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "من تعلق بالله لم يخذل",
+            "english": "Whoever attaches their heart to Allah is never truly abandoned. Even in loneliness, they find divine companionship and strength.",
+            "hindi": "जो इंसान अपना दिल अल्लाह से जोड़ लेता है, वह कभी सच में बेसहारा नहीं होता। तन्हाई में भी उसे उसका सहारा महसूस होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-32",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "من أحسن الظن بالله رأى الخير في كل شيء",
+            "english": "Whoever thinks well of Allah begins to see goodness in everything. Even hardship starts to carry mercy and meaning.",
+            "hindi": "जो अल्लाह के बारे में अच्छा गुमान रखता है, वह हर चीज़ में भलाई देखने लगता है। मुश्किलों में भी उसे रहमत और मकसद नज़र आने लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-33",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الطاعة نور لا يراه إلا من ذاقه",
+            "english": "Obedience carries a light only the obedient can feel.",
+            "hindi": "इताअत का एक नूर होता है जिसे वही महसूस करता है जो उसे जीता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-34",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الزهد ليس ترك الدنيا بل تعلق القلب بالله",
+            "english": "Detachment is not leaving the world, but attaching the heart to Allah. True balance comes when the heart belongs to Him, even while living in this world.",
+            "hindi": "ज़ुह्द का मतलब दुनिया छोड़ना नहीं बल्कि दिल को अल्लाह से जोड़ना है। असली संतुलन तब आता है जब दिल उसी का हो जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-35",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الهدى يأتي لمن يطلبه بصدق",
+            "english": "Guidance comes to those who seek it sincerely. A heart that truly wants the truth is never left without direction.",
+            "hindi": "हिदायत उसे मिलती है जो सच्चे दिल से उसे तलाश करता है। जो दिल सच चाहता है, उसे राह जरूर मिलती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-36",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "ليس كل ما يبهرك ينفعك",
+            "english": "Not everything that impresses you is good for you. Some things shine only to distract the heart from what truly matters.",
+            "hindi": "हर चमकती चीज़ तुम्हारे लिए फायदेमंद नहीं होती। कुछ चीज़ें सिर्फ दिल को असली मकसद से भटकाने के लिए चमकती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-37",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "من راقب الله في خلوته أصلح الله علانيته",
+            "english": "Whoever remains mindful of Allah in private will find their public life corrected by Him.",
+            "hindi": "जो इंसान तन्हाई में अल्लाह का लिहाज़ रखता है, अल्लाह उसकी खुली जिंदगी भी सुधार देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-38",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "بعض الأبواب لا تُفتح إلا بعد أن ينكسر تعلقك بغير الله",
+            "english": "Some doors do not open until your attachment to everything besides Allah begins to break.",
+            "hindi": "कुछ दरवाज़े तब तक नहीं खुलते जब तक अल्लाह के अलावा बाकी चीज़ों से तुम्हारा दिली लगाव टूटना शुरू न हो जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-39",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "نور القلب يغيّر نظرتك لكل شيء",
+            "english": "The heart’s light changes the way you see everything.",
+            "hindi": "दिल का नूर हर चीज़ को देखने का नजरिया बदल देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-40",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "أحيانًا تكون النجاة في أن يسحب الله قلبك من شيء أحببته",
+            "english": "Sometimes your rescue is hidden in Allah pulling your heart away from something you once deeply wanted.",
+            "hindi": "कभी-कभी इंसान की नजात इस बात में होती है कि अल्लाह उसका दिल उसी चीज़ से हटा दे जिसे वह बहुत चाहता था।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-41",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "من خاف مقام الله هانت عليه شهوات الدنيا",
+            "english": "Whoever truly fears standing before Allah finds the temptations of this world easier to resist.",
+            "hindi": "जो इंसान अल्लाह के सामने खड़े होने का एहसास रखता है, उसके लिए दुनिया की ख्वाहिशों को छोड़ना आसान हो जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-42",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "القلوب التي تعرف ربها لا يطول تيهها",
+            "english": "Hearts that truly know their Lord do not remain lost for long.",
+            "hindi": "जो दिल अपने रब को पहचानते हैं, वे ज़्यादा देर तक भटके नहीं रहते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-43",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "إذا صفا قلبك صارت أبسط النعم كافية",
+            "english": "When the heart becomes pure, even the simplest blessings begin to feel enough.",
+            "hindi": "जब दिल साफ़ हो जाता है, तो सबसे साधारण नेमतें भी काफी लगने लगती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-44",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "من أكثر من محاسبة نفسه خفّت عليه محاسبة الدنيا",
+            "english": "Whoever often holds themselves accountable finds the tests of life easier to navigate.",
+            "hindi": "जो इंसान खुद का अक्सर हिसाब लेता है, उसके लिए जिंदगी की परीक्षाएँ आसान हो जाती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-45",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "ليس الغنى في كثرة ما تملك بل في قلة ما يستعبد قلبك",
+            "english": "True richness is not in how much you own, but in how little owns your heart.",
+            "hindi": "असली अमीरी इस बात में नहीं कि तुम्हारे पास कितना है, बल्कि इस बात में है कि कितनी कम चीज़ें तुम्हारे दिल को अपना गुलाम बना पाती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-46",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "من عرف قدر نفسه لم يطلبه من الناس",
+            "english": "Whoever knows their worth does not seek it from people.",
+            "hindi": "जो अपनी क़ीमत पहचान लेता है, वह उसे लोगों से नहीं मांगता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-47",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "كل ما يشغلك عن الله يبعدك أكثر مما تتخيل",
+            "english": "Anything that distracts you from Allah takes you further than you realize.",
+            "hindi": "जो चीज़ तुम्हें अल्लाह से दूर करे, वह तुम्हें जितना लगता है उससे ज़्यादा दूर ले जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-48",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "الطمأنينة ليست في كثرة ما تملك بل في قلة ما يقلقك",
+            "english": "Peace is not in how much you have, but in how little disturbs you.",
+            "hindi": "सुकून इस बात में नहीं कि तुम्हारे पास कितना है, बल्कि इस बात में है कि तुम्हें कितना कम परेशान करता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-49",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "إذا صلح السر أصلح الله العلن",
+            "english": "When the hidden self is corrected, Allah beautifies the visible life.",
+            "hindi": "जब अंदर सुधर जाता है, अल्लाह बाहर की जिंदगी भी खूबसूरत कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "random-50",
+        "category": "Random",
+        "text":
+        {
+            "arabic": "أعظم النجاة أن ينجو قلبك مما يفسده",
+            "english": "The greatest salvation is for your heart to be saved from what corrupts it.",
+            "hindi": "सबसे बड़ी नजात यह है कि तुम्हारा दिल उन चीज़ों से बच जाए जो उसे बिगाड़ती हैं।"
+        },
+        "reference": ""
+    }
+]
