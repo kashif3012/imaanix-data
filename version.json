@@ -17,6 +17,14 @@
             "category": "Hadith"
         },
         {
+            "file": "Eid al-Adha.json",
+            "category": "Eid al-Adha"
+        },
+        {
+            "file": "Hajj.json",
+            "category": "Hajj"
+        },
+        {
             "file": "Dua.json",
             "category": "Dua"
         },
