@@ -1,0 +1,607 @@
+[
+    {
+        "id": "motivation-1",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+            "english": "Indeed, with hardship comes ease. Every difficult season carries relief that unfolds at the right time.",
+            "hindi": "बेशक हर मुश्किल के साथ आसानी है। हर कठिन दौर के बाद राहत ज़रूर आती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-2",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "التوكل الحقيقي أن تواصل السعي وقلبك مطمئن بالله",
+            "english": "True tawakkul is continuing the journey while your heart rests peacefully in Allah.",
+            "hindi": "असली तवक्कुल यह है कि इंसान कोशिश करता रहे और उसका दिल अल्लाह पर सुकून के साथ टिका रहे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-3",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "لَا تَيْأَسُوا مِن رَّحْمَةِ اللَّهِ",
+            "english": "Never despair of Allah’s mercy. Even after failure, hope can rebuild your path.",
+            "hindi": "अल्लाह की रहमत से कभी मायूस मत हो। हर नाकामी के बाद भी नई शुरुआत हो सकती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-4",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الإخلاص يجعل الخطوات الصغيرة أثقل في الميزان من الضجيج الكبير",
+            "english": "Sincerity can make quiet small steps heavier than loud achievements.",
+            "hindi": "इख़लास छोटे और खामोश कदमों को भी बड़े शोर वाले कामों से ज्यादा भारी बना देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-5",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الصبر لا يوقف الطريق بل يمنحك القوة لتكمله",
+            "english": "Patience does not pause your journey — it gives you the strength to keep walking through what feels heavy.",
+            "hindi": "सब्र तुम्हारे सफर को रोकता नहीं, बल्कि भारी रास्तों पर भी चलते रहने की ताकत देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-6",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "ابدأ صغيرًا بنيةٍ كبيرة",
+            "english": "Start small, but with a great intention. Consistency with sincerity builds what haste never can.",
+            "hindi": "छोटे कदम से शुरू करो लेकिन नीयत बड़ी रखो। सच्चाई और लगातार कोशिश वह बना देती है जो जल्दबाज़ी नहीं बना सकती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-7",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الدعاء يفتح الأبواب التي تعجز عنها الأسباب",
+            "english": "Dua opens doors that effort alone cannot. A sincere prayer reaches where plans fall short.",
+            "hindi": "दुआ ऐसे दरवाज़े खोलती है जहाँ सिर्फ कोशिशें नहीं पहुँच पातीं। सच्ची दुआ वहाँ असर करती है जहाँ योजनाएँ कम पड़ जाती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-8",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "صلاح النية يمنح الطريق نورًا حتى في أكثر أيامه غموضًا",
+            "english": "A sincere intention gives light to the road even on its most confusing days.",
+            "hindi": "साफ नीयत सबसे उलझे हुए दिनों में भी रास्ते को रोशनी दे देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-9",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "حين تُتعبك الحياة تذكّر أن الله يرى كل محاولة صادقة",
+            "english": "When life exhausts you, remember that Allah sees every sincere attempt you make.",
+            "hindi": "जब जिंदगी थका दे, तो याद रखो कि अल्लाह तुम्हारी हर सच्ची कोशिश को देखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-10",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الفشل لا ينهيك بل يكشف لك طريقًا أنضج لتكمله",
+            "english": "Failure does not end you — it redirects you to a wiser path forward.",
+            "hindi": "नाकामी तुम्हें खत्म नहीं करती, बल्कि तुम्हें एक बेहतर रास्ते की तरफ मोड़ देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-11",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الثبات الهادئ يصنع فيك ما لا تصنعه لحظات الحماس المؤقتة",
+            "english": "Quiet consistency shapes your future more than temporary bursts of motivation ever could.",
+            "hindi": "खामोश लगातार कोशिश इंसान को वहाँ तक पहुंचाती है जहाँ थोड़ी देर का जोश नहीं पहुंचा पाता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-12",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "إذا كان هدفك رضا الله فلن يضيع سعيك",
+            "english": "If Allah’s pleasure is your goal, your effort will never be wasted — even if the world does not applaud it.",
+            "hindi": "अगर तुम्हारा मकसद अल्लाह की रज़ा है, तो तुम्हारी कोशिश कभी ज़ाया नहीं जाएगी, चाहे दुनिया उसे न देखे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-13",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "كل تأخير ليس حرمانًا بل تهيئة لما هو أنسب لك",
+            "english": "Not every delay is deprivation — sometimes it is preparation for what suits you better.",
+            "hindi": "हर देरी महरूमी नहीं होती, कभी-कभी यह तुम्हारे लिए बेहतर चीज़ की तैयारी होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-14",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "استعن بالله ولا تجعل التعب يقنعك بالتوقف",
+            "english": "Seek help from Allah, and do not let exhaustion convince you to quit. Rest if needed, but do not abandon the path.",
+            "hindi": "अल्लाह से मदद मांगो और थकान को तुम्हें रुकने का यकीन मत दिलाने दो। ज़रूरत हो तो आराम करो, लेकिन रास्ता मत छोड़ो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-15",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الشكر لا يغيّر النعم فقط بل يغيّر قلبك تجاه الحياة",
+            "english": "Gratitude does not only change your blessings — it changes how your heart sees life itself.",
+            "hindi": "शुक्र सिर्फ नेमतों को नहीं बदलता, बल्कि जिंदगी को देखने का दिल का नजरिया भी बदल देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-16",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "أعظم التغييرات تبدأ بإصلاح ما في داخلك",
+            "english": "The greatest transformations begin by correcting what lives inside you before changing what is outside.",
+            "hindi": "सबसे बड़े बदलाव बाहर की दुनिया से पहले इंसान के अंदर की दुनिया को सुधारने से शुरू होते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-17",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الإيمان يمنحك شجاعة الاستمرار حين يضعف كل شيء آخر",
+            "english": "Faith gives you the courage to keep going when everything else inside you feels tired.",
+            "hindi": "जब तुम्हारे अंदर की हर चीज़ थक जाए, तब ईमान तुम्हें आगे बढ़ते रहने की हिम्मत देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-18",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "قد يتأخر الفجر لكنه لا يضيع",
+            "english": "The dawn may be delayed, but it never forgets its way.",
+            "hindi": "फ़ज्र देर से आए तो भी अपना रास्ता नहीं भूलती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-19",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "لا تقارن رحلتك بغيرك",
+            "english": "Do not compare your journey with others. Your pace, your tests, and your timing were written with wisdom.",
+            "hindi": "अपनी जिंदगी का सफर दूसरों से मत तुलना करो। तुम्हारी रफ्तार, तुम्हारे इम्तिहान और तुम्हारा वक्त हिकमत के साथ लिखा गया है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-20",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الصدق في الطريق يمنحك سلامًا لا تمنحه النتائج وحدها",
+            "english": "Honesty in your journey gives a peace that success alone can never provide.",
+            "hindi": "अपने सफर में सच्चाई इंसान को ऐसा सुकून देती है जो सिर्फ कामयाबी कभी नहीं दे सकती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-21",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "البدايات الصعبة أحيانًا تبني فيك القوة التي ستحتاجها لاحقًا",
+            "english": "Difficult beginnings often build the strength your future will one day depend on.",
+            "hindi": "कठिन शुरुआतें अक्सर इंसान के अंदर वह ताकत बना देती हैं जिसकी उसे आगे जरूरत पड़ती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-22",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "حين يعود قلبك إلى القرآن يعود شيءٌ منك إلى الحياة",
+            "english": "When your heart returns to the Qur’an, something inside you returns to life as well.",
+            "hindi": "जब दिल क़ुरआन की तरफ लौटता है, तो इंसान के अंदर की कुछ खोई हुई चीज़ भी फिर ज़िंदा हो जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-23",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "بعض العطاء يعيد ترميم روحك أكثر مما يسعد الآخرين",
+            "english": "Some acts of giving heal your own soul more than they benefit others.",
+            "hindi": "कुछ नेमतें देने वाले की रूह को दूसरों से ज्यादा सुकून दे जाती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-24",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "القلب القريب من الله قد يتعب لكنه لا يضيع",
+            "english": "A heart close to Allah may grow tired, but it never truly loses itself.",
+            "hindi": "अल्लाह के करीब दिल थक तो सकता है, लेकिन कभी सच में भटकता नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-25",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "حين تضع أملك في الله تصبح الخطوات الأثقل قابلةً للمضي",
+            "english": "When your hope rests in Allah, even the heaviest steps become possible to take.",
+            "hindi": "जब उम्मीद अल्लाह से जुड़ जाए, तो सबसे भारी कदम भी उठाना मुमकिन हो जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-26",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "أقوى التغييرات تبدأ حين تتوقف عن الهروب من إصلاح نفسك",
+            "english": "The strongest transformations begin when you stop running from fixing yourself.",
+            "hindi": "सबसे बड़े बदलाव उस दिन शुरू होते हैं जब इंसान खुद को सुधारने से भागना छोड़ देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-27",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "امضِ ولو ببطء ما دمت تسير إلى ما يرضي الله",
+            "english": "Keep moving, even if slowly, as long as your path is taking you toward what pleases Allah.",
+            "hindi": "चलते रहो, चाहे धीरे ही सही, बस रास्ता ऐसा हो जो तुम्हें अल्लाह की रज़ा की तरफ ले जा रहा हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-28",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "ما دام قلبك يحاول فالقصة لم تنتهِ بعد",
+            "english": "As long as your heart still tries, the story is not over.",
+            "hindi": "जब तक दिल कोशिश कर रहा है, कहानी अभी खत्म नहीं हुई।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-29",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "إذا صلحت نيتك صلح أثر تعبك",
+            "english": "When your intention is sincere, even your exhaustion begins to carry meaning and reward.",
+            "hindi": "जब नीयत सच्ची हो, तो तुम्हारी थकान भी मायने और सवाब लेने लगती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-30",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "بعض الأقدار الجميلة تأتي بعد أطول انتظار",
+            "english": "Some beautiful destinies arrive after the longest waits.",
+            "hindi": "कुछ खूबसूरत मुक़द्दर सबसे लंबे इंतज़ार के बाद आते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-31",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "كل يوم فرصة صامتة لتصبح أقرب لما خُلقت له",
+            "english": "Every day is a quiet chance to move closer to what you were created for.",
+            "hindi": "हर दिन एक खामोश मौका है कि तुम अपने मकसद के करीब आ सको।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-32",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "ما كُتب لك سيجدك ولو ضللت الطريق إليه",
+            "english": "What is written for you will find you.",
+            "hindi": "जो तुम्हारे लिए लिखा गया है, वह तुम्हें ढूँढ ही लेगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-33",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "لا تخف من البداية الجديدة فقد يكون فيها فتحٌ لم تره من قبل",
+            "english": "Do not fear a new beginning — it may contain a kind of opening you have never seen before.",
+            "hindi": "नई शुरुआत से मत डरो, हो सकता है उसमें तुम्हारे लिए ऐसा खुलना हो जो तुमने पहले कभी न देखा हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-34",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "أحيانًا يصنع الصبر الهادئ ما تعجز عنه الضوضاء كلها",
+            "english": "Sometimes quiet patience achieves what all loud effort cannot.",
+            "hindi": "कभी-कभी खामोश सब्र वह कर देता है जो बहुत शोर वाली कोशिशें भी नहीं कर पातीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-35",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "إذا كان قلبك صادقًا مع الله فلن يضيع طريقك مهما طال",
+            "english": "If your heart is sincere with Allah, your path will never be lost no matter how long it becomes.",
+            "hindi": "अगर तुम्हारा दिल अल्लाह के साथ सच्चा है, तो तुम्हारा सफर कभी गुम नहीं होगा चाहे कितना लंबा हो जाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-36",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "لا تحتقر تعبك فبعض الطرق الطويلة لا يراها إلا الله",
+            "english": "Do not belittle your struggle — some long journeys are witnessed only by Allah.",
+            "hindi": "अपनी मेहनत को कम मत समझो, कुछ लंबे सफर सिर्फ अल्लाह की नज़र में होते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-37",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الثقة بالله لا تزيل الخوف دائمًا لكنها تمنحك القدرة على تجاوزه",
+            "english": "Trust in Allah does not always remove fear, but it gives you the strength to move through it.",
+            "hindi": "अल्लाह पर भरोसा हर डर को हमेशा खत्म नहीं करता, लेकिन उससे आगे बढ़ने की ताकत ज़रूर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-38",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "ثمرة الاجتهاد لا تظهر دائمًا سريعًا لكنها لا تضيع",
+            "english": "The fruits of hard work do not always appear quickly, but they are never truly lost.",
+            "hindi": "मेहनत का फल हमेशा जल्दी नज़र नहीं आता, लेकिन वह कभी सच में खोता नहीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-39",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "ما تبنيه لنفسك اليوم قد ينقذك من ضياع الغد",
+            "english": "What you build within yourself today may save you from tomorrow’s emptiness.",
+            "hindi": "आज जो इंसान खुद को बनाता है, वही उसे कल की भटकन से बचा सकता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-40",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "النية الصادقة لا تفتح أبواب النجاح فقط بل تحفظ قلبك أثناء الطريق",
+            "english": "A sincere intention does not only open doors of success — it also protects your heart along the journey.",
+            "hindi": "सच्ची नीयत सिर्फ कामयाबी के दरवाज़े नहीं खोलती, बल्कि सफर के दौरान दिल की भी हिफाज़त करती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-41",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "ثق باختيار الله لك حتى وإن لم تفهمه الآن",
+            "english": "Trust Allah’s choice for you, even when you cannot understand it yet.",
+            "hindi": "अल्लाह के फैसले पर भरोसा रखो, चाहे तुम अभी उसकी हिकमत न समझ सको।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-42",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "كل قربٍ من الله يخفف شيئًا من ثقل الحياة",
+            "english": "Every step closer to Allah quietly lightens something heavy inside life.",
+            "hindi": "अल्लाह की तरफ बढ़ाया गया हर कदम जिंदगी का कुछ बोझ हल्का कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-43",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "لا تجعل خوف الأمس يسرق فرصة اليوم",
+            "english": "Do not let yesterday's fear steal today's chance.",
+            "hindi": "कल का डर आज का मौका मत छीनने दो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-44",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "أحيانًا يكون النجاة أنك ما زلت واقفًا",
+            "english": "Sometimes surviving is the victory.",
+            "hindi": "कभी-कभी सिर्फ डटे रहना ही जीत होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-45",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "الإخلاص في البدايات يحفظ قلبك حين تتأخر النتائج",
+            "english": "Sincerity in the beginning protects your heart when results take longer than expected.",
+            "hindi": "शुरुआत का इख़लास दिल को उस वक्त संभालता है जब नतीजे देर से आने लगें।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-46",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "بعض الثمار لا تظهر سريعًا لأنها تنضج في الخفاء",
+            "english": "Some fruits appear late because they are growing deeply in places you cannot yet see.",
+            "hindi": "कुछ फल देर से दिखाई देते हैं क्योंकि वे उन जगहों पर पक रहे होते हैं जिन्हें इंसान अभी नहीं देख सकता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-47",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "كل بابٍ أُغلق علّمك كيف تطرق بابًا أفضل",
+            "english": "Every closed door taught you where to knock next.",
+            "hindi": "हर बंद दरवाज़े ने तुम्हें बेहतर दरवाज़ा ढूँढना सिखाया।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-48",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "ليس كل تأخر خسارة، أحيانًا هو حماية",
+            "english": "Not every delay is a loss. Sometimes it is protection.",
+            "hindi": "हर देरी नुकसान नहीं होती, कभी-कभी वह हिफाज़त होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-49",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "حين يكون هدفك واضحًا عند الله تهدأ فوضى الطريق",
+            "english": "When your purpose is clear before Allah, even the chaos of the journey begins to settle.",
+            "hindi": "जब तुम्हारा मकसद अल्लाह के सामने साफ़ हो, तो सफर की उलझनें भी धीरे-धीरे सुलझने लगती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-50",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "أحيانًا يكون أعظم التقدم أنك لم تستسلم رغم كل ما أثقلك",
+            "english": "Sometimes your greatest progress is simply that you did not give up, even when everything felt heavy.",
+            "hindi": "कभी-कभी तुम्हारी सबसे बड़ी तरक़्क़ी यही होती है कि तुमने हार नहीं मानी, जबकि सब कुछ बहुत भारी लग रहा था।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-51",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "ليست كل خطوة تحتاج وضوحًا يكفي أن تعرف اتجاهك",
+            "english": "Not every step needs clarity — it is enough to know your direction.",
+            "hindi": "हर कदम का साफ होना ज़रूरी नहीं, बस तुम्हें अपनी दिशा का पता होना चाहिए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-52",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "بعض الأحلام تنضج في الخفاء قبل أن تظهر للنور",
+            "english": "Some dreams grow in silence before they meet the light.",
+            "hindi": "कुछ ख़्वाब रोशनी में आने से पहले ख़ामोशी में पलते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-53",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "حين يفتح الله الباب ستنسى طول الوقوف أمامه",
+            "english": "When Allah opens the door, the waiting will make sense.",
+            "hindi": "जब अल्लाह दरवाज़ा खोलेगा, इंतज़ार का हर लम्हा समझ आ जाएगा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-54",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "حين تثق بالله لا تتوقف المحاولات بل يتغير شعورك تجاهها",
+            "english": "Trust in Allah does not stop your attempts — it changes how your heart carries them.",
+            "hindi": "अल्लाह पर भरोसा कोशिशों को रोकता नहीं, बल्कि दिल का उन्हें उठाने का तरीका बदल देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "motivation-55",
+        "category": "Motivation",
+        "text":
+        {
+            "arabic": "أحيانًا يكون أعظم إنجاز أنك استمررت حين كان التوقف أسهل",
+            "english": "Sometimes your greatest achievement is that you continued when quitting would have been easier.",
+            "hindi": "कभी-कभी तुम्हारी सबसे बड़ी कामयाबी यही होती है कि तुम चलते रहे, जब रुक जाना आसान था।"
+        },
+        "reference": ""
+    }
+]
