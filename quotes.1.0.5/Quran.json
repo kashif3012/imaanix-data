@@ -1,0 +1,574 @@
+[
+    {
+        "id": "quran-1",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+            "english": "Indeed, with hardship comes ease. Indeed, with hardship comes ease.",
+            "hindi": "बेशक, हर मुश्किल के साथ आसानी है। बेशक, हर मुश्किल के साथ आसानी है।"
+        },
+        "reference": "Quran 94:5-6"
+    },
+    {
+        "id": "quran-2",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+            "english": "The longest nights become bearable when the heart knows Allah is with the patient.",
+            "hindi": "सबसे लंबी रातें भी आसान हो जाती हैं जब दिल जानता हो कि अल्लाह सब्र करने वालों के साथ है।"
+        },
+        "reference": "Quran 2:153"
+    },
+    {
+        "id": "quran-3",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَاللَّهُ غَالِبٌ عَلَىٰ أَمْرِهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+            "english": "What feels delayed to you may already be unfolding exactly according to Allah's plan.",
+            "hindi": "जो चीज़ तुम्हें देर से होती दिखती है, वह शायद अल्लाह की तदबीर के मुताबिक़ पहले ही चल रही होती है।"
+        },
+        "reference": "Quran 12:21"
+    },
+    {
+        "id": "quran-4",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+            "english": "Truly, it is in the remembrance of Allah that hearts find peace.",
+            "hindi": "सुन लो, दिलों को असली सुकून सिर्फ अल्लाह की याद से मिलता है।"
+        },
+        "reference": "Quran 13:28"
+    },
+    {
+        "id": "quran-5",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا",
+            "english": "Do not despair of the mercy of Allah. Surely, Allah forgives all sins.",
+            "hindi": "अल्लाह की रहमत से मायूस मत हो। बेशक, अल्लाह सारे गुनाह माफ कर देता है।"
+        },
+        "reference": "Quran 39:53"
+    },
+    {
+        "id": "quran-6",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+            "english": "The heart that truly relies upon Allah slowly stops fearing what the world may take away.",
+            "hindi": "जो दिल सच में अल्लाह पर भरोसा करना सीख ले, वह दुनिया के खो जाने से डरना छोड़ देता है।"
+        },
+        "reference": "Quran 65:3"
+    },
+    {
+        "id": "quran-7",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "قَالَ كَلَّا ۖ إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ",
+            "english": "When every road seems closed, Allah can still create a way where none existed.",
+            "hindi": "जब हर रास्ता बंद दिखाई दे, तब भी अल्लाह वहाँ राह बना सकता है जहाँ कोई राह न हो।"
+        },
+        "reference": "Quran 26:62"
+    },
+    {
+        "id": "quran-8",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+            "english": "Your provision was written long before your worries were born, so let the heart rest in Allah’s promise.",
+            "hindi": "तुम्हारी रोज़ी तुम्हारी फिक्रों से बहुत पहले लिख दी गई थी, इसलिए दिल को अल्लाह के वादे पर सुकून दो।"
+        },
+        "reference": "Quran 51:22"
+    },
+    {
+        "id": "quran-9",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+            "english": "Do not lose heart, and do not grieve — you will rise above if you truly believe.",
+            "hindi": "न हिम्मत हारो और न ग़म करो — अगर तुम मोमिन हो, तो तुम ही सरबलंद रहोगे।"
+        },
+        "reference": "Quran 3:139"
+    },
+    {
+        "id": "quran-10",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً",
+            "english": "Our Lord, do not let our hearts deviate after You have guided us, and grant us mercy from Yourself.",
+            "hindi": "ऐ हमारे रब, हिदायत देने के बाद हमारे दिलों को टेढ़ा न कर और हमें अपनी तरफ से रहमत अता फरमा।"
+        },
+        "reference": "Quran 3:8"
+    },
+    {
+        "id": "quran-11",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+            "english": "No act of goodness is ever forgotten by Allah, even when the world never notices it.",
+            "hindi": "कोई नेकी अल्लाह के यहाँ कभी खोती नहीं, चाहे दुनिया उसे देखे या न देखे।"
+        },
+        "reference": "Quran 12:56"
+    },
+    {
+        "id": "quran-12",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ مُّحِيطًا",
+            "english": "Nothing in your life has ever escaped the knowledge and wisdom of Allah.",
+            "hindi": "तुम्हारी ज़िंदगी की कोई बात अल्लाह के इल्म और हिकमत से बाहर नहीं रही।"
+        },
+        "reference": "Quran 4:126"
+    },
+    {
+        "id": "quran-13",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ",
+            "english": "When My servants ask about Me — I am truly near. I answer the call of the one who calls upon Me.",
+            "hindi": "जब मेरे बंदे मेरे बारे में पूछें — तो मैं सचमुच बहुत करीब हूँ। जो मुझे पुकारता है, मैं उसकी दुआ कबूल करता हूँ।"
+        },
+        "reference": "Quran 2:186"
+    },
+    {
+        "id": "quran-14",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ",
+            "english": "Be patient, because Allah’s promise arrives even when the road to it feels impossibly long.",
+            "hindi": "सब्र करो, क्योंकि अल्लाह का वादा तब भी पूरा होता है जब रास्ता बहुत लंबा महसूस होने लगे।"
+        },
+        "reference": "Quran 30:60"
+    },
+    {
+        "id": "quran-15",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ",
+            "english": "The beauty of faith appears when justice and kindness walk together.",
+            "hindi": "ईमान की खूबसूरती तब नज़र आती है जब इंसाफ़ और एहसान साथ चलें।"
+        },
+        "reference": "Quran 16:90"
+    },
+    {
+        "id": "quran-16",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ",
+            "english": "Those who restrain their anger and forgive people — and Allah loves those who do good.",
+            "hindi": "जो अपने ग़ुस्से को रोक लेते हैं और लोगों को माफ कर देते हैं — और अल्लाह नेकी करने वालों से मुहब्बत करता है।"
+        },
+        "reference": "Quran 3:134"
+    },
+    {
+        "id": "quran-17",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+            "english": "Some prayers do not ask for success first — they ask for strength to carry it.",
+            "hindi": "कुछ दुआएँ कामयाबी नहीं, बल्कि उसे संभालने की ताक़त माँगती हैं।"
+        },
+        "reference": "Quran 20:25-26"
+    },
+    {
+        "id": "quran-18",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَيَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنِ السَّيِّئَاتِ",
+            "english": "No matter how far a soul has fallen, the door of repentance remains open with Allah.",
+            "hindi": "बंदा कितना भी दूर चला जाए, अल्लाह के यहाँ तौबा का दरवाज़ा फिर भी खुला रहता है।"
+        },
+        "reference": "Quran 42:25"
+    },
+    {
+        "id": "quran-19",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا",
+            "english": "Some battles are being fought for you long before you realize Allah was protecting you.",
+            "hindi": "कुछ लड़ाइयाँ ऐसी होती हैं जिनमें अल्लाह तुम्हारी मदद बहुत पहले से कर रहा होता है और तुम्हें एहसास भी नहीं होता।"
+        },
+        "reference": "Quran 22:38"
+    },
+    {
+        "id": "quran-20",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ",
+            "english": "Place your trust in the One who never dies, because everything else eventually fades away.",
+            "hindi": "भरोसा उस पर रखो जो कभी नहीं मरता, क्योंकि दुनिया की हर चीज़ एक दिन खत्म हो जाती है।"
+        },
+        "reference": "Quran 25:58"
+    },
+    {
+        "id": "quran-21",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+            "english": "If Allah placed this test upon your heart, then He also placed within you the strength to survive it.",
+            "hindi": "अगर अल्लाह ने यह आज़माइश तुम्हारे हिस्से में लिखी है, तो उससे गुज़रने की ताक़त भी तुम्हारे अंदर रखी है।"
+        },
+        "reference": "Quran 2:286"
+    },
+    {
+        "id": "quran-22",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
+            "english": "Many mercies of Allah arrive so quietly that we notice them only later.",
+            "hindi": "अल्लाह की बहुत सी रहमतें इतनी ख़ामोशी से आती हैं कि उनका एहसास बाद में होता है।"
+        },
+        "reference": "Quran 2:143"
+    },
+    {
+        "id": "quran-23",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ",
+            "english": "Allah’s forgiveness is far greater than the sins that keep burdening your heart.",
+            "hindi": "अल्लाह की मग़फ़िरत उन गुनाहों से कहीं बड़ी है जो तुम्हारे दिल पर बोझ बने हुए हैं।"
+        },
+        "reference": "Quran 53:32"
+    },
+    {
+        "id": "quran-24",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+            "english": "Allah knows the pain the tongue could never fully explain.",
+            "hindi": "दिल के कुछ दर्द ऐसे होते हैं जिन्हें ज़ुबान बयान नहीं कर पाती — मगर अल्लाह उन्हें जानता है।"
+        },
+        "reference": "Quran 3:119"
+    },
+    {
+        "id": "quran-25",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ",
+            "english": "Perhaps you dislike something, yet it is good for you — and perhaps you love something, yet it is bad for you.",
+            "hindi": "हो सकता है कि तुम किसी चीज़ को नापसंद करो, मगर वही तुम्हारे लिए बेहतर हो — और हो सकता है कि तुम किसी चीज़ को पसंद करो, मगर वही तुम्हारे लिए बुरी हो।"
+        },
+        "reference": "Quran 2:216"
+    },
+    {
+        "id": "quran-26",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ",
+            "english": "The path back to Allah remains open, no matter how many times you return.",
+            "hindi": "अल्लाह की तरफ़ लौटने का रास्ता कभी बंद नहीं होता, चाहे कितनी बार लौटना पड़े।"
+        },
+        "reference": "Quran 2:222"
+    },
+    {
+        "id": "quran-27",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ مَعَ الْمُتَّقِينَ",
+            "english": "The one who remembers Allah in private is never forgotten by Allah in public.",
+            "hindi": "जो तन्हाई में अल्लाह को याद रखे, अल्लाह उसे कभी नहीं भूलता।"
+        },
+        "reference": "Quran 2:194"
+    },
+    {
+        "id": "quran-28",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+            "english": "There is no broken place in the heart beyond the reach of Allah's mercy.",
+            "hindi": "दिल का कोई ज़ख्म ऐसा नहीं जो अल्लाह की रहमत की पहुँच से बाहर हो।"
+        },
+        "reference": "Quran 7:156"
+    },
+    {
+        "id": "quran-29",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ لَطِيفٌ بِعِبَادِهِ",
+            "english": "Allah’s gentleness reaches His servants in ways they may never even notice.",
+            "hindi": "अल्लाह की नरमी अपने बंदों तक ऐसे तरीकों से पहुँचती है जिन्हें वे कई बार महसूस भी नहीं कर पाते।"
+        },
+        "reference": "Quran 42:19"
+    },
+    {
+        "id": "quran-30",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+            "english": "Indeed, we belong to Allah, and indeed to Him we will return.",
+            "hindi": "बेशक, हम अल्लाह ही के हैं और उसी की तरफ लौटकर जाने वाले हैं।"
+        },
+        "reference": "Quran 2:156"
+    },
+    {
+        "id": "quran-31",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "فَسَيَكْفِيكَهُمُ اللَّهُ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+            "english": "The moment Allah becomes enough for your heart, many fears begin to disappear.",
+            "hindi": "जिस दिन दिल के लिए अल्लाह काफ़ी हो जाए, उसी दिन बहुत से डर खत्म होने लगते हैं।"
+        },
+        "reference": "Quran 2:137"
+    },
+    {
+        "id": "quran-32",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ",
+            "english": "Contentment begins when the eyes stop counting the blessings of others.",
+            "hindi": "कनाअत वहीं से शुरू होती है जब नज़रें दूसरों की नेमतें गिनना छोड़ देती हैं।"
+        },
+        "reference": "Quran 20:131"
+    },
+    {
+        "id": "quran-33",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوْا وَّالَّذِينَ هُم مُّحْسِنُونَ",
+            "english": "Allah stays closest to those who quietly choose righteousness over temptation.",
+            "hindi": "अल्लाह उनके सबसे करीब होता है जो ख़ामोशी से नेकी को गुनाह पर तरजीह देते हैं।"
+        },
+        "reference": "Quran 16:128"
+    },
+    {
+        "id": "quran-34",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ",
+            "english": "Some doors open only when the heart realizes that success was never from itself.",
+            "hindi": "कुछ दरवाज़े तब खुलते हैं जब दिल यह समझ ले कि असली कामयाबी सिर्फ अल्लाह की तरफ से है।"
+        },
+        "reference": "Quran 11:88"
+    },
+    {
+        "id": "quran-35",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+            "english": "Every road, every story, and every soul eventually returns to its Lord.",
+            "hindi": "हर रास्ता, हर कहानी और हर रूह आखिरकार अपने रब की तरफ़ लौटती है।"
+        },
+        "reference": "Quran 96:8"
+    },
+    {
+        "id": "quran-36",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ",
+            "english": "Be patient — and your patience is only through Allah.",
+            "hindi": "सब्र करो — और तुम्हारा सब्र सिर्फ अल्लाह की मदद से है।"
+        },
+        "reference": "Quran 16:127"
+    },
+    {
+        "id": "quran-37",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ بَالِغُ أَمْرِهِ",
+            "english": "What Allah has written for you will arrive even if the whole world stands in its way.",
+            "hindi": "अल्लाह ने जो तुम्हारे लिए लिखा है, वह तुम्हें मिलकर रहेगा चाहे पूरी दुनिया उसके रास्ते में क्यों न खड़ी हो।"
+        },
+        "reference": "Quran 65:3"
+    },
+    {
+        "id": "quran-38",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَهُوَ خَيْرُ الرَّازِقِينَ",
+            "english": "Your provision was never tied to people; it was always written by Allah.",
+            "hindi": "तुम्हारी रोज़ी लोगों के हाथ में नहीं, बल्कि अल्लाह के फैसले में लिखी गई है।"
+        },
+        "reference": "Quran 22:58"
+    },
+    {
+        "id": "quran-39",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَلَا تَفْسُدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا",
+            "english": "A believer leaves behind traces of healing, not traces of harm.",
+            "hindi": "मोमिन जहाँ जाता है वहाँ सुधार छोड़ता है, फसाद नहीं।"
+        },
+        "reference": "Quran 7:56"
+    },
+    {
+        "id": "quran-40",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَاللَّهُ خَيْرُ الْحَافِظِينَ",
+            "english": "Many things protect you for a moment; Allah protects what truly matters.",
+            "hindi": "बहुत सी चीज़ें कुछ देर के लिए बचाती हैं, मगर असली हिफाज़त सिर्फ़ अल्लाह की होती है।"
+        },
+        "reference": "Quran 12:64"
+    },
+    {
+        "id": "quran-41",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "فَاذْكُرُوا اللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+            "english": "Many victories begin with a heart that remembers Allah more than its worries.",
+            "hindi": "बहुत सी कामयाबियाँ उस दिल से शुरू होती हैं जो अपनी फ़िक्रों से ज़्यादा अल्लाह को याद रखता है।"
+        },
+        "reference": "Quran 62:10"
+    },
+    {
+        "id": "quran-42",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ",
+            "english": "Indeed, Allah does not change the condition of a people until they change what is within themselves.",
+            "hindi": "बेशक, अल्लाह किसी क़ौम की हालत नहीं बदलता जब तक वे खुद अपने हालात को न बदलें।"
+        },
+        "reference": "Quran 13:11"
+    },
+    {
+        "id": "quran-43",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "فَسَيَكْفِيكَهُمُ اللَّهُ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+            "english": "The moment Allah becomes enough for your heart, many fears begin to disappear.",
+            "hindi": "जिस दिन दिल के लिए अल्लाह काफ़ी हो जाए, उसी दिन बहुत से डर खत्म होने लगते हैं।"
+        },
+        "reference": "Quran 2:137"
+    },
+    {
+        "id": "quran-44",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "إِنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا",
+            "english": "Some battles are being fought for you long before you realize Allah was protecting you.",
+            "hindi": "कुछ लड़ाइयाँ ऐसी होती हैं जिनमें अल्लाह तुम्हारी मदद बहुत पहले से कर रहा होता है और तुम्हें एहसास भी नहीं होता।"
+        },
+        "reference": "Quran 22:38"
+    },
+    {
+        "id": "quran-45",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+            "english": "What feels impossible today remains easy before the power of Allah.",
+            "hindi": "जो आज नामुमकिन लगता है, वह अल्लाह की कुदरत के सामने आसान है।"
+        },
+        "reference": "Quran 57:2"
+    },
+    {
+        "id": "quran-46",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "فَفِرُّوا إِلَى اللَّهِ",
+            "english": "When the world exhausts your soul — return to Allah.",
+            "hindi": "जब दुनिया रूह को थका दे, तो अल्लाह की तरफ लौट आओ।"
+        },
+        "reference": "Quran 51:50"
+    },
+    {
+        "id": "quran-47",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+            "english": "Sometimes peace begins when you accept that Allah knows what you do not.",
+            "hindi": "कभी सुकून वहीं से शुरू होता है जब इंसान मान ले कि अल्लाह जानता है और वह नहीं जानता।"
+        },
+        "reference": "Quran 2:216"
+    },
+    {
+        "id": "quran-48",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+            "english": "Not every delay is abandonment; sometimes it is Allah staying closer than ever.",
+            "hindi": "हर देर तन्हाई की निशानी नहीं होती, कभी-कभी वह अल्लाह की और ज़्यादा क़ुर्बत होती है।"
+        },
+        "reference": "Quran 9:40"
+    },
+    {
+        "id": "quran-49",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+            "english": "There is no darkness Allah’s mercy cannot reach.",
+            "hindi": "अल्लाह की रहमत ऐसी है कि कोई अंधेरा उससे दूर नहीं रह सकता।"
+        },
+        "reference": "Quran 7:156"
+    },
+    {
+        "id": "quran-50",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
+            "english": "Even in the loneliest moments — He is still with you.",
+            "hindi": "सबसे तन्हा लम्हों में भी वह तुम्हारे साथ होता है।"
+        },
+        "reference": "Quran 57:4"
+    },
+    {
+        "id": "quran-51",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+            "english": "A heart that remembers Allah is never truly empty.",
+            "hindi": "जो दिल अल्लाह को याद रखे, वह कभी खाली नहीं रहता।"
+        },
+        "reference": "Quran 2:152"
+    },
+    {
+        "id": "quran-52",
+        "category": "Quran",
+        "text":
+        {
+            "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
+            "english": "Some miracles arrive after hope was almost gone.",
+            "hindi": "कुछ करिश्मे तब आते हैं जब उम्मीद लगभग खत्म हो चुकी होती है।"
+        },
+        "reference": "Quran 12:87"
+    }
+]

@@ -1,0 +1,497 @@
+[
+    {
+        "id": "sabr-1",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر أن يهدأ قلبك ولو لم تهدأ حياتك",
+            "english": "Patience is when your heart finds calm, even when your life does not.",
+            "hindi": "सब्र यह है कि तुम्हारा दिल ठहर जाए, चाहे तुम्हारी ज़िंदगी अभी भी उलझी हुई हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-2",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "معية الله للصابرين أعظم من زوال البلاء",
+            "english": "Allah being with you through patience is greater than the hardship ending.",
+            "hindi": "सब्र में अल्लाह का साथ मिल जाना, मुसीबत के खत्म होने से भी बड़ी नेमत है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-3",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "إنما الصبر عند الصدمة الأولى",
+            "english": "True patience is shown at the first strike of pain. The first reaction of the heart often reveals the depth of its trust in Allah.",
+            "hindi": "असली सब्र पहली चोट और पहले दर्द के लम्हे में दिखाई देता है। दिल का पहला रद्द-ए-अमल अक्सर अल्लाह पर उसके भरोसे की गहराई दिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-4",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "ما أخّره الله عنك قد يكون رحمة سبقت رغبتك",
+            "english": "What Allah delays may be mercy arriving before your desire.",
+            "hindi": "जिस चीज़ को अल्लाह देर से दे, वह अक्सर तुम्हारी चाहत से पहले आई हुई रहमत होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-5",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "أشدّ أنواع الصبر أن تتألم بصمت وأنت تحسن الظن بالله",
+            "english": "One of the hardest forms of patience is to ache in silence while still thinking well of Allah.",
+            "hindi": "सब्र की सबसे कठिन सूरतों में से एक यह है कि इंसान खामोशी में दर्द सहते हुए भी अल्लाह के बारे में अच्छा गुमान रखे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-6",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "كل عسر يخبئ يسرًا لم تره بعد",
+            "english": "Every hardship hides an ease you have not yet seen.",
+            "hindi": "हर मुश्किल अपने अंदर ऐसी आसानी छुपाए होती है जिसे तुमने अभी नहीं देखा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-7",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "بعض الصبر أن يبقى قلبك جميلًا رغم ما مرّ به",
+            "english": "Some patience is keeping a beautiful heart after everything it has endured.",
+            "hindi": "कुछ सब्र यह है कि इंसान का दिल तमाम तकलीफ़ों के बाद भी खूबसूरत बना रहे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-8",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الدعاء الصابر لا يضيع طريقه إلى الله",
+            "english": "A patient prayer never loses its way to Allah.",
+            "hindi": "सब्र के साथ की गई दुआ कभी अल्लाह तक पहुँचने का रास्ता नहीं भूलती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-9",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر الذي لا يسمعه أحد يسمعه الله كاملًا",
+            "english": "The patience no one hears is fully heard by Allah.",
+            "hindi": "जो सब्र दुनिया नहीं सुनती, उसे अल्लाह पूरी तरह सुनता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-10",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "ليس الصبر أن لا تشعر بالألم بل أن لا تفقد أدبك مع الله في الألم",
+            "english": "Patience does not mean feeling no pain — it means not losing your respect with Allah while in pain.",
+            "hindi": "सब्र का मतलब यह नहीं कि इंसान दर्द महसूस न करे, बल्कि यह है कि दर्द के बीच भी वह अल्लाह के साथ अपना अदब न खोए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-11",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "بعض النجاة تأتيك متخفية في هيئة صبر",
+            "english": "Some rescues arrive disguised as patience.",
+            "hindi": "कुछ नजातें सब्र की शक्ल में आती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-12",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر أحيانًا أن تؤمن بتوقيت الله أكثر من رغبتك",
+            "english": "Sometimes patience is trusting Allah’s timing more than your own desire.",
+            "hindi": "कभी-कभी सब्र यह है कि इंसान अपनी चाहत से ज्यादा अल्लाह के वक्त पर भरोसा करे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-13",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "أحيانًا يكون الانتظار مع الله أجمل من الوصول",
+            "english": "Sometimes waiting with Allah is more beautiful than arriving.",
+            "hindi": "कभी-कभी अल्लाह के साथ इंतज़ार करना मंज़िल तक पहुँचने से भी ज्यादा खूबसूरत होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-14",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "في الصبر كرامة لا يعرفها إلا من أبى أن ينهار أمام البلاء",
+            "english": "There is a dignity in patience known only to those who refuse to collapse in front of hardship.",
+            "hindi": "सब्र में एक इज़्ज़त होती है जिसे वही समझता है जो मुसीबत के सामने टूटने से इंकार कर देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-15",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "بعض الصبر يبدّل روحك قبل أن يبدّل حالك",
+            "english": "Some patience changes your soul before it changes your situation.",
+            "hindi": "कुछ सब्र हालात से पहले इंसान की रूह को बदल देते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-16",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر يهدّئ قلبًا فوّض أمره لله",
+            "english": "Patience calms the heart that has entrusted itself to Allah.",
+            "hindi": "सब्र उस दिल को सुकून देता है जिसने खुद को अल्लाह के हवाले कर दिया हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-17",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "بعض التعب تربية خفية من الله لقلبك",
+            "english": "Some exhaustion is Allah quietly raising your heart.",
+            "hindi": "कुछ थकानें अल्लाह की तरफ से दिल की खामोश तरबियत होती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-18",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "وراء كل صبر لطف لم تكتشفه بعد",
+            "english": "Behind every patience is a kindness you have not discovered yet.",
+            "hindi": "हर सब्र के पीछे अल्लाह की ऐसी नरमी होती है जिसे इंसान बाद में समझता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-19",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "ليس الصبر في طول الطريق بل في سكينة القلب أثناءه",
+            "english": "Patience is not the length of the road, but the calmness of the heart upon it.",
+            "hindi": "सब्र रास्ते की लंबाई में नहीं, बल्कि सफ़र के दौरान दिल के सुकून में होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-20",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "في بعض البلاء يكون الصبر أجمل من الجواب نفسه",
+            "english": "Sometimes in hardship, patience becomes more beautiful than the answer you were waiting for.",
+            "hindi": "कभी-कभी मुसीबत में सब्र उस जवाब से भी ज्यादा खूबसूरत बन जाता है जिसका इंसान इंतज़ार कर रहा होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-21",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "في الصبر يتحول الألم إلى معنى لا إلى نهاية",
+            "english": "In patience, pain turns into meaning — not an ending.",
+            "hindi": "सब्र में दर्द खत्म नहीं होता, बल्कि एक मायने बन जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-22",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر الذي لا يراه الناس يراه الله كاملًا",
+            "english": "The patience people never see is fully seen by Allah.",
+            "hindi": "जो सब्र दुनिया नहीं देखती, उसे अल्लाह पूरी तरह देखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-23",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "أصدق الصبر ما لم يحتج شاهدًا",
+            "english": "The truest patience needs no audience.",
+            "hindi": "सबसे सच्चा सब्र वह है जिसे किसी गवाह की ज़रूरत न हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-24",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر يعلّم قلبك أن يطمئن قبل أن يفهم",
+            "english": "Patience teaches the heart to find peace before understanding.",
+            "hindi": "सब्र दिल को समझ आने से पहले भी सुकून पाना सिखा देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-25",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "كل انتظارٍ مع الله عبادة لا يراها الناس",
+            "english": "Every waiting done with Allah is a hidden act of worship.",
+            "hindi": "अल्लाह के साथ किया गया हर इंतज़ार एक छुपी हुई इबादत है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-26",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "بعض الجراح جاءت لتقودك إلى الله",
+            "english": "Some wounds came only to lead you back to Allah.",
+            "hindi": "कुछ ज़ख्म सिर्फ इसलिए आए कि तुम्हें अल्लाह की तरफ लौटा दें।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-27",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر لا يغيّر الحدث دائمًا لكنه يغيّر من تكون أثناءه",
+            "english": "Patience does not always change the event, but it changes who you become while living through it.",
+            "hindi": "सब्र हमेशा हालात को नहीं बदलता, लेकिन वह इंसान को उस हालात के बीच बदल देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-28",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "حين تثق بحكمة الله يخف وجع الانتظار",
+            "english": "Trusting Allah’s wisdom softens the pain of waiting.",
+            "hindi": "जब इंसान अल्लाह की हिकमत पर भरोसा करे, तो इंतज़ार का दर्द हल्का हो जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-29",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "في أصعب الأيام يكون الصبر عبادة لا يراها إلا الله",
+            "english": "On the hardest days, patience becomes a worship seen only by Allah.",
+            "hindi": "सबसे मुश्किल दिनों में सब्र ऐसी इबादत बन जाता है जिसे सिर्फ अल्लाह देखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-30",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "حين ترضى يهدأ ما لم تفهمه بعد",
+            "english": "Contentment calms what understanding cannot.",
+            "hindi": "रज़ा उन बातों को भी सुकून दे देती है जिन्हें समझ पाना अभी बाकी हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-31",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "أجمل الصبر أن لا يتغير أدبك مع الله",
+            "english": "The most beautiful patience is not losing your adab with Allah.",
+            "hindi": "सबसे खूबसूरत सब्र यह है कि अल्लाह के साथ तुम्हारा अदब कभी न बदले।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-32",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "في بعض الانتظار ينضج قلبك أكثر مما تنضج أمنيتك",
+            "english": "Sometimes in waiting, your heart matures more than your wish itself.",
+            "hindi": "कभी-कभी इंतज़ार में तुम्हारी तमन्ना से ज्यादा तुम्हारा दिल पका और बेहतर हो जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-33",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "إذا أعطاك الله صبرًا وسط البلاء فقد أراد بك خيرًا",
+            "english": "If Allah gives you patience during hardship, He still intends goodness for you.",
+            "hindi": "अगर अल्लाह मुसीबत में भी तुम्हें सब्र दे रहा है, तो वह अब भी तुम्हारे लिए भलाई चाहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-34",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "القلب الصابر لا يضيع في زحام الانتظار",
+            "english": "A patient heart never loses itself in the crowd of waiting.",
+            "hindi": "सब्र करने वाला दिल इंतज़ार की भीड़ में खुद को नहीं खोता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-35",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر أحيانًا أن لا تتخلى عن لطفك رغم ما كسر فيك",
+            "english": "Sometimes patience is refusing to lose your softness, even after what broke inside you.",
+            "hindi": "कभी-कभी सब्र यह होता है कि इंसान अपने अंदर टूट जाने के बाद भी अपनी नरमी को न छोड़े।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-36",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "حين يسكت قلبك عن الشكوى لله وحده يبدأ الصبر الحقيقي",
+            "english": "When your heart stops complaining to the world and begins whispering only to Allah, true patience begins.",
+            "hindi": "जब दिल दुनिया से शिकायत करना छोड़कर सिर्फ अल्लाह से बात करना शुरू करे, तभी असली सब्र शुरू होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-37",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر يمنع قلبك من الغرق في ألمه",
+            "english": "Patience keeps the heart from drowning in its pain.",
+            "hindi": "सब्र दिल को अपने दर्द में डूबने से बचा लेता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-38",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر ليس أن لا تبكي بل أن لا تفقد يقينك وأنت تبكي",
+            "english": "Patience is not never crying — it is not losing your certainty in Allah while you cry.",
+            "hindi": "सब्र का मतलब यह नहीं कि इंसान रोए ही नहीं, बल्कि यह है कि रोते हुए भी अल्लाह पर अपना यकीन न खोए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-39",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "كل صبر صادق يترك في الروح نورًا لا تصنعه الراحة السريعة",
+            "english": "Every sincere patience leaves a light in the soul that quick comfort could never create.",
+            "hindi": "हर सच्चा सब्र रूह में ऐसा नूर छोड़ जाता है जो जल्दी मिलने वाली राहत कभी पैदा नहीं कर सकती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-40",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "ما دام الله يرزقك صبرًا فهو لم يتركك",
+            "english": "As long as Allah gives you patience, He has not abandoned you.",
+            "hindi": "जब तक अल्लाह तुम्हें सब्र दे रहा है, वह तुम्हें छोड़ नहीं रहा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-41",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "بعض الصبر أن تحمل وجعك دون أن تورثه لغيرك",
+            "english": "Some patience is carrying your pain without passing it to others.",
+            "hindi": "कुछ सब्र यह है कि इंसान अपना दर्द उठाए मगर उसे दूसरों तक न पहुँचाए।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-42",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "في الصبر قوة لا تظهر إلا حين لا يبقى لك إلا الله",
+            "english": "There is a strength in patience that only appears when you have no one but Allah.",
+            "hindi": "सब्र की असली ताकत तब दिखाई देती है जब इंसान के पास अल्लाह के सिवा कोई न रहे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-43",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "أحيانًا يكون الصبر أن تترك الكلمة تموت في صدرك",
+            "english": "Sometimes patience is letting the words die before they leave your lips.",
+            "hindi": "कभी-कभी सब्र यह है कि कुछ अल्फ़ाज़ होंठों तक पहुँचने से पहले ही दिल में दफ्न हो जाएँ।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-44",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "الصبر أن يبقى قلبك واقفًا حين يتعب كل شيء فيك",
+            "english": "Patience is when your heart remains standing even after everything inside you grows tired.",
+            "hindi": "सब्र यह है कि इंसान का दिल तब भी खड़ा रहे जब उसके अंदर की हर चीज़ थक चुकी हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "sabr-45",
+        "category": "Sabr",
+        "text":
+        {
+            "arabic": "حين يطول الصبر يعلّمك أن بعض الراحة ليست في النهاية بل في الطريق",
+            "english": "When patience stretches long, it teaches you that some peace is found not at the end, but along the way.",
+            "hindi": "जब सब्र लंबा हो जाता है, तो वह सिखाता है कि कुछ सुकून मंज़िल में नहीं, बल्कि सफर में मिलता है।"
+        },
+        "reference": ""
+    }
+]

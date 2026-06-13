@@ -1,0 +1,662 @@
+[
+    {
+        "id": "gratitude-1",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "كل شكر صادق يفتح باب زيادة لا تراها فورًا",
+            "english": "Every sincere gratitude opens doors of increase you may not see immediately.",
+            "hindi": "हर सच्चा शुक्र ऐसी बढ़ोतरी के दरवाज़े खोलता है जो तुरंत दिखाई नहीं देती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-2",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله على كل حال",
+            "english": "Alhamdulillah in every situation. A grateful heart sees Allah’s wisdom not only in what was given, but also in what was withheld.",
+            "hindi": "हर हाल में अल्हम्दुलिल्लाह। शुक्रगुज़ार दिल सिर्फ मिली हुई चीज़ों में ही नहीं, बल्कि रोकी गई चीज़ों में भी अल्लाह की हिकमत देखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-3",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "القناعة صورة من صور الشكر",
+            "english": "Contentment is one of the purest forms of gratitude. A heart that is pleased with Allah’s share lives with quiet richness.",
+            "hindi": "कनाअत शुक्र की सबसे पाक सूरतों में से एक है। जो दिल अल्लाह की तक़सीम पर राज़ी हो जाए, वह खामोश अमीरी के साथ जीता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-4",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "تذكّر النعم يوقظ قلبًا كاد أن يعتادها",
+            "english": "Remembering blessings awakens the heart before it becomes blind to them.",
+            "hindi": "नेमतों को याद करना दिल को उनसे बेखबर होने से पहले जगा देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-5",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله على نعمة العافية",
+            "english": "Alhamdulillah for health, ease, and well-being. Some blessings are so constant that we only notice their value when they begin to fade.",
+            "hindi": "सेहत, राहत और आफ़ियत की नेमत पर अल्हम्दुलिल्लाह। कुछ नेमतें इतनी लगातार होती हैं कि इंसान उनकी क़दर तब समझता है जब वे कम होने लगती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-6",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يظهر في لطفك مع من كانوا سببًا في نعمك",
+            "english": "Gratitude appears in how gently you treat those through whom blessings reached you.",
+            "hindi": "शुक्र इस बात में दिखाई देता है कि इंसान उन लोगों के साथ कितनी नरमी रखता है जिनके ज़रिए उसे नेमतें मिलीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-7",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "كل نفس نعمة تستحق الحمد",
+            "english": "Every breath is a blessing worthy of praise. Gratitude begins when the heart stops treating everyday miracles as ordinary.",
+            "hindi": "हर सांस ऐसी नेमत है जो हम्द के काबिल है। शुक्र वहीं से शुरू होता है जब दिल रोज़मर्रा के करिश्मों को मामूली समझना छोड़ देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-8",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله على نعمة الإسلام والهداية",
+            "english": "Alhamdulillah for Islam and guidance. Among all blessings, being shown the way to Allah is one of the greatest gifts a soul can receive.",
+            "hindi": "इस्लाम और हिदायत की नेमत पर अल्हम्दुलिल्लाह। तमाम नेमतों में से अल्लाह तक का रास्ता मिल जाना रूह के लिए सबसे बड़ी नेमतों में से है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-9",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "النظر إلى ما أُعطيت يوقظ فيك الشكر",
+            "english": "Looking at what you have been given awakens gratitude within you. A thankful soul notices mercy where others only see routine.",
+            "hindi": "जो कुछ तुम्हें दिया गया है उस पर नज़र डालना दिल में शुक्र जगाता है। शुक्रगुज़ार रूह वहाँ भी रहमत देख लेती है जहाँ दूसरे सिर्फ आदत देखते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-10",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر لا يحتاج كثرة النعم بل حضور القلب",
+            "english": "Gratitude does not require countless blessings — it requires a present heart. A heart awake to Allah finds abundance even in little.",
+            "hindi": "शुक्र के लिए बहुत सारी नेमतों की नहीं, बल्कि जागते हुए दिल की ज़रूरत होती है। जो दिल अल्लाह की तरफ जागा हो, वह थोड़े में भी बहुत कुछ पा लेता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-11",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "في الشكر سلام لا تمنحه الدنيا",
+            "english": "There is a peace in gratitude that the world cannot give. The more the heart says Alhamdulillah, the lighter its burdens begin to feel.",
+            "hindi": "शुक्र में ऐसा सुकून है जो दुनिया नहीं दे सकती। जितना दिल अल्हम्दुलिल्लाह कहना सीखता है, उतना उसके बोझ हल्के होने लगते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-12",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من شكر النعمة أن تستعملها فيما يرضي الله",
+            "english": "Part of gratitude is using Allah’s blessings in ways that please Him.",
+            "hindi": "नेमत का शुक्र यह भी है कि इंसान उसे अल्लाह की रज़ा में इस्तेमाल करे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-13",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "أحيانًا يكون الشكر أن ترى ما نجاك الله منه لا ما فاتك فقط",
+            "english": "Sometimes gratitude is seeing what Allah saved you from, not only what He gave you.",
+            "hindi": "कभी-कभी शुक्र सिर्फ मिली हुई चीज़ों पर नहीं, बल्कि उस चीज़ पर भी होता है जिससे अल्लाह ने तुम्हें बचा लिया।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-14",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "القلب الشاكر لا تضيع عليه النعم الصغيرة",
+            "english": "A grateful heart does not overlook small blessings. It understands that the things we call ‘small’ are often the ones holding life together.",
+            "hindi": "शुक्रगुज़ार दिल छोटी नेमतों को नज़रअंदाज़ नहीं करता। वह जानता है कि जिन चीज़ों को हम छोटा समझते हैं, अक्सर वही जिंदगी को संभाले रखती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-15",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "كل صباح جديد سبب جديد للحمد",
+            "english": "Every new morning is a new reason to say Alhamdulillah. Waking up with another chance to return to Allah is itself a blessing.",
+            "hindi": "हर नई सुबह अल्हम्दुलिल्लाह कहने की एक नई वजह है। एक और दिन, एक और मौका — यह खुद बहुत बड़ी नेमत है कि इंसान फिर अल्लाह की तरफ लौट सकता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-16",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "في بعض الحرمان أبواب تستحق الشكر أيضًا",
+            "english": "Even some forms of deprivation deserve gratitude. Not every closed door was a loss — some were protection written in mercy.",
+            "hindi": "कुछ महरूमियाँ भी शुक्र के काबिल होती हैं। हर बंद दरवाज़ा नुकसान नहीं होता, कुछ दरवाज़े रहमत की हिफाज़त बनकर बंद किए जाते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-17",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يربّي القلب على رؤية اللطف الخفي",
+            "english": "Gratitude trains the heart to notice Allah’s hidden gentleness. It teaches you to recognize mercy even when life is not easy.",
+            "hindi": "शुक्र दिल को अल्लाह की छुपी हुई नरमी देखने की तरबियत देता है। यह इंसान को मुश्किल हालात में भी रहमत पहचानना सिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-18",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من امتلأ قلبه حمدًا امتلأ راحةً",
+            "english": "When the heart fills with praise, it begins to fill with peace. Gratitude rearranges the soul from the inside.",
+            "hindi": "जब दिल हम्द से भर जाता है, तो उसमें सुकून उतरने लगता है। शुक्र इंसान की रूह को अंदर से नए सिरे से सजा देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-19",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من عاش شاكرًا رأى الجمال في تفاصيل لا يلتفت إليها كثيرون",
+            "english": "The one who lives gratefully begins to see beauty in details most people walk past.",
+            "hindi": "जो इंसान शुक्र के साथ जीता है, वह उन बारीकियों में भी खूबसूरती देख लेता है जिन पर ज़्यादातर लोग ध्यान ही नहीं देते।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-20",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله ليست كلمة تُقال فقط بل عين ترى النعمة وقلب يعرف صاحبها",
+            "english": "Alhamdulillah is not only a phrase — it is an eye that notices blessings and a heart that knows Who sent them.",
+            "hindi": "अल्हम्दुलिल्लाह सिर्फ एक लफ़्ज़ नहीं, बल्कि ऐसी नज़र है जो नेमत को पहचानती है और ऐसा दिल है जो जानता है कि उसे किसने भेजा है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-21",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "كلما ازداد حمدك قلّ شعورك بالنقص",
+            "english": "The more your heart learns praise, the less it becomes consumed by what is missing.",
+            "hindi": "जितना दिल हम्द सीखता है, उतना ही वह कमी के एहसास से आज़ाद होने लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-22",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "في الشكر غنى لا تصنعه كثرة الممتلكات",
+            "english": "There is a richness in gratitude that no amount of possessions can create. A thankful heart feels full in places wealth cannot reach.",
+            "hindi": "शुक्र में ऐसी अमीरी है जिसे बहुत सारी चीज़ें भी पैदा नहीं कर सकतीं। शुक्रगुज़ार दिल वहाँ भी भरा हुआ महसूस करता है जहाँ दौलत भी नहीं पहुँच पाती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-23",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "بعض النعم لا تُدرك إلا بعد فقد غيرها",
+            "english": "Some blessings are only noticed after others are lost. Gratitude teaches the heart to wake up before regret does.",
+            "hindi": "कुछ नेमतें इंसान को तभी समझ आती हैं जब दूसरी चीज़ें उससे छिन जाती हैं। शुक्र दिल को अफसोस से पहले जागना सिखाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-24",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر لا يلغي الحزن لكنه يمنع القلب من الجحود",
+            "english": "Gratitude does not erase sadness, but it protects the heart from becoming ungrateful while hurting.",
+            "hindi": "शुक्र ग़म को मिटाता नहीं, लेकिन दर्द के बीच भी दिल को नाशुक्रा होने से बचा लेता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-25",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من عرف فضل الله عليه استحيا أن يعيش غافلًا",
+            "english": "Whoever truly realizes Allah’s favors feels ashamed to live heedlessly.",
+            "hindi": "जो इंसान अल्लाह के फ़ज़्ल को सच में पहचान लेता है, उसे ग़फलत में जीना शर्मनाक लगने लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-26",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "أجمل الشكر أن تبقى قريبًا من الله حين تتسع عليك الدنيا",
+            "english": "One of the most beautiful forms of gratitude is staying close to Allah even when life becomes easy.",
+            "hindi": "शुक्र की सबसे खूबसूरत सूरतों में से एक यह है कि जब दुनिया आसान हो जाए तब भी इंसान अल्लाह के करीब बना रहे।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-27",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "في كل تأخير نعمة لو رأيتها بعين الشكر",
+            "english": "There can be blessing even in delay — if you learn to see with the eyes of gratitude.",
+            "hindi": "अगर इंसान शुक्र की नज़र से देखना सीख जाए, तो हर देरी में भी एक नेमत नज़र आ सकती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-28",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يبدّل نظرتك قبل أن يبدّل حالك",
+            "english": "Gratitude often changes your perspective before it changes your situation.",
+            "hindi": "अक्सर शुक्र पहले इंसान की नज़र बदलता है, फिर उसके हालात बदलने लगते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-29",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "حين يحمد القلب ربّه بصدق يصبح أبسط العطاء كثيرًا",
+            "english": "When the heart praises its Lord sincerely, even the simplest provision begins to feel abundant.",
+            "hindi": "जब दिल सच्चाई से अपने रब की हम्द करता है, तो सबसे साधारण अता भी बहुत ज्यादा लगने लगती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-30",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "ليس كل شكر يُقال أحيانًا يكون في دمعةٍ صادقة أو سجدةٍ طويلة",
+            "english": "Not all gratitude is spoken. Sometimes it lives in a sincere tear, a long prostration, or a heart too full for words.",
+            "hindi": "हर शुक्र अल्फाज़ में नहीं होता। कभी-कभी वह एक सच्चे आँसू, एक लंबे सज्दे या ऐसे भरे हुए दिल में होता है जो बोल नहीं पाता।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-31",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يعيد القلب إلى الله كلما أبعدته الدنيا",
+            "english": "Gratitude returns the heart to Allah whenever the world pulls it away.",
+            "hindi": "जब दुनिया दिल को दूर ले जाने लगे, तो शुक्र उसे फिर अल्लाह की तरफ लौटा देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-32",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "بعض الحمد نجاة من قسوة لا تشعر بها إلا بعد أن يلين قلبك",
+            "english": "Some forms of praise save you from a hardness you only recognize after your heart softens again.",
+            "hindi": "कुछ हम्द इंसान को ऐसी सख्ती से बचा लेती है जिसका एहसास उसे तब होता है जब उसका दिल फिर से नरम होने लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-33",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "حين تدرك أن كل ما عندك فضل يبدأ الحمد الحقيقي",
+            "english": "True praise begins when you realize everything you have is Allah’s favor.",
+            "hindi": "असली हम्द तब शुरू होती है जब इंसान समझ ले कि उसके पास जो कुछ है वह अल्लाह का फ़ज़्ल है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-34",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "كلما حمدت الله على الموجود خفّ وجع المفقود",
+            "english": "The more you thank Allah for what remains, the less your heart is consumed by what is missing.",
+            "hindi": "जितना इंसान मौजूद नेमतों पर अल्लाह का शुक्र करता है, उतना ही खोई हुई चीज़ों का दर्द दिल पर कम हावी होता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-35",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر يعلّمك أن النعمة ليست فيما تملك فقط بل فيما سُلِب عنك من الأذى",
+            "english": "Gratitude teaches you that blessings are not only in what you receive, but also in the harm Allah kept away from you.",
+            "hindi": "शुक्र इंसान को यह सिखाता है कि नेमत सिर्फ उस चीज़ में नहीं जो मिली, बल्कि उस तकलीफ़ में भी है जिसे अल्लाह ने उससे दूर रखा।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-36",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "إذا امتلأت روحك بالحمد صار القليل كافيًا وصار العادي جميلًا",
+            "english": "When your soul fills with praise, little becomes enough and the ordinary begins to feel beautiful.",
+            "hindi": "जब रूह हम्द से भर जाती है, तो थोड़ा भी काफी लगने लगता है और आम चीज़ें भी खूबसूरत महसूस होने लगती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-37",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله تملأ الميزان",
+            "english": "Saying Alhamdulillah fills the scale of good deeds. A simple phrase can carry immense weight when spoken with sincerity.",
+            "hindi": "अल्हम्दुलिल्लाह कहना नेकियों के तराज़ू को भर देता है। यह छोटा सा ज़िक्र भी सच्चाई के साथ कहा जाए तो बहुत भारी अज्र रखता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-38",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "أجمل الحمد ما خرج من قلب عرف مرارة الفقد ثم بقي ممتنًا",
+            "english": "One of the most beautiful forms of praise comes from a heart that has known loss, yet still chooses gratitude.",
+            "hindi": "हम्द की सबसे खूबसूरत सूरतों में से एक वह है जो ऐसे दिल से निकले जिसने खोने का दर्द जाना हो, लेकिन फिर भी शुक्र को चुना हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-39",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "بعض النعم لا تحتاج أن تُزاد بل أن تُحفظ بالشكر",
+            "english": "Some blessings do not need to increase — they only need to be protected through gratitude.",
+            "hindi": "कुछ नेमतों को बढ़ने की नहीं, बल्कि शुक्र के साथ संभाले जाने की ज़रूरत होती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-40",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "حين يتعلم قلبك الحمد لا تعود الحياة فارغة كما كانت",
+            "english": "When your heart learns praise, life no longer feels as empty as it once did.",
+            "hindi": "जब दिल हम्द सीख लेता है, तो जिंदगी पहले जैसी खाली महसूस नहीं होती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-41",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "أصدق الشكر أن لا يتغير قلبك حين تتغير النعم",
+            "english": "The truest gratitude is when your heart does not change as your blessings change.",
+            "hindi": "सबसे सच्चा शुक्र यह है कि नेमतें बदल जाएँ, लेकिन तुम्हारा दिल न बदले।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-42",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "في بعض اللحظات لا يكون الشكر على ما عندك بل على ما لم يُكتب لك",
+            "english": "Sometimes gratitude is not for what you have, but for what was never written for you.",
+            "hindi": "कभी-कभी शुक्र सिर्फ मिली हुई चीज़ों पर नहीं, बल्कि उस पर भी होता है जो तुम्हारे लिए लिखा ही नहीं गया।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-43",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الشكر الحقيقي أن ترى العطاء في أبسط ما يمر بك",
+            "english": "True gratitude is seeing a gift in even the simplest moments that pass by you.",
+            "hindi": "असली शुक्र यह है कि इंसान अपनी जिंदगी के सबसे साधारण लम्हों में भी नेमत देख ले।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-44",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "حين يحمد القلب ربّه بصدق تقلّ حاجته لما في أيدي الناس",
+            "english": "When the heart truly praises its Lord, it needs less from what people have.",
+            "hindi": "जब दिल सच्चाई से अपने रब की हम्द करता है, तो उसे लोगों के पास की चीज़ों की चाह कम हो जाती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-45",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "أحيانًا يكون الشكر أن تتوقف عن المقارنة وتبدأ في الرضا",
+            "english": "Sometimes gratitude begins when you stop comparing and start being content.",
+            "hindi": "कभी-कभी शुक्र वहीं से शुरू होता है जब इंसान दूसरों से तुलना करना छोड़कर रज़ा में जीना सीख लेता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-46",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "القلب الممتن يرى النور فيما يراه غيره عاديًا",
+            "english": "A grateful heart sees light in what others call ordinary.",
+            "hindi": "शुक्रगुज़ार दिल वहाँ भी नूर देख लेता है जहाँ लोग सिर्फ आम चीज़ें देखते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-47",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد يخفف ثقل الحياة دون أن يغيّرها",
+            "english": "Praise softens the weight of life even before life changes.",
+            "hindi": "हम्द जिंदगी बदले बिना भी उसके बोझ को हल्का कर देती है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-48",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "كلما امتلأ قلبك شكرًا قلّ تعلّقك بما يفنى",
+            "english": "The more gratitude fills your heart, the less attached you become to what fades away.",
+            "hindi": "जितना दिल शुक्र से भरता है, उतना ही फ़ानी चीज़ों का लगाव कम होने लगता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-49",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "بعض النعم تُحفظ بالحمد أكثر مما تُحفظ بالحذر",
+            "english": "Some blessings are protected more by gratitude than by caution.",
+            "hindi": "कुछ नेमतें एहतियात से ज्यादा शुक्र के साथ महफूज़ रहती हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-50",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد لله يربّي في القلب شعور الاكتفاء",
+            "english": "Alhamdulillah teaches the heart how to feel enough.",
+            "hindi": "अल्हम्दुलिल्लाह दिल को किफायत और भराव महसूस करना सिखा देता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-51",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "أجمل الحمد ما خرج من قلبٍ كان ينتظر ثم اطمأن",
+            "english": "The most beautiful praise comes from a heart that waited and finally found peace.",
+            "hindi": "सबसे खूबसूरत हम्द उस दिल से निकलती है जिसने इंतज़ार किया हो और फिर सुकून पा लिया हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-52",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "حين تعرف أن كل شيء كان فضلًا يبدأ الشكر الحقيقي",
+            "english": "True gratitude begins when you realize none of it was owed to you.",
+            "hindi": "असली शुक्र तब शुरू होता है जब इंसान समझ ले कि जो कुछ मिला, वह सब फ़ज़्ल था।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-53",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "بعض الحمد يأتي بعد أن تفهم لماذا تأخر العطاء",
+            "english": "Some praise arrives only after you understand the wisdom in waiting.",
+            "hindi": "कुछ हम्द उस वक़्त आती है जब इंसान इंतज़ार की हिकमत समझ लेता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-54",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "القلب الشاكر يرى النجاة حيث يرى غيره الخسارة",
+            "english": "A grateful heart sees rescue where others see loss.",
+            "hindi": "शुक्रगुज़ार दिल वहाँ भी नजात देख लेता है जहाँ दूसरे सिर्फ नुकसान देखते हैं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-55",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "كل حمدٍ صادق يترك نورًا في الروح",
+            "english": "Every sincere Alhamdulillah leaves light in the soul.",
+            "hindi": "हर सच्चा अल्हम्दुलिल्लाह रूह में एक नूर छोड़ जाता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-56",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "أحيانًا تكون النعمة أن قلبك ما زال يعرف طريق الحمد",
+            "english": "Sometimes the blessing is simply having a heart that still knows how to say Alhamdulillah.",
+            "hindi": "कभी-कभी सबसे बड़ी नेमत यह होती है कि दिल अब भी अल्हम्दुलिल्लाह कहना जानता हो।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-57",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "من عاش بالحمد قلّ خوفه من فوات الدنيا",
+            "english": "A grateful heart fears missing out far less.",
+            "hindi": "जो दिल शुक्र के साथ जीता है, उसे दुनिया के छूट जाने का डर कम रहता है।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-58",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "الحمد يفتح عينك على ما كان موجودًا طوال الوقت",
+            "english": "Gratitude opens your eyes to blessings that were there all along.",
+            "hindi": "शुक्र इंसान की नज़र उन नेमतों पर खोल देता है जो हमेशा से उसके पास थीं।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-59",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "حين يمتلئ القلب شكرًا تصبح المقارنات أقل وجعًا",
+            "english": "Comparison loses its power when the heart is full of gratitude.",
+            "hindi": "जब दिल शुक्र से भर जाए, तो दूसरों से तुलना उतनी तकलीफ़ नहीं देती।"
+        },
+        "reference": ""
+    },
+    {
+        "id": "gratitude-60",
+        "category": "Shukr",
+        "text":
+        {
+            "arabic": "أجمل النعم قلبٌ لا ينسى صاحب النعمة",
+            "english": "One of the greatest blessings is a heart that never forgets the Giver.",
+            "hindi": "सबसे बड़ी नेमतों में से एक ऐसा दिल है जो नेमत देने वाले को कभी न भूले।"
+        },
+        "reference": ""
+    }
+]
