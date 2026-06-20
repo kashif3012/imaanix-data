@@ -1,7 +1,7 @@
 {
-  "updateId": "2026-05-18-v1",
-  "latestVersion": "2.0.2",
-  "minimumSupportedVersion": "2.0.2",
+  "updateId": "2026-06-20-v1",
+  "latestVersion": "2.0.18",
+  "minimumSupportedVersion": "2.0.18",
   "title": "Update Imaanix",
   "optionalMessage": "A newer version of Imaanix is available with fixes and improvements.",
   "forcedMessage": "An update is required to continue using Imaanix.",
